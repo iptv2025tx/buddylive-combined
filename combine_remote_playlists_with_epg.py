@@ -8,8 +8,7 @@ PLAYLISTS = [
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
     "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u",
-    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/PPVLand.m3u8",
-    "https://world-proxifier.xyz/streamed/playlist?timezone=et"
+    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/PPVLand.m3u8"
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
