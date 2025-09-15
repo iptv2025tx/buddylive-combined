@@ -74,8 +74,8 @@ def process_playlist(playlist_content, source_name, outfile):
         i += 1
     
     # Write the playlist header
-    outfile.write(f'#PLAYLIST:◻️ {source_name}\n')
-    outfile.write(f'#EXTGRP:◻️ {source_name}\n\n')
+    outfile.write(f'#PLAYLIST:x {source_name}\n')
+    outfile.write(f'#EXTGRP:x {source_name}\n\n')
     
     # Write groups and their channels
     for group, channels in groups.items():
