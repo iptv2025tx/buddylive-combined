@@ -14,7 +14,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz"
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # Output file
 OUTPUT_FILE = "combined_playlist.m3u"
