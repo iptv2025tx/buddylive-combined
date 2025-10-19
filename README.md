@@ -4,7 +4,7 @@ UPDATE: 10/19/25 NEW STREAMS ADDED. (StreamedSU.m3u8 AND buddylive_v1.m3u)
 
 ▶️ One big playlist.
 
-M3U: https://raw.githubusercontent.com/BuddyChewChew/biglist/refs/heads/main/combined_playlist.m3u
+M3U: https://raw.githubusercontent.com/BuddyChewChew/buddylive-combined/refs/heads/main/combined_playlist.m3u
 
 EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
