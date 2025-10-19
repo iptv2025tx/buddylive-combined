@@ -1,4 +1,4 @@
-## ⭐ ALL 3 PLAYLISTS
+## ⭐ PLAYLISTS
 
 UPDATE: 10/19/25 NEW STREAMS ADDED. (StreamedSU.m3u8 AND buddylive_v1.m3u)
 
