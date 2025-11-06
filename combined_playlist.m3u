@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2025-11-06T01:59:27.215531 UTC
+# Generated on 2025-11-06T03:19:41.897860 UTC
 
 #PLAYLIST:x Backup
 #EXTGRP:x Backup
@@ -7,16 +7,10 @@
 #GROUP:Local TV
 #EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
 https://jmp2.uk/stvp-CA2900005KG
-#EXTINF:-1 group-title="Local TV" tvg-id="WABC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WABC) NY
-http://fl30.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1  tvg-name="ABC (WFTS) FL" tvg-id="WFTS-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Local TV" radio="false",ABC (WFTS) FL
-http://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KTVO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KTVO) MO
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS (WCBS)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local TV", CBS (WCBS) NY
-http://fl7.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="WKRG-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KRCG) MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KSMO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KSMO)MO
@@ -37,8 +31,6 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 http://cord-cutter.net:8080/E7p7DU/011587/120775
 #EXTINF:-1 group-title="Local TV" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
 http://cord-cutter.net:8080/E7p7DU/011587/120750
-#EXTINF:-1 group-title="Local TV" tvg-id="WRBW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WRBW) FL
-http://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="WDAF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WDAF) MO
@@ -47,8 +39,6 @@ https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="WCAU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
 http://cord-cutter.net:8080/E7p7DU/011587/120776
-#EXTINF:-1 group-title="Local TV" tvg-id="WNBC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WNBC) NY
-http://fl7.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
