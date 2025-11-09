@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2025-11-09T21:20:04.393861 UTC
+# Generated on 2025-11-09T22:21:43.872615 UTC
 
 #PLAYLIST:x Backup
 #EXTGRP:x Backup
@@ -2487,6 +2487,12 @@ https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=147vJA3xcB0L2mKZLM
 
 #PLAYLIST:x PPVLand
 #EXTGRP:x PPVLand
+
+
+==================================================
+
+#PLAYLIST:x StreamedSU
+#EXTGRP:x StreamedSU
 
 
 ==================================================
