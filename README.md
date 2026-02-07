@@ -3,12 +3,10 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 
 ## ⭐ PLAYLISTS
 
-UPDATE: 
+UPDATE:
+2/6/26 7 Streams in Total
 
-2/6/26 ADDED MORE STREAMS
-2/2/26 NEW STREAMS ADDED.
-
-▶️ One big playlist with EPG included.
+▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
 
 M3U: https://raw.githubusercontent.com/iptv2025tx/Combined/refs/heads/main/combined_playlist.m3u
 
