@@ -5,13 +5,14 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/sinclair-stream.m3u8",      
-        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/moj.m3u8", 
-        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/turnerwbd.m3u8", 
-        "https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/TheTVApp.m3u8" ,
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/sinclair-stream.m3u8",      
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/moj.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
+        "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8" ,
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/alexandria-la-hdhr.m3u8",
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/bethlehem-pa-hdhr.m3u8",
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/chicago-il1-hdhr.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/chicago-il2-hdhr.m3u8", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8",
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
