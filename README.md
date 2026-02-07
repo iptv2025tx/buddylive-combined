@@ -3,7 +3,9 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 
 ## ⭐ PLAYLISTS
 
-UPDATE: 2/6/26 NEW STREAMS ADDED.
+UPDATE: 
+2/6/26 ADDED MORE STREAMS
+2/2/26 NEW STREAMS ADDED.
 
 ▶️ One big playlist with EPG included.
 
