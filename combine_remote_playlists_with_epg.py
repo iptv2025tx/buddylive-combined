@@ -17,6 +17,8 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/miami-wpb-fl-hdhr.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/pittsburgh-pa1-hdhr.m3u8", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8",
+        "https://raw.githubusercontent.com/iptv2025tx/IceCast-IPTV-M3u-Playlist/refs/heads/main/MERGED_LIVE.m3u", 
+        "https://raw.githubusercontent.com/iptv2025tx/IceCast-IPTV-M3u-Playlist/refs/heads/main/MERGED_VOD.m3u", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
