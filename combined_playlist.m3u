@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-12T02:30:18.921624 UTC
+# Generated on 2026-02-12T04:59:54.392513 UTC
 
 #PLAYLIST:x sinclair-stream
 #EXTGRP:x sinclair-stream
@@ -239,6 +239,8 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" group-title="Sports",FanDuel TV
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Midwest).us" tvg-name="FanDuel Sports Extra" group-title="Sports",FanDuel Sports Extra
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BALLY_SPORTS_MIDWEST/mpegts
 
@@ -353,7 +355,7 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="KBAK-DT.us_locals1" tvg-name="CA | Bakersfield | CBS" group-title="Z - 🚫 - OFFLINE",CA | Bakersfield | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_BAKERSFIELD_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" group-title="Z - 🚫 - OFFLINE",CA | Fresno | CBS
+#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" group-title="Local - CBS,CA | Fresno | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_FRESNO_CBS/index.m3u8
 #EXTINF:-1 tvg-id="KXTV-DT.us_locals1" tvg-name="CA | Sacramento | ABC" group-title="Z - 🚫 - OFFLINE",CA | Sacramento | ABC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8
@@ -365,8 +367,6 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KHON-DT.us_locals1" tvg-name="HI | Honolulu | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - 🚫 - OFFLINE",HI | Honolulu | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HI_HONOLULU_FOX/mpegts
-#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - 🚫 - OFFLINE",IA | Cedar Rapids | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WFFT-DT.us_locals1" tvg-name="IN | Fort Wayne | FOX" group-title="Z - 🚫 - OFFLINE",IN | Fort Wayne | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IN_Fort_Wayne_FOX/mpegts
 #EXTINF:-1 tvg-id="WSBT-DT.us_locals1" tvg-name="IN | South Bend | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - 🚫 - OFFLINE",IN | South Bend | CBS
@@ -393,10 +393,6 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" group-title="Z - 🚫 - OFFLINE",truTV
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel" group-title="Z - 🚫 - OFFLINE",Weather Channel
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" group-title="Z - 🚫 - OFFLINE",Willow Cricket
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #GROUP:Music
 #EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams (MOJ)" group-title="Music",BET Jams (MOJ)
@@ -433,6 +429,8 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC 1 (MOJ)" group-title="News & Shopping",QVC 1 (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel" group-title="News & Shopping",Weather Channel
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #GROUP:Local - ABC
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NY | ABC WABC (MOJ)" group-title="Local - ABC",NY | NY | ABC WABC (MOJ)
@@ -761,6 +759,10 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-id="WNLO-DT.us_locals1" tvg-name="NY | Buffalo | CW" group-title="Local - CW/MNT",NY | Buffalo | CW
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_BUFFALO_CW/mpegts
+
+#GROUP:Local -CBS
+#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local -CBS",IA | Cedar Rapids | CBS
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
 
 
 ==================================================
