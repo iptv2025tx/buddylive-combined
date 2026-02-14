@@ -1,21 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-14T19:26:26.961925 UTC
-
-#PLAYLIST:x sinclair
-#EXTGRP:x sinclair
-
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar (D)" group-title="Entertainment",Roar (D)
-https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (D)" group-title="Entertainment",Charge (D)
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV (D)" group-title="Entertainment",Comet (D)
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest (D)" group-title="Entertainment",The Nest (D)
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-
-
-==================================================
+# Generated on 2026-02-14T20:29:45.090865 UTC
 
 #PLAYLIST:x moj
 #EXTGRP:x moj
@@ -763,96 +747,6 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 #GROUP:Local -CBS
 #EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local -CBS",IA | Cedar Rapids | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
-
-
-==================================================
-
-#PLAYLIST:x turnerwbd
-#EXTGRP:x turnerwbd
-
-#GROUP:Entertainment
-#EXTINF:-1 tvgid="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim East 720p (D)" group-title="Entertainment",Adult Swim East 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim East 360p (D)" group-title="Entertainment",Adult Swim East 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West 780p (D)" group-title="Entertainment",Adult Swim West 780p (D) 
-https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West 360p (D)" group-title="Entertainment",Adult Swim West 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 720p (D)" group-title="Entertainment",TBS East 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 480p (D)" group-title="Entertainment",TBS East 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 360p (D)" group-title="Entertainment",TBS East 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 720p (D)" group-title="Entertainment",TBS West 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 480p (D)" group-title="Entertainment",TBS West 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 360p (D)" group-title="Entertainment",TBS West 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 720p (D)" group-title="Entertainment",TNT East 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 480p (D)" group-title="Entertainment",TNT East 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 360p (D)" group-title="Entertainment",TNT East 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 720p (D)" group-title="Entertainment",TNT West 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 480p (D)" group-title="Entertainment",TNT West 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 360p (D)" group-title="Entertainment",TNT West 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 720p (D)" group-title="Entertainment",truTV East 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 480p (D)" group-title="Entertainment",truTV East 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 360p (D)" group-title="Entertainment",truTV East 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 720p (D)" group-title="Entertainment",truTV West 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 480p (D)" group-title="Entertainment",truTV West 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 360p (D)" group-title="Entertainment",truTV West 360p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_3_1464000.m3u8
-
-#GROUP:News
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 720p (D)" group-title="News",CNN 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 480p (D)" group-title="News",CNN 480p (D)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-
-#GROUP:Movies
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM 720p (D)" group-title="Movies",TCM 720p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM 432p (D)" group-title="Movies",TCM 432p (D)
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
-
-
-==================================================
-
-#PLAYLIST:x estrella
-#EXTGRP:x estrella
-
-#GROUP:Spanish
-#EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV FHD1" group-title="Spanish",Estrella TV FHD1
-https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV FHD2" group-title="Spanish",Estrella TV FHD2
-https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/ts-us-w2-n2/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Español" group-title="Spanish",Curiousity Stream Español
-https://amg00567-amg00567c7-estrellamedia-us-5161.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiosityespanol-estrellamediaus/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News FHD1" group-title="Spanish",Estrella News FHD1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News FHD2" group-title="Spanish",Estrella News FHD2
-https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Estrella.Games.plex" tvg-name="Estrella Games FHD1" group-title="Spanish",Estrella Games FHD1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Estrella.Games.plex" tvg-name="Estrella Games FHD2" group-title="Spanish",Estrella Games FHD2
-https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Motores" group-title="Spanish",Curiousity Stream Motores
-https://amg00567-amg00567c8-estrellamedia-us-5162.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiositymotores-estrellamediaus/playlist.m3u8
-#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Animales1" group-title="Spanish",Curiousity Stream Animales1
-https://amg00567-amg00567c7-estrellamedia-us-5161.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiosityespanol-estrellamediaus/playlist.m3u8
 
 
 ==================================================
