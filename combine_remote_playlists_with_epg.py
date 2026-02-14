@@ -5,10 +5,10 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/sinclair-stream.m3u8",      
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/sinclair.m3u8",      
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella-direct.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/apsattv/distro-w-epg.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/alexandria-la-hdhr.m3u8",
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/bethlehem-pa-hdhr.m3u8",
