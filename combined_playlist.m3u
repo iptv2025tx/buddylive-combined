@@ -1,21 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-14T04:42:47.260424 UTC
-
-#PLAYLIST:x sinclair-stream
-#EXTGRP:x sinclair-stream
-
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar (D)" group-title="Entertainment",Roar (D)
-https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (D)" group-title="Entertainment",Charge (D)
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV (D)" group-title="Entertainment",Comet (D)
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest (D)" group-title="Entertainment",The Nest (D)
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-
-
-==================================================
+# Generated on 2026-02-14T05:46:47.659843 UTC
 
 #PLAYLIST:x moj
 #EXTGRP:x moj
