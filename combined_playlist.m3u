@@ -1,332 +1,268 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-16T05:01:10.109713 UTC
+# Generated on 2026-02-16T07:06:23.891232 UTC
 
 #PLAYLIST:x moj
 #EXTGRP:x moj
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East (MOJ)" group-title="Entertainment",A&E East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ANE/index.m3u8
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes (MOJ)" tvg-logo="" group-title="Entertainment",American Heroes (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (MOJ)" tvg-logo="" group-title="Entertainment",Animal Planet (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (MOJ)" group-title="Entertainment",Antenna TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
-#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire (MOJ)" group-title="Entertainment",Aspire (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV (MOJ)" group-title="Entertainment",AXS TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Axs_TV/index.m3u8
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (MOJ)" group-title="Entertainment",BBC America (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (MOJ)" group-title="Entertainment",BET Her (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang USA (MOJ)" group-title="Entertainment",Boomerang USA (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV (MOJ)" group-title="Entertainment",Bounce TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo East (MOJ)" group-title="Entertainment",Bravo East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="BUZZR.us2" tvg-name="BUZZR (MOJ) " group-title="Entertainment",BUZZR (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network USA (MOJ)" group-title="Entertainment",Cartoon Network USA (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV (MOJ)" group-title="Entertainment",Cleo TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT East (MOJ)" group-title="Entertainment",CMT East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central East (MOJ)" group-title="Entertainment",Comedy Central East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="COMEDY.tv (MOJ)" tvg-logo="" group-title="Entertainment",COMEDY.tv (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
-#EXTINF:-1 tvg-id="Comet.TV.us2" tvg-name="Comet TV (MOJ)" group-title="Entertainment",Comet TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel (MOJ)" group-title="Entertainment",Cooking Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV (MOJ)" group-title="Entertainment",Cozi TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation" group-title="Entertainment",Crime & Investigation
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 tvg-id="CTV.Nature.ca2" tvg-name="CTV Nature (MOJ)" group-title="Entertainment",CTV Nature (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America (MOJ)" group-title="Entertainment",Destination America (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery East" group-title="Entertainment",Discovery East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family (MOJ)" group-title="Entertainment",Discovery Family (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life (MOJ)" group-title="Entertainment",Discovery Life (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (MOJ)" group-title="Entertainment",Disney Junior (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network East (MOJ)" group-title="Entertainment",Food Network East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="plex.tv.FOX.SOUL.plex" tvg-name="FOX Soul (MOJ)" group-title="Entertainment",FOX Soul (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (MOJ)" group-title="Entertainment",Freeform (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse (MOJ)" group-title="Entertainment",Fuse (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (MOJ)" group-title="Entertainment",FX (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXX.Canada.ca2" tvg-name="FXX Canada (MOJ)" group-title="Entertainment",FXX Canada (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (MOJ)" group-title="Entertainment",FYI (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Get (MOJ)" group-title="Entertainment",GET (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family (MOJ)" group-title="Entertainment",Great American Family (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV (MOJ)" group-title="Entertainment",Grit TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel (MOJ)" group-title="Entertainment",Hallmark Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family (MOJ)" group-title="Entertainment",Hallmark Family (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery (MOJ)" group-title="Entertainment",Hallmark Mystery (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (MOJ)" group-title="Entertainment",HGTV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (MOJ)" group-title="Entertainment",History Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN (MOJ)" group-title="Entertainment",HLN (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (MOJ)" group-title="Entertainment",INSP (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (MOJ)" group-title="Entertainment",Investigation Discovery (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (MOJ)" group-title="Entertainment",ION Television (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (MOJ2)" group-title="Entertainment",ION Television (MOJ2)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (MOJ)" group-title="Entertainment",Lifetime (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network (MOJ)" group-title="Entertainment",Lifetime Movie Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (MOJ)" group-title="Entertainment",Magnolia Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV (MOJ) " group-title="Entertainment",meTV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History (MOJ)" group-title="Entertainment",Military History (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Military_History/index.m3u8
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV (MOJ)" group-title="Entertainment",MTV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 (MOJ)" group-title="Entertainment",MTV 2 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="MuchMusic.Network.ca2" tvg-name="Much (MOJ)" group-title="Entertainment",Much (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="NatGeo (MOJ)" group-title="Entertainment",NatGeo (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild (MOJ)" group-title="Entertainment",NatGeo Wild (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (MOJ)" group-title="Entertainment",Nick Jr. (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (MOJ)" group-title="Entertainment",Nickelodeon (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nick Toons (MOJ)" group-title="Entertainment",Nick Toons (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Ovation.HD.us2" tvg-name="Ovation (MOJ)" group-title="Entertainment",Ovation (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network (MOJ)" group-title="Entertainment",Oprah Winfrey Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (MOJ)" group-title="Entertainment",Oxygen True Crime (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (MOJ)" group-title="Entertainment",Paramount Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ Channel (MOJ)" group-title="Entertainment",REELZ Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel (MOJ)" group-title="Entertainment",Smithsonian Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="Sundance TV (MOJ)" group-title="Entertainment",Sundance TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SYFY East (MOJ)" group-title="Entertainment",SYFY East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East (MOJ)" group-title="Entertainment",TBS East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel (MOJ)" group-title="Entertainment",The Cowboy Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (MOJ)" group-title="Entertainment",TLC (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land (MOJ)" group-title="Entertainment",TV Land (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_LAND/index.m3u8
-#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One (MOJ)" group-title="Entertainment",TV One (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="Women's Ent. East (MOJ)" group-title="Entertainment",Women's Ent. East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel East" group-title="Entertainment",Disney Channel East
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" group-title="Entertainment",Disney XD
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" group-title="Entertainment",E! Entertainment
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="Pop" group-title="Entertainment",Pop
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Pop_TV/index.m3u8
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH-1" group-title="Entertainment",VH-1
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV" group-title="Entertainment",Vice TV
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network" group-title="Entertainment",W Network
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" group-title="Entertainment",Discovery Science
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="Travel Channel" group-title="Entertainment",Travel Channel 
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Travel_Channel/mpegts
-#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UpTV" group-title="Entertainment",UpTV
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Up_Tv/mpegts
-
-#GROUP:Sports
-#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ESPN ACC Network (MOJ)" group-title="Sports",ESPN ACC Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="BIG TEN Network (MOJ)" group-title="Sports",BIG TEN Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network (MOJ)" group-title="Sports",CBS Sports Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 (MOJ)" group-title="Sports",ESPN 2 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News (MOJ)" tvg-logo=" " group-title="Sports",ESPN News (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV (MOJ)" group-title="Sports",FanDuel TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 (MOJ)" group-title="Sports",FOX Sports 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel (MOJ)" group-title="Sports",Golf Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network (MOJ)" group-title="Sports",MLB Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Disc.Turbo.uk" tvg-name="Discovery Turbo (MOJ)" group-title="Sports",Discovery Turbo (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG (MOJ)" group-title="Sports",MSG (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV (MOJ)" group-title="Sports",NBA TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel (MOJ)" group-title="Sports",Outdoor Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Outside.Television.HD.us2" tvg-name="Outside TV (MOJ)" group-title="Sports",Outside TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="ESPN SEC Network (MOJ)" group-title="Sports",ESPN SEC Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel (MOJ)" group-title="Sports",Sportsman Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="Sportsnet NY (MOJ)" group-title="Sports",Sportsnet NY (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium (MOJ)" group-title="Sports",Stadium (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel (MOJ)" group-title="Sports",Tennis Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network (MOJ)" group-title="Sports",World Fishing Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="Yes Network (MOJ)" group-title="Sports",Yes Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network (MOJ)" group-title="Sports",Marquee Sports Network (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" group-title="Sports",ESPNU
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" group-title="Sports",FanDuel TV
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Midwest).us" tvg-name="FanDuel Sports Extra" group-title="Sports",FanDuel Sports Extra
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BALLY_SPORTS_MIDWEST/mpegts
-
-#GROUP:Movies
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (MOJ)" tvg-logo="" group-title="Movies",AMC (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax East (MOJ)" tvg-logo="" group-title="Movies",Cinemax East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Crave1.ca2" tvg-name="Crave 1 (MOJ) " tvg-logo="" group-title="Movies",Crave 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2 HD (MOJ) " tvg-logo="" group-title="Movies",Crave 2 HD (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel (MOJ)" tvg-logo="" group-title="Movies",FX Movie Channel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East (MOJ)" tvg-logo="" group-title="Movies",HBO East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy (MOJ)" group-title="Movies",HBO Comedy (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (MOJ)" group-title="Movies",HBO Hits (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies (MOJ)" group-title="Movies",HBO Movies (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Movies",MGM+ (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-in (MOJ)" tvg-logo="" group-title="Movies",MGM+ Drive-in (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits (MOJ)" tvg-logo="" group-title="Movies",MGM+ Hits (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee (MOJ)" tvg-logo="" group-title="Movies",MGM+ Marquee (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies",Showtime East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime West (MOJ)" group-title="Movies",Showtime West (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme West (MOJ)" group-title="Movies",Showtime Extreme West (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-next-us.png" group-title="Movies",Showtime Next (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="Movies",Showtime Women (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-name="Sony Channel MX (MOJ)" group-title="Movies",Sony Channel MX (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-us.png" group-title="Movies",Starz East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz West (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-us.png" group-title="Movies",Starz West (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Movies",Starz Comedy (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-name="Starz Edge West (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge West (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Starz_Encore/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (MOJ)" group-title="Movies",Starz Encore Action (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic (MOJ)" group-title="Movies",Starz Encore Classic (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns (MOJ)" group-title="Movies",Starz Encore Westerns (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (MOJ)" group-title="Movies",Turner Classic Movies (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" group-title="Movies",HBO Hits
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
-
 #GROUP:Z - 🚫 - OFFLINE
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East (MOJ)" group-title="Z - 🚫 - OFFLINE",A&E East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ANE/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ESPN ACC Network (MOJ)" group-title="Z - 🚫 - OFFLINE",ESPN ACC Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/american-heroes-channel-us.png" group-title="Z - 🚫 - OFFLINE",American Heroes (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Antenna TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire (MOJ)" group-title="Z - 🚫 - OFFLINE",Aspire (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV (MOJ)" group-title="Z - 🚫 - OFFLINE",AXS TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (MOJ)" group-title="Z - 🚫 - OFFLINE",BBC America (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News (MOJ)" group-title="Z - 🚫 - OFFLINE",BBC World News (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com /BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA (MOJ)" group-title="Z - 🚫 - OFFLINE",beIN Sports USA (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET East (MOJ)" group-title="Z - 🚫 - OFFLINE",BET East (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (MOJ)" group-title="Z - 🚫 - OFFLINE",BET Her (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams (MOJ)" group-title="Z - 🚫 - OFFLINE",BET Jams (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="BIG TEN Network (MOJ)" group-title="Z - 🚫 - OFFLINE",BIG TEN Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV USA (MOJ)" group-title="Z - 🚫 - OFFLINE",Bloomberg TV USA (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang USA (MOJ)" group-title="Z - 🚫 - OFFLINE",Boomerang USA (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Bounce TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="BUZZR.us2" tvg-name="BUZZR (MOJ) " group-title="Z - 🚫 - OFFLINE",BUZZR (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN 1 (MOJ)" group-title="Z - 🚫 - OFFLINE",C-SPAN 1 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network USA (MOJ)" group-title="Z - 🚫 - OFFLINE",Cartoon Network USA (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.CBS.News.plex" tvg-name="CBS News (MOJ)" group-title="Z - 🚫 - OFFLINE",CBS News (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network (MOJ)" group-title="Z - 🚫 - OFFLINE",CBS Sports Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Cleo TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT East (MOJ)" group-title="Z - 🚫 - OFFLINE",CMT East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC (MOJ)" group-title="Z - 🚫 - OFFLINE",CNBC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World (MOJ)" group-title="Z - 🚫 - OFFLINE",CNBC World (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International (MOJ)" group-title="Z - 🚫 - OFFLINE",CNN International (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="COMEDY.tv (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/comedy-tv-us.png" group-title="Z - 🚫 - OFFLINE",COMEDY.tv (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="Comet.TV.us2" tvg-name="Comet TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Comet TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",Cooking Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Court TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Cozi TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-name="Crave 1 (MOJ) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-1-ca.png" group-title="Z - 🚫 - OFFLINE",Crave 1 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2 SD (MOJ)" group-title="Z - 🚫 - OFFLINE",Crave 2 SD (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2 HD (MOJ) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-3-ca.png" group-title="Z - 🚫 - OFFLINE",Crave 2 HD (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave 4 (MOJ)" group-title="Z - 🚫 - OFFLINE",Crave 4 (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 1 (MOJ)" tvg-name="ESPN.HD.us2" group-title="Z - 🚫 - OFFLINE",ESPN 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News HD (MOJ)" group-title="Z - 🚫 - OFFLINE",FOX News HD (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CTV.Nature.ca2" tvg-name="CTV Nature (MOJ)" group-title="Z - 🚫 - OFFLINE",CTV Nature (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America (MOJ)" group-title="Z - 🚫 - OFFLINE",Destination America (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family (MOJ)" group-title="Z - 🚫 - OFFLINE",Discovery Family (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life (MOJ)" group-title="Z - 🚫 - OFFLINE",Discovery Life (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (MOJ)" group-title="Z - 🚫 - OFFLINE",Disney Junior (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News (MOJ)" tvg-logo=" " group-title="Z - 🚫 - OFFLINE",ESPN News (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV (MOJ)" group-title="Z - 🚫 - OFFLINE",FanDuel TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network East (MOJ)" group-title="Z - 🚫 - OFFLINE",Food Network East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business (MOJ)" group-title="Z - 🚫 - OFFLINE",FOX Business (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.FOX.SOUL.plex" tvg-name="FOX Soul (MOJ)" group-title="Z - 🚫 - OFFLINE",FOX Soul (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 (MOJ)" group-title="Z - 🚫 - OFFLINE",FOX Sports 2 (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (MOJ)" group-title="Z - 🚫 - OFFLINE",MS NOW (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (MOJ)" group-title="Z - 🚫 - OFFLINE",Freeform (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse (MOJ)" group-title="Z - 🚫 - OFFLINE",Fuse (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (MOJ)" group-title="Z - 🚫 - OFFLINE",FX (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fxm-movie-channel-us.png" group-title="Z - 🚫 - OFFLINE",FX Movie Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.Canada.ca2" tvg-name="FXX Canada (MOJ)" group-title="Z - 🚫 - OFFLINE",FXX Canada (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (MOJ)" group-title="Z - 🚫 - OFFLINE",FYI (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Get (MOJ)" group-title="Z - 🚫 - OFFLINE",GET (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",Golf Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family (MOJ)" group-title="Z - 🚫 - OFFLINE",Great American Family (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Grit TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family (MOJ)" group-title="Z - 🚫 - OFFLINE",Hallmark Family (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery (MOJ)" group-title="Z - 🚫 - OFFLINE",Hallmark Mystery (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/hbo-us.png" group-title="Z - 🚫 - OFFLINE",HBO East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy (MOJ)" group-title="Z - 🚫 - OFFLINE",HBO Comedy (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (MOJ)" group-title="Z - 🚫 - OFFLINE",HBO Hits (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies (MOJ)" group-title="Z - 🚫 - OFFLINE",HBO Movies (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (MOJ)" group-title="Z - 🚫 - OFFLINE",HGTV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN (MOJ)" group-title="Z - 🚫 - OFFLINE",HLN (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN 1 (MOJ)" group-title="Z - 🚫 - OFFLINE",HSN 1 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (MOJ)" group-title="Z - 🚫 - OFFLINE",INSP (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (MOJ)" group-title="Z - 🚫 - OFFLINE",Investigation Discovery (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (MOJ2)" group-title="Z - 🚫 - OFFLINE",ION Television (MOJ2)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (MOJ)" group-title="Z - 🚫 - OFFLINE",Lifetime (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network (MOJ)" group-title="Z - 🚫 - OFFLINE",Lifetime Movie Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (MOJ)" group-title="Z - 🚫 - OFFLINE",Magnolia Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Gospel (MOJ)" group-title="Z - 🚫 - OFFLINE",MC: Gospel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV (MOJ) " group-title="Z - 🚫 - OFFLINE",meTV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Z - 🚫 - OFFLINE",MGM+ (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-in (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-drive-in-us.png" group-title="Z - 🚫 - OFFLINE",MGM+ Drive-in (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-hits-us.png" group-title="Z - 🚫 - OFFLINE",MGM+ Hits (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-marquee-us.png" group-title="Z - 🚫 - OFFLINE",MGM+ Marquee (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History (MOJ)" group-title="Z - 🚫 - OFFLINE",Military History (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network (MOJ)" group-title="Z - 🚫 - OFFLINE",MLB Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Disc.Turbo.uk" tvg-name="Discovery Turbo (MOJ)" group-title="Z - 🚫 - OFFLINE",Discovery Turbo (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG (MOJ)" group-title="Z - 🚫 - OFFLINE",MSG (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV (MOJ)" group-title="Z - 🚫 - OFFLINE",MTV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (MOJ)" group-title="Z - 🚫 - OFFLINE",MTV Classic (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live (MOJ)" group-title="Z - 🚫 - OFFLINE",MTV Live (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 (MOJ)" group-title="Z - 🚫 - OFFLINE",MTV 2 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MuchMusic.Network.ca2" tvg-name="Much (MOJ)" group-title="Z - 🚫 - OFFLINE",Much (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="NatGeo (MOJ)" group-title="Z - 🚫 - OFFLINE",NatGeo (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild (MOJ)" group-title="Z - 🚫 - OFFLINE",NatGeo Wild (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV (MOJ)" group-title="Z - 🚫 - OFFLINE",NBA TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation (MOJ)" group-title="Z - 🚫 - OFFLINE",NewsNation (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network (MOJ)" group-title="Z - 🚫 - OFFLINE",NFL Network (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Z - 🚫 - OFFLINE",NFL RedZone (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network (MOJ)" tvg-logo="" group-title="Z - 🚫 - OFFLINE",NHL Network (MOJ)
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="Z - 🚫 - OFFLINE",NHL Network (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (MOJ)" group-title="Z - 🚫 - OFFLINE",Nick Jr. (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (MOJ)" group-title="Z - 🚫 - OFFLINE",Nickelodeon (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nick Toons (MOJ)" group-title="Z - 🚫 - OFFLINE",Nick Toons (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NY | ABC WABC (MOJ)" group-title="Z - 🚫 - OFFLINE",NY | NY | ABC WABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="NY | NY | CBS WCBS (MOJ)" group-title="Z - 🚫 - OFFLINE",NY | NY | CBS WCBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NY | NY | NBC WNBC (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - 🚫 - OFFLINE",NY | NY | NBC WNBC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
+#EXTINF:-1 tvg-id="Outside.Television.HD.us2" tvg-name="Outside TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Outside TV (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.HD.us2" tvg-name="Ovation (MOJ)" group-title="Z - 🚫 - OFFLINE",Ovation (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (MOJ)" group-title="Z - 🚫 - OFFLINE",Oxygen True Crime (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="Pursuit.Channel.us2" tvg-name="Pursuit Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",Pursuit Channel (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC 1 (MOJ)" group-title="Z - 🚫 - OFFLINE",QVC 1 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/QVC/index.m3u8
 #EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="Racer Network (MOJ)" group-title="Z - 🚫 - OFFLINE",Racer Network (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",REELZ Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt (MOJ)" group-title="Z - 🚫 - OFFLINE",Revolt (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="ESPN SEC Network (MOJ)" group-title="Z - 🚫 - OFFLINE",ESPN SEC Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-us.png" group-title="Z - 🚫 - OFFLINE",Showtime East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime West (MOJ)" group-title="Z - 🚫 - OFFLINE",Showtime West (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Z - 🚫 - OFFLINE",Showtime 2 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme West (MOJ)" group-title="Z - 🚫 - OFFLINE",Showtime Extreme West (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-next-us.png" group-title="Z - 🚫 - OFFLINE",Showtime Next (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="Z - 🚫 - OFFLINE",Showtime Women (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",Smithsonian Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sony Channel MX (MOJ)" group-title="Z - 🚫 - OFFLINE",Sony Channel MX (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",Sportsman Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="Sportsnet NY (MOJ)" group-title="Z - 🚫 - OFFLINE",Sportsnet NY (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium (MOJ)" group-title="Z - 🚫 - OFFLINE",Stadium (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV (MOJ)" group-title="Z - 🚫 - OFFLINE",Start TV (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East (MOJ)" group-title="Z - 🚫 - OFFLINE",TNT East (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz West (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-us.png" group-title="Z - 🚫 - OFFLINE",Starz West (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Z - 🚫 - OFFLINE",Starz Comedy (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="Starz Edge West (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Z - 🚫 - OFFLINE",Starz Edge West (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Z - 🚫 - OFFLINE",Starz Encore (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (MOJ)" group-title="Z - 🚫 - OFFLINE",Starz Encore Action (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic (MOJ)" group-title="Z - 🚫 - OFFLINE",Starz Encore Classic (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns (MOJ)" group-title="Z - 🚫 - OFFLINE",Starz Encore Westerns (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel (MOJ)" group-title="Z - 🚫 - OFFLINE",The Cowboy Channel (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (MOJ)" group-title="Z - 🚫 - OFFLINE",TLC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-1-hd-ca.png" group-title="Z - 🚫 - OFFLINE",TSN 1 (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN.2ca2" tvg-name="TSN 2 (MOJ)" group-title="Z - 🚫 - OFFLINE",TSN 2 (MOJ)
@@ -337,34 +273,70 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN 5 (MOJ)" group-title="Z - 🚫 - OFFLINE",TSN 5 (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (MOJ)" group-title="Z - 🚫 - OFFLINE",Turner Classic Movies (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land (MOJ)" group-title="Z - 🚫 - OFFLINE",TV Land (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One (MOJ)" group-title="Z - 🚫 - OFFLINE",TV One (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="Women's Ent. East (MOJ)" group-title="Z - 🚫 - OFFLINE",Women's Ent. East (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network (MOJ)" group-title="Z - 🚫 - OFFLINE",World Fishing Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="Yes Network (MOJ)" group-title="Z - 🚫 - OFFLINE",Yes Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WDHN-DT.us_locals1" tvg-name="AL | Dothan | ABC" group-title="Z - 🚫 - OFFLINE",AL | Dothan | ABC
+http://fl1.moveonjoy.com/AL_DOTHAN_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KBAK-DT.us_locals1" tvg-name="CA | Bakersfield | CBS" group-title="Z - 🚫 - OFFLINE",CA | Bakersfield | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_BAKERSFIELD_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" group-title="Local - CBS,CA | Fresno | CBS
+#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" group-title="Z - 🚫 - OFFLINE",CA | Fresno | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_FRESNO_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="CA | Los Angeles | ABC" group-title="Z - 🚫 - OFFLINE",CA | Los Angeles | ABC
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KXTV-DT.us_locals1" tvg-name="CA | Sacramento | ABC" group-title="Z - 🚫 - OFFLINE",CA | Sacramento | ABC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KTXL-DT.us_locals1" tvg-name="CA | Sacramento | FOX" group-title="Z - 🚫 - OFFLINE",CA | Sacramento | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SACRAMENTO_FOX/index.m3u8
 #EXTINF:-1 tvg-id="KCRA-DT.us_locals1" tvg-name="CA | Sacramento | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - 🚫 - OFFLINE",CA | Sacramento | NBC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SACRAMENTO_NBC/index.m3u8
+#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" tvg-name="CA | San Diego | ABC" group-title="Z - 🚫 - OFFLINE",CA | San Diego | ABC
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SAN_DIEGO_ABC/mpegts
 #EXTINF:-1 tvg-id="WJLA-DT.us_locals1" tvg-name="DC | Washington | ABC" group-title="Z - 🚫 - OFFLINE",DC | Washington | ABC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC" group-title="Z - 🚫 - OFFLINE",FL | Tampa | ABC
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KHON-DT.us_locals1" tvg-name="HI | Honolulu | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - 🚫 - OFFLINE",HI | Honolulu | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HI_HONOLULU_FOX/mpegts
+#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - 🚫 - OFFLINE",IA | Cedar Rapids | CBS
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",IL | Chicago | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WFFT-DT.us_locals1" tvg-name="IN | Fort Wayne | FOX" group-title="Z - 🚫 - OFFLINE",IN | Fort Wayne | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IN_Fort_Wayne_FOX/mpegts
 #EXTINF:-1 tvg-id="WSBT-DT.us_locals1" tvg-name="IN | South Bend | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - 🚫 - OFFLINE",IN | South Bend | CBS
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IN_SOUTH_BEND_CBS/mpegts
+#EXTINF:-1 tvg-id="WKBW-DT.us_locals1" tvg-name="NY | Buffalo | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",NY | Buffalo | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NY_BUFFALO_ABC/mpegts
 #EXTINF:-1 tvg-id="KTUL-DT.us_locals1" tvg-name="OK | Tulsa | ABC" group-title="Z - 🚫 - OFFLINE",OK | Tulsa | ABC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OK_TULSA_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KATU-DT.us_locals1" tvg-name="OR | Portland | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",OR | Portland | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/OR_PORTLAND_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",PA | Pittsburgh | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/PA_PITTSBURGH_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="TX | Austin | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",TX | Austin | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WFAA-DT.us_locals1" tvg-name="TX | Dallas | ABC (MOJ)" group-title="Z - 🚫 - OFFLINE",TX | Dallas | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_DALLAS_ABC/index.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network (MOJ)" group-title="Z - 🚫 - OFFLINE",Marquee Sports Network (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="BET Soul (MOJ)" group-title="Z - 🚫 - OFFLINE",BET Soul (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="CHBL TV Global " group-title="Z - 🚫 - OFFLINE",CHBL TV Global
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream.us2" tvg-name="Curiousity Stream" group-title="Z - 🚫 - OFFLINE",Curiousity Stream
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" group-title="Z - 🚫 - OFFLINE",Teen Nick
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network " group-title="Z - 🚫 - OFFLINE",USA Network
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" group-title="Z - 🚫 - OFFLINE",Fox Soccer Plus
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff" group-title="Z - 🚫 - OFFLINE",Laff
@@ -377,198 +349,102 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" group-title="Z - 🚫 - OFFLINE",truTV
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" group-title="Z - 🚫 - OFFLINE",Willow Cricket
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
-#GROUP:Music
-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams (MOJ)" group-title="Music",BET Jams (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Gospel (MOJ)" group-title="Music",MC: Gospel (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (MOJ)" group-title="Music",MTV Classic (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live (MOJ)" group-title="Music",MTV Live (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt (MOJ)" group-title="Music",Revolt (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 tvg-name="BET Soul (MOJ)" group-title="Music",BET Soul (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#GROUP:Movies
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (NC)" group-title="Movies",AMC (NC)
+http://104.255.88.155/amc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax East (NC)" group-title="Movies",Cinemax East (NC)
+http://104.255.88.155/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz East (NC)" group-title="Movies",Starz East (NC)
+http://104.255.88.155/starz/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (MOJ)" group-title="Movies",HBO Hits (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="The Movie Channel (NC)" group-title="Movies",The Movie Channel (NC) EPG
+http://104.255.88.155/tmc/playlist.m3u8
+
+#GROUP:Entertainment
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (NC)" group-title="Entertainment",Animal Planet (NC)
+http://104.255.88.155/animalplanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo East (NC)" group-title="Entertainment",Bravo East (NC)
+http://104.255.88.155/bravo/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central East (NC)" group-title="Entertainment",Comedy Central East (NC)
+http://104.255.88.155/comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation" group-title="Entertainment",Crime & Investigation
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery East (NC)" group-title="Entertainment",Discovery East (NC)
+http://104.255.88.155/discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel (NC)" group-title="Entertainment",Hallmark Channel (NC)
+http://104.255.88.155/hallmark/playlist.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (NC)" group-title="Entertainment",History Channel (NC)
+http://104.255.88.155/history/playlist.m3u8
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (NC)" group-title="Entertainment",ION Television (NC)
+http://104.255.88.155/ion/index.m3u8
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (NC)" group-title="Entertainment",OWN (NC)
+http://104.255.88.155/own/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (NC)" group-title="Entertainment",Paramount Network (NC)
+http://104.255.88.155/paramount/playlist.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="Sundance TV (NC)" group-title="Entertainment",Sundance TV (NC)
+http://104.255.88.155/sundance/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SYFY East (NC)" group-title="Entertainment",SYFY East (NC)
+http://104.255.88.155/syfy/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East (NC)" group-title="Entertainment",TBS East (NC)
+http://104.255.88.155/tbs/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East (NC)" group-title="Entertainment",TNT East (NC)
+http://104.255.88.155/tnt/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel East (NC)" group-title="Entertainment",Disney Channel East (NC)
+http://104.255.88.155/disney/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" group-title="Entertainment",Disney XD
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" group-title="Entertainment",E! Entertainment
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="Pop" group-title="Entertainment",Pop
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (NC)" group-title="Entertainment",USA Network (NC)
+http://104.255.88.155/usa/playlist.m3u8
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH-1" group-title="Entertainment",VH-1
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV" group-title="Entertainment",Vice TV
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network" group-title="Entertainment",W Network
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" group-title="Entertainment",Discovery Science
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-name="IFC (NC) " group-title="Entertainment",IFC (NC) EPG
+http://104.255.88.155/ifc/playlist.m3u8
+#EXTINF:-1 tvg-name="RFD-TV (NC)" group-title="Entertainment",RFD-TV (NC) EPG
+http://104.255.88.155/rfd/playlist.m3u8
 
 #GROUP:News & Shopping
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV USA (MOJ)" group-title="News & Shopping",Bloomberg TV USA (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN 1 (MOJ)" group-title="News & Shopping",C-SPAN 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC (MOJ)" group-title="News & Shopping",CNBC (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World (MOJ)" group-title="News & Shopping",CNBC World (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (MOJ)" group-title="News & Shopping",CNN (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV (MOJ)" group-title="News & Shopping",Court TV (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business (MOJ)" group-title="News & Shopping",FOX Business (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN 1 (MOJ)" group-title="News & Shopping",HSN 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation (MOJ)" group-title="News & Shopping",NewsNation (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC 1 (MOJ)" group-title="News & Shopping",QVC 1 (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel" group-title="News & Shopping",Weather Channel
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (NC)" group-title="News & Shopping",CNN (NC)
+http://104.255.88.155/cnn/playlist.m3u8
 
-#GROUP:Local - ABC
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NY | ABC WABC (MOJ)" group-title="Local - ABC",NY | NY | ABC WABC (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WBMA-LD.us_locals1" tvg-name="AL | Birmingham | ABC" group-title="Local - ABC",AL | Birmingham | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WDHN-DT.us_locals1" tvg-name="AL | Dothan | ABC" group-title="Local - ABC",AL | Dothan | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_DOTHAN_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WEAR-DT.us_locals1" tvg-name="AL | Mobile | ABC" group-title="Local - ABC",AL | Mobile | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_MOBILE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" tvg-name="AZ | Phoenix | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",AZ | Phoenix | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="CA | Los Angeles | ABC" group-title="Local - ABC",CA | Los Angeles | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" tvg-name="CA | San Diego | ABC" group-title="Local - ABC",CA | San Diego | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SAN_DIEGO_ABC/mpegts
-#EXTINF:-1 tvg-id="WCJB-DT.us_locals1" tvg-name="FL | Gainesville | ABC" group-title="Local - ABC",FL | Gainesville | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WJXX-DT.us_locals1" tvg-name="FL | Jacksonsville | ABC" group-title="Local - ABC",FL | Jacksonsville | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_JACKSONVILLE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WSVN-DT2.us_locals1" tvg-name="FL | Miami | ABC" group-title="Local - ABC",FL | Miami | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" tvg-name="FL | Orlando | ABC" group-title="Local - ABC",FL | Orlando | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_ORLANDO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WTXL-DT.us_locals1" tvg-name="FL | Tallahassee | ABC" group-title="Local - ABC",FL | Tallahassee | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_Tallahassee_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC" group-title="Local - ABC",FL | Tampa | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC" group-title="Local - ABC",IL | Chicago | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WHAS-DT.us_locals1" tvg-name="KY | Louisville | ABC" group-title="Local - ABC",KY | Louisville | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/KY_LOUISVILLE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WGNO-DT.us_locals1" tvg-name="LA | New Orleans | ABC" group-title="Local - ABC",LA | New Orleans | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LA_NEW_ORLEANS_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" tvg-name="MA | Boston | ABC" group-title="Local - ABC",MA | Boston | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MA_BOSTON_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC" group-title="Local - ABC",MI | Detroit | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MI_DETROIT_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC" group-title="Local - ABC",MO | Kansas City | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MO_KANSAS_CITY_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="MS | Jackson | ABC" group-title="Local - ABC",MS | Jackson | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MS_JACKSON_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC" group-title="Local - ABC",NC | Charlotte | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NC_CHARLOTTE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" tvg-name="NM | Albuquerque | ABC" group-title="Local - ABC",NM | Albuquerque | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WTEN-DT.us_locals1" tvg-name="NY | Albany | ABC" group-title="Local - ABC",NY | Albany | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_ALBANY_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WKBW-DT.us_locals1" tvg-name="NY | Buffalo | ABC" group-title="Local - ABC",NY | Buffalo | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_BUFFALO_ABC/mpegts
-#EXTINF:-1 tvg-id="WEWS-DT.us_locals1" tvg-name="OH | Cleveland | ABC" group-title="Local - ABC",OH | Cleveland | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OH_CLEVELAND_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KATU-DT.us_locals1" tvg-name="OR | Portland | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",OR | Portland | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OR_PORTLAND_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philadelphia | ABC" group-title="Local - ABC",PA | Philadelphia | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC" group-title="Local - ABC",PA | Pittsburgh | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PA_PITTSBURGH_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" tvg-name="TN | Nashville | ABC" group-title="Local - ABC",TN | Nashville | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="TX | Austin | ABC" group-title="Local - ABC",TX | Austin | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFAA-DT.us_locals1" tvg-name="TX | Dallas | ABC" group-title="Local - ABC",TX | Dallas | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_DALLAS_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="TX | Houston | ABC" group-title="Local - ABC",TX | Houston | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KSAT-DT.us_locals1" tvg-name="TX | San Antonio | ABC" group-title="Local - ABC",TX | San Antonio | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_SAN_ANTONIO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="WA | Seattle | ABC" group-title="Local - ABC",WA | Seattle | ABC
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WA_SEATTLE_ABC/mpegts
+#GROUP:Sports
+#EXTINF:-1 tvg-id="ESPN 1 (NC)" tvg-name="ESPN.HD.us2" group-title="Sports",ESPN 1 (NC)
+http://104.255.88.155/espn/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 (NC)" group-title="Sports",ESPN 2 (NC)
+http://104.255.88.155/espn2/playlist.m3u8
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 (MOJ)" group-title="Sports",FOX Sports 1 (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel (NC)" group-title="Sports",Outdoor Channel (NC)
+http://104.255.88.155/outdoor/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel (NC)" group-title="Sports",Tennis Channel (NC)
+http://104.255.88.155/tennis/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" group-title="Sports",ESPNU
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" group-title="Sports",FanDuel TV
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PAC_12/index.m3u8
 
-#GROUP:Local - CBS
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="NY | NY | CBS WCBS (MOJ)" group-title="Local - CBS",NY | NY | CBS WCBS (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WTVY-DT.us_locals1" tvg-name="AL | Dothan | CBS" group-title="Local - CBS",AL | Dothan | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_DOTHAN_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WKRG-DT.us_locals1" tvg-name="AL | Mobile | CBS" group-title="Local - CBS",AL | Mobile | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_MOBILE_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="CA | Los Angeles | CBS" group-title="Local - CBS",CA | Los Angeles | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KION-DT.us_locals1" tvg-name="CA | Monterey | CBS" group-title="Local - CBS",CA | Monterey | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_MONTEREY_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" tvg-name="CA | San Diego | CBS" group-title="Local - CBS",CA | San Diego | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SAN_DIEGO_CBS/mpegts
-#EXTINF:-1 tvg-id="KPIX-DT.us_locals1" tvg-name="CA | San Francisco | CBS" group-title="Local - CBS",CA | San Francisco | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KCNC-DT.us_locals1" tvg-name="CO | Denver | CBS" group-title="Local - CBS",CO | Denver | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WUSA-DT.us_locals1" tvg-name="DC | Washington | CBS" group-title="Local - CBS",DC | Washington | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WINK-DT.us_locals1" tvg-name="FL | Fort Myers | CBS" group-title="Local - CBS",FL | Fort Myers | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_FORT_MYERS_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonsville | CBS" group-title="Local - CBS",FL | Jacksonsville | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS" group-title="Local - CBS",FL | Miami | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" tvg-name="FL | Orlando | CBS" group-title="Local - CBS",FL | Orlando | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_ORLANDO_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | W Palm Beach | CBS" group-title="Local - CBS",FL | W Palm Beach | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WUPA-DT.us_locals1" tvg-name="GA | Atlanta | CBS" group-title="Local - CBS",GA | Atlanta | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WRDW-DT.us_locals1" tvg-name="GA | Augusta | CBS" group-title="Local - CBS",GA | Augusta | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GA_AUGUSTA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WMAZ-DT.us_locals1" tvg-name="GA | Macon | CBS" group-title="Local - CBS",GA | Macon | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GA_MACON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="GA | Savannah | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",GA | Savannah | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/GA_SAVANNAH_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS" group-title="Local - CBS",IL | Chicago | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WKYT-DT.us_locals1" tvg-name="KY | Lexington | CBS" group-title="Local - CBS",KY | Lexington | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/KY_Lexington_CBS/mpegts
-#EXTINF:-1 tvg-id="WLKY-DT.us_locals1" tvg-name="KY | Louisville | CBS" group-title="Local - CBS",KY | Louisville | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WAFB-DT.us_locals1" tvg-name="LA | Baton Rouge | CBS" group-title="Local - CBS",LA | Baton Rouge | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LA_BATON_ROUGE_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WWL-DT.us_locals1" tvg-name="LA | New Orleans | CBS" group-title="Local - CBS",LA | New Orleans | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LA_NEW_ORLEANS_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WBZ-DT.us_locals1" tvg-name="MA | Boston | CBS" group-title="Local - CBS",MA | Boston | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MA_BOSTON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WSHM-LD.us_locals1" tvg-name="MA | Springfield | CBS" group-title="Local - CBS",MA | Springfield | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MA_SPRINGFIELD_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WLNS-DT.us_locals1" tvg-name="MI | Lansing | CBS" group-title="Local - CBS",MI | Lansing | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MI_LANSING_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" tvg-name="MN | Minneapolis | CBS" group-title="Local - CBS",MN | Minneapolis | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MN_MINNEAPOLIS_CBS/mpegts
-#EXTINF:-1 tvg-id="KCTV-DT.us_locals1" tvg-name="MO | Kansas City | CBS" group-title="Local - CBS",MO | Kansas City | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MO_KANSAS_CITY_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KMOV-DT.us_locals1" tvg-name="MO | St. Louis | CBS" group-title="Local - CBS",MO | St. Louis | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MO_ST_LOUIS_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WJTV-DT.us_locals1" tvg-name="MS | Jackson | CBS" group-title="Local - CBS",MS | Jackson | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MS_JACKSON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WBTV-DT.us_locals1" tvg-name="NC | Charlotte | CBS" group-title="Local - CBS",NC | Charlotte | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KRQE-DT.us_locals1" tvg-name="NM | Albuquerque | CBS" group-title="Local - CBS",NM | Albuquerque | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WIVB-DT.us_locals1" tvg-name="NY | Buffalo | CBS" group-title="Local - CBS",NY | Buffalo | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_BUFFALO_CBS/mpegts
-#EXTINF:-1 tvg-id="WHIO-DT.us_locals1" tvg-name="OH | Dayton | CBS" group-title="Local - CBS",OH | Dayton | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OH_DAYTON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KYW-DT.us_locals1" tvg-name="PA | Philadelphia | CBS" group-title="Local - CBS",PA | Philadelphia | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="TN | Chattanooga | CBS" group-title="Local - CBS",TN | Chattanooga | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TN_CHATTANOOGA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="TX | Dallas | CBS" group-title="Local - CBS",TX | Dallas | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_Dallas_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="TX | Houston | CBS" group-title="Local - CBS",TX | Houston | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" tvg-name="WA | Seattle | CBS" group-title="Local - CBS",WA | Seattle | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8
+#GROUP:News
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News HD (NC)" group-title="News",FOX News HD (NC)
+http://104.255.88.155/foxnews/playlist.m3u8
+#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (NC)" group-title="News",MS NOW (NC)
+http://104.255.88.155/msnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel (NC)" group-title="News",Weather Channel (NC)
+http://104.255.88.155/twc/playlist.m3u8
 
 #GROUP:Local - NBC
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NY | NY | NBC WNBC (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",NY | NY | NBC WNBC (MOJ)
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WVGN-LD.us_locals1" tvg-name="Virgin Islands | NBC WVGN-LD" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",Virgin Islands | NBC WVGN-LD
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WVTM-DT.us_locals1" tvg-name="AL | Birmingham | NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WVTM-TV_NBC_13_Birmingham%2C_Alabama_Logo.svg/960px-WVTM-TV_NBC_13_Birmingham%2C_Alabama_Logo.svg.png" group-title="Local - NBC",AL | Birmingham | NBC
@@ -652,6 +528,54 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 #EXTINF:-1 tvg-id="KING-DT.us_locals1" tvg-name="WA | Seattle | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",WA | Seattle | NBC
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WA_SEATTLE_NBC/index.m3u8
 
+#GROUP:Local - ABC
+#EXTINF:-1 tvg-id="WBMA-LD.us_locals1" tvg-name="AL | Birmingham | ABC (MOJ)" group-title="Local - ABC",AL | Birmingham | ABC (MOJ)
+http://fl41.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WEAR-DT.us_locals1" tvg-name="AL | Mobile | ABC (MOJ)" group-title="Local - ABC",AL | Mobile | ABC (MOJ)
+http://fl41.moveonjoy.com/AL_MOBILE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" tvg-name="AZ | Phoenix | ABC (MOJ)" group-title="Local - ABC",AZ | Phoenix | ABC (MOJ)
+http://fl41.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WCJB-DT.us_locals1" tvg-name="FL | Gainesville | ABC (MOJ)" group-title="Local - ABC",FL | Gainesville | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WJXX-DT.us_locals1" tvg-name="FL | Jacksonsville | ABC (MOJ)" group-title="Local - ABC",FL | Jacksonsville | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_JACKSONVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WSVN-DT2.us_locals1" tvg-name="FL | Miami | ABC (MOJ)" group-title="Local - ABC",FL | Miami | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_MIAMI_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" tvg-name="FL | Orlando | ABC (MOJ)" group-title="Local - ABC",FL | Orlando | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_ORLANDO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WTXL-DT.us_locals1" tvg-name="FL | Tallahassee | ABC (MOJ)" group-title="Local - ABC",FL | Tallahassee | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_Tallahassee_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WHAS-DT.us_locals1" tvg-name="KY | Louisville | ABC (MOJ)" group-title="Local - ABC",KY | Louisville | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/KY_LOUISVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WGNO-DT.us_locals1" tvg-name="LA | New Orleans | ABC (MOJ)" group-title="Local - ABC",LA | New Orleans | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/LA_NEW_ORLEANS_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" tvg-name="MA | Boston | ABC (MOJ)" group-title="Local - ABC",MA | Boston | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MA_BOSTON_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC (MOJ)" group-title="Local - ABC",MI | Detroit | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MI_DETROIT_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC (MOJ)" group-title="Local - ABC",MO | Kansas City | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MO_KANSAS_CITY_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="MS | Jackson | ABC (MOJ)" group-title="Local - ABC",MS | Jackson | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MS_JACKSON_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC (MOJ)" group-title="Local - ABC",NC | Charlotte | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NC_CHARLOTTE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" tvg-name="NM | Albuquerque | ABC (MOJ)" group-title="Local - ABC",NM | Albuquerque | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WTEN-DT.us_locals1" tvg-name="NY | Albany | ABC (MOJ)" group-title="Local - ABC",NY | Albany | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NY_ALBANY_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WEWS-DT.us_locals1" tvg-name="OH | Cleveland | ABC (MOJ)" group-title="Local - ABC",OH | Cleveland | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/OH_CLEVELAND_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philadelphia | ABC (MOJ)" group-title="Local - ABC",PA | Philadelphia | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" tvg-name="TN | Nashville | ABC (MOJ)" group-title="Local - ABC",TN | Nashville | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="TX | Houston | ABC (MOJ)" group-title="Local - ABC",TX | Houston | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KSAT-DT.us_locals1" tvg-name="TX | San Antonio | ABC (MOJ)" group-title="Local - ABC",TX | San Antonio | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_SAN_ANTONIO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="WA | Seattle | ABC (MOJ)" group-title="Local - ABC",WA | Seattle | ABC (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/WA_SEATTLE_ABC/mpegts
+
 #GROUP:Local - FOX
 #EXTINF:-1 tvg-id="WBRC-DT.us_locals1" tvg-name="AL | Birmingham | FOX" group-title="Local - FOX",AL | Birmingham | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/AL_BIRMINGHAM_FOX/index.m3u8
@@ -734,6 +658,86 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 #EXTINF:-1 tvg-id="KCPQ-DT.us_locals1" tvg-name="WA | Seattle | FOX" group-title="Local - FOX",WA | Seattle | FOX
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8
 
+#GROUP:Local - CBS
+#EXTINF:-1 tvg-id="WTVY-DT.us_locals1" tvg-name="AL | Dothan | CBS (MOJ)" group-title="Local - CBS",AL | Dothan | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/AL_DOTHAN_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WKRG-DT.us_locals1" tvg-name="AL | Mobile | CBS (MOJ)" group-title="Local - CBS",AL | Mobile | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/AL_MOBILE_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KION-DT.us_locals1" tvg-name="CA | Monterey | CBS (MOJ)" group-title="Local - CBS",CA | Monterey | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/CA_MONTEREY_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KPIX-DT.us_locals1" tvg-name="CA | San Francisco | CBS (MOJ)" group-title="Local - CBS",CA | San Francisco | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WUSA-DT.us_locals1" tvg-name="DC | Washington | CBS (MOJ)" group-title="Local - CBS",DC | Washington | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonsville | CBS (MOJ)" group-title="Local - CBS",FL | Jacksonsville | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS (MOJ)" group-title="Local - CBS",FL | Miami | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_Miami_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" tvg-name="FL | Orlando | CBS (MOJ)" group-title="Local - CBS",FL | Orlando | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_ORLANDO_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | W Palm Beach | CBS (MOJ)" group-title="Local - CBS",FL | W Palm Beach | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WUPA-DT.us_locals1" tvg-name="GA | Atlanta | CBS (MOJ)" group-title="Local - CBS",GA | Atlanta | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WRDW-DT.us_locals1" tvg-name="GA | Augusta | CBS (MOJ)" group-title="Local - CBS",GA | Augusta | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/GA_AUGUSTA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="GA | Savannah | CBS (MOJ)" group-title="Local - CBS",GA | Savannah | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/GA_SAVANNAH_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS (MOJ)" group-title="Local - CBS",IL | Chicago | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WLKY-DT.us_locals1" tvg-name="KY | Louisville | CBS (MOJ)" group-title="Local - CBS",KY | Louisville | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WAFB-DT.us_locals1" tvg-name="LA | Baton Rouge | CBS (MOJ)" group-title="Local - CBS",LA | Baton Rouge | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/LA_BATON_ROUGE_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WWL-DT.us_locals1" tvg-name="LA | New Orleans | CBS (MOJ)" group-title="Local - CBS",LA | New Orleans | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/LA_NEW_ORLEANS_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WBZ-DT.us_locals1" tvg-name="MA | Boston | CBS (MOJ)" group-title="Local - CBS",MA | Boston | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MA_BOSTON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WSHM-LD.us_locals1" tvg-name="MA | Springfield | CBS (MOJ)" group-title="Local - CBS",MA | Springfield | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MA_SPRINGFIELD_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WLNS-DT.us_locals1" tvg-name="MI | Lansing | CBS (MOJ)" group-title="Local - CBS",MI | Lansing | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MI_LANSING_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WJTV-DT.us_locals1" tvg-name="MS | Jackson | CBS (MOJ)" group-title="Local - CBS",MS | Jackson | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MS_JACKSON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WBTV-DT.us_locals1" tvg-name="NC | Charlotte | CBS (MOJ)" group-title="Local - CBS",NC | Charlotte | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KRQE-DT.us_locals1" tvg-name="NM | Albuquerque | CBS (MOJ)" group-title="Local - CBS",NM | Albuquerque | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WHIO-DT.us_locals1" tvg-name="OH | Dayton | CBS (MOJ)" group-title="Local - CBS",OH | Dayton | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/OH_DAYTON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KYW-DT.us_locals1" tvg-name="PA | Philadelphia | CBS (MOJ)" group-title="Local - CBS",PA | Philadelphia | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="TX | Houston | CBS (MOJ)" group-title="Local - CBS",TX | Houston | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" tvg-name="WA | Seattle | CBS (MOJ)" group-title="Local - CBS",WA | Seattle | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8
+
+#GROUP:Offline
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="CA | Los Angeles | CBS (MOJ)" group-title="Offline",CA | Los Angeles | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" tvg-name="CA | San Diego | CBS (MOJ)" group-title="Offline",CA | San Diego | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/CA_SAN_DIEGO_CBS/mpegts
+#EXTINF:-1 tvg-id="KCNC-DT.us_locals1" tvg-name="CO | Denver | CBS (MOJ)" group-title="Offline",CO | Denver | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/CO_DENVER_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WINK-DT.us_locals1" tvg-name="FL | Fort Myers | CBS (MOJ)" group-title="Offline",FL | Fort Myers | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/FL_FORT_MYERS_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WMAZ-DT.us_locals1" tvg-name="GA | Macon | CBS (MOJ)" group-title="Offline",GA | Macon | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/GA_MACON_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WKYT-DT.us_locals1" tvg-name="KY | Lexington | CBS (MOJ)" group-title="Offline",KY | Lexington | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/KY_Lexington_CBS/mpegts
+#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" tvg-name="MN | Minneapolis | CBS (MOJ)" group-title="Offline",MN | Minneapolis | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MN_MINNEAPOLIS_CBS/mpegts
+#EXTINF:-1 tvg-id="KCTV-DT.us_locals1" tvg-name="MO | Kansas City | CBS (MOJ)" group-title="Offline",MO | Kansas City | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MO_KANSAS_CITY_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KMOV-DT.us_locals1" tvg-name="MO | St. Louis | CBS (MOJ)" group-title="Offline",MO | St. Louis | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/MO_ST_LOUIS_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WIVB-DT.us_locals1" tvg-name="NY | Buffalo | CBS (MOJ)" group-title="Offline",NY | Buffalo | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/NY_BUFFALO_CBS/mpegts
+#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="TN | Chattanooga | CBS (MOJ)" group-title="Offline",TN | Chattanooga | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TN_CHATTANOOGA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="TX | Dallas | CBS (MOJ)" group-title="Offline",TX | Dallas | CBS (MOJ)
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/TX_Dallas_CBS/index.m3u8
+
 #GROUP:Local - CW/MNT
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-name="FL | Orlando | CW" group-title="Local - CW/MNT",FL | Orlando | CW
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
@@ -744,9 +748,13 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 #EXTINF:-1 tvg-id="WNLO-DT.us_locals1" tvg-name="NY | Buffalo | CW" group-title="Local - CW/MNT",NY | Buffalo | CW
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_BUFFALO_CW/mpegts
 
-#GROUP:Local -CBS
-#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local -CBS",IA | Cedar Rapids | CBS
-https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
+#GROUP:New Group
+#EXTINF:-1 tvg-name="MASN (NC)" group-title="New Group",MASN (NC) EPG
+http://104.255.88.155/masn/playlist.m3u8
+#EXTINF:-1 tvg-name="MASN 2 (NC)" group-title="New Group",MASN 2 (NC) EPG
+http://104.255.88.155/masn2/playlist.m3u8
+#EXTINF:-1 tvg-name="MotorTrend (NC)" group-title="New Group",MotorTrend (NC) EPG
+http://104.255.88.155/motortrend/playlist.m3u8
 
 
 ==================================================
