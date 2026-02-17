@@ -8,8 +8,8 @@ body:
     id: stream_id
     attributes:
       label: Stream ID (required)
-      description: "Station ID"
-      placeholder: 'BBC AMERICA East'
+      description: "Station ID (please use https://epgshare01.online/epgshare01/)"
+      placeholder: 'BBC.America.HD.us2'
     validations:
       required: true
 
