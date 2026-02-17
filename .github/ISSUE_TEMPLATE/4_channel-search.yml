@@ -1,0 +1,20 @@
+name: 🔍 Channel search
+description: Ask for help in finding a link to the channel stream.
+title: 'Find: '
+labels: ['channel search']
+
+body:
+  - type: input
+    id: stream_id
+    attributes:
+      label: Stream ID (required)
+      description: Station ID (please use https://epgshare01.online/epgshare01/)
+      placeholder: 'BBC.America.HD.us2'
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: 'Any additional information that may help find a link to the stream faster?'
