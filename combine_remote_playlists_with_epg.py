@@ -9,7 +9,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
-        "https://github.com/iptv2025tx/Private-m3u/raw/refs/heads/main/Blank.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/Blank.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/apsattv/distro-w-epg.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/alexandria-la-hdhr.m3u8",
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/bethlehem-pa-hdhr.m3u8",
