@@ -9,6 +9,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/Blank.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/apsattv/distro-w-epg.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/alexandria-la-hdhr.m3u8",
