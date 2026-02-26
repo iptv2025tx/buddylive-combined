@@ -5,8 +5,7 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 
 UPDATE:
 02/26/26 Removed PlutoUS
-02/24/26 New 11 streams
-02/06/26 7 Streams in Total
+
 
 ▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
 
