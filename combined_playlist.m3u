@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-27T09:44:05.254114 UTC
+# Generated on 2026-02-27T10:40:25.745087 UTC
 
 #PLAYLIST:x combo-tvp-nc-moj
 #EXTGRP:x combo-tvp-nc-moj
@@ -4739,12 +4739,6 @@ https://stream.revma.ihrhls.com/zc9759/hls.m3u8
 https://stream.revma.ihrhls.com/zc10098/hls.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="Music - Radio",iHeart American Top 40
 https://stream.revma.ihrhls.com/zc4802/hls.m3u8
-
-
-==================================================
-
-#PLAYLIST:x liveeventsfilter
-#EXTGRP:x liveeventsfilter
 
 
 ==================================================
