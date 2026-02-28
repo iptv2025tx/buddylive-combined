@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-02-28T06:42:00.697605 UTC
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv2025tx/epg/refs/heads/main/epg.xml"
+# Generated on 2026-02-28T07:21:28.029040 UTC
 
 #PLAYLIST:x combo-tvp-nc-moj
 #EXTGRP:x combo-tvp-nc-moj
@@ -3653,6 +3653,32 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8?ads.islive=1&ads.stre
 
 ==================================================
 
+#PLAYLIST:x dancetv
+#EXTGRP:x dancetv
+
+#GROUP:Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Best of Dance TV (D)" group-title="Music",Best of Dance TV (D)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Deep House District (D)" group-title="Music",Deep House District (D)
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno Warehouse (D)" group-title="Music",Techno Warehouse (D)
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno House Terrace (D)" group-title="Music",Techno House Terrace (D)
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="House Floor (D)" group-title="Music",House Floor (D)
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Minimal Deep Techno (D)" group-title="Music",Minimal Deep Techno (D)
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Mainstream EDM (D)" group-title="Music",Mainstream EDM (D)
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Downtempo (D)" group-title="Music",Downtempo (D)
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Melodic Techno (D)" group-title="Music",Melodic Techno (D)
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+
+
+==================================================
+
 #PLAYLIST:x alexandria-la-hdhr
 #EXTGRP:x alexandria-la-hdhr
 
@@ -3663,7 +3689,7 @@ http://12.186.20.98:5004/auto/v5.1
 #GROUP:Local - CBS
 #EXTINF:-1 tvg-id="KALB-DT2.us_locals1" tvg-name="LA | Alexandria | CBS KALB" group-title="Local - CBS",LA | Alexandria | CBS KALB
 http://12.186.20.98:5004/auto/v5.2
-#EXTINF:-1 tvg-id="K30QC-D.us_locals1" tvg-name="LA | DeRiddler | CBS K30QVD" group-title="Local - CBS",LA | DeRiddler | CBS K30QVD
+#EXTINF:-1 tvg-id="KSWL-DT.us_locals1" tvg-name="LA | DeRiddler | CBS KSWL" group-title="Local - CBS",LA | DeRiddler | CBS K30QVD
 http://12.186.20.98:5004/auto/v30.1
 
 #GROUP:Local - CW/IND/MY
@@ -3674,30 +3700,30 @@ http://12.186.20.98:5004/auto/v5.3
 #EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gulf Coast Sports - LA" group-title="Sports",Gulf Coast Sports - LA
 http://12.186.20.98:5004/auto/v5.4
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit - LA" group-title="Entertainment",Grit - LA
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit - LA" group-title="Entertainment - ENG",Grit - LA
 http://12.186.20.98:5004/auto/v5.5
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - LA" group-title="Entertainment",Oxygen True Crime - LA
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - LA" group-title="Entertainment - ENG",Oxygen True Crime - LA
 http://12.186.20.98:5004/auto/v5.6
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - LA" group-title="Entertainment",365BLK - LA
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - LA" group-title="Entertainment - ENG",365BLK - LA
 http://12.186.20.98:5004/auto/v5.7
-#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey" group-title="Entertainment",Nosey
+#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey" group-title="Entertainment - ENG",Nosey
 http://12.186.20.98:5004/auto/v29.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - LA" group-title="Entertainment",ION Plus - LA
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - LA" group-title="Entertainment - ENG",ION Plus - LA
 http://12.186.20.98:5004/auto/v29.5
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey" group-title="Entertainment",Confess by Nosey
+#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey" group-title="Entertainment - ENG",Confess by Nosey
 http://12.186.20.98:5004/auto/v29.6
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV - LA" group-title="Entertainment",meTV - LA
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV - LA" group-title="Entertainment - ENG",meTV - LA
 http://12.186.20.98:5004/auto/v30.3
-#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I - LA" group-title="Entertainment",H&I - LA
+#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I - LA" group-title="Entertainment - ENG",H&I - LA
 http://12.186.20.98:5004/auto/v41.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - LA" group-title="Entertainment",Antenna TV - LA
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - LA" group-title="Entertainment - ENG",Antenna TV - LA
 http://12.186.20.98:5004/auto/v41.2
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - LA" group-title="Entertainment",Start TV - LA
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - LA" group-title="Entertainment - ENG",Start TV - LA
 http://12.186.20.98:5004/auto/v41.3
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - LA" group-title="Entertainment",Cozi TV - LA
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - LA" group-title="Entertainment - ENG",Cozi TV - LA
 http://12.186.20.98:5004/auto/v41.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - LA" group-title="Entertainment",Story Television - LA
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - LA" group-title="Entertainment - ENG",Story Television - LA
 http://12.186.20.98:5004/auto/v41.5
 
 #GROUP:Local - FOX
@@ -3709,9 +3735,9 @@ http://12.186.20.98:5004/auto/v29.1
 http://12.186.20.98:5004/auto/v29.2
 
 #GROUP:Spanish
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-name="Univision - LA" group-title="Spanish",Univision - LA
+#EXTINF:-1 tvg-id="KWEX-DT.us_locals1" tvg-name="Univision - LA" group-title="Spanish",Univision - LA
 http://12.186.20.98:5004/auto/v29.4
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="Telemundo - LA" group-title="Spanish",Telemundo - LA
+#EXTINF:-1 tvg-id="KGLA-DT.us_locals1" tvg-name="Telemundo - LA" group-title="Spanish",Telemundo - LA
 http://12.186.20.98:5004/auto/v30.2
 
 #GROUP:Religion
@@ -3740,20 +3766,20 @@ http://199.193.59.138:5004/auto/v50.6
 #EXTINF:-1 tvg-id="WJAC-DT.us_locals1" tvg-name="PA | Johnstown | NBC WJAC" group-title="Local - NBC",PA | Johnstown | NBC WJAC
 http://199.193.59.138:5004/auto/v6.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - PA" group-title="Entertainment",Charge! - PA
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - PA" group-title="Entertainment - ENG",Charge! - PA
 http://199.193.59.138:5004/auto/v6.2
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PA" group-title="Entertainment",Comet - PA
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PA" group-title="Entertainment - ENG",Comet - PA
 http://199.193.59.138:5004/auto/v6.3
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PA" group-title="Entertainment",The Nest - PA
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PA" group-title="Entertainment - ENG",The Nest - PA
 http://199.193.59.138:5004/auto/v6.5
-#EXTINF:-1 tvg-id="WTOO-DT.us_locals1" tvg-name="H&I - PA" group-title="Entertainment",H&I - PA
+#EXTINF:-1 tvg-id="WTOO-DT.us_locals1" tvg-name="H&I - PA" group-title="Entertainment - ENG",H&I - PA
 http://199.193.59.138:5004/auto/v50.1
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PA" group-title="Entertainment",Start TV - PA
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PA" group-title="Entertainment - ENG",Start TV - PA
 http://199.193.59.138:5004/auto/v50.2
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PA" group-title="Entertainment",Catchy Comedy - PA
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PA" group-title="Entertainment - ENG",Catchy Comedy - PA
 http://199.193.59.138:5004/auto/v50.3
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PA" group-title="Entertainment",Story Television - PA
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PA" group-title="Entertainment - ENG",Story Television - PA
 http://199.193.59.138:5004/auto/v50.5
 
 #GROUP:Local - CW/IND/MY
@@ -3771,75 +3797,75 @@ http://199.193.59.138:5004/auto/v50.7
 
 ==================================================
 
-#PLAYLIST:x chicago-il1-hdhr
-#EXTGRP:x chicago-il1-hdhr
+#PLAYLIST:x chicago-il-hdhr1
+#EXTGRP:x chicago-il-hdhr1
 
 #GROUP:Local - CBS
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM1" group-title="Local - CBS",IL | Chicago | CBS WBBM1
 http://173.229.4.240:5004/auto/v2.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI1" group-title="Entertainment",Start TV - CHI1
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI1" group-title="Entertainment - ENG",Start TV - CHI1
 http://173.229.4.240:5004/auto/v2.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - CHI1" group-title="Entertainment",DABL - CHI1
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - CHI1" group-title="Entertainment - ENG",DABL - CHI1
 http://173.229.4.240:5004/auto/v2.3
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI1" group-title="Entertainment",365BLK - CHI1
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI1" group-title="Entertainment - ENG",365BLK - CHI1
 http://173.229.4.240:5004/auto/v2.4
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI1" group-title="Entertainment",Comet - CHI1
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI1" group-title="Entertainment - ENG",Comet - CHI1
 http://173.229.4.240:5004/auto/v2.5
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI1" group-title="Entertainment",Cozi - CHI1
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI1" group-title="Entertainment - ENG",Cozi - CHI1
 http://173.229.4.240:5004/auto/v5.2
-#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - CHI1" group-title="Entertainment",NBC True Crimes - CHI1
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - CHI1" group-title="Entertainment - ENG",NBC True Crimes - CHI1
 http://173.229.4.240:5004/auto/v5.3
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI1" group-title="Entertainment",Oxygen True Crime - CHI1
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI1" group-title="Entertainment - ENG",Oxygen True Crime - CHI1
 http://173.229.4.240:5004/auto/v5.4
-#EXTINF:-1 tvg-name="Localish - CHI1" group-title="Entertainment",Localish - CHI1
+#EXTINF:-1 tvg-name="Localish - CHI1" group-title="Entertainment - ENG",Localish - CHI1
 http://173.229.4.240:5004/auto/v7.2
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI1" group-title="Entertainment",Charge - CHI1
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI1" group-title="Entertainment - ENG",Charge - CHI1
 http://173.229.4.240:5004/auto/v7.3
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI1" group-title="Entertainment",Antenna TV - CHI1
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI1" group-title="Entertainment - ENG",Antenna TV - CHI1
 http://173.229.4.240:5004/auto/v9.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - CHI1" group-title="Entertainment",Grit TV - CHI1
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - CHI1" group-title="Entertainment - ENG",Grit TV - CHI1
 http://173.229.4.240:5004/auto/v9.3
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - CHI1" group-title="Entertainment",Rewind - CHI1
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - CHI1" group-title="Entertainment - ENG",Rewind - CHI1
 http://173.229.4.240:5004/auto/v9.4
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI1" group-title="Entertainment",The Nest - CHI1
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI1" group-title="Entertainment - ENG",The Nest - CHI1
 http://173.229.4.240:5004/auto/v9.5
-#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI1" group-title="Entertainment",meTV - CHI1
+#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI1" group-title="Entertainment - ENG",meTV - CHI1
 http://173.229.4.240:5004/auto/v23.1
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment",H&I - CHI1
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment - ENG",H&I - CHI1
 http://173.229.4.240:5004/auto/v23.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1 (Backup)" group-title="Entertainment",H&I - CHI1 (Backup)
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1 (Backup)" group-title="Entertainment - ENG",H&I - CHI1 (Backup)
 http://173.229.4.240:5004/auto/v26.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI1" group-title="Entertainment",Story Television - CHI1
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI1" group-title="Entertainment - ENG",Story Television - CHI1
 http://173.229.4.240:5004/auto/v26.5
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2 " tvg-name="Catchy Comedy - CHI1" group-title="Entertainment",Catchy Comedy - CHI1
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2 " tvg-name="Catchy Comedy - CHI1" group-title="Entertainment - ENG",Catchy Comedy - CHI1
 http://173.229.4.240:5004/auto/v26.6
-#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI1" group-title="Entertainment",WEST - CHI1
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI1" group-title="Entertainment - ENG",WEST - CHI1
 http://173.229.4.240:5004/auto/v26.8
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI1" group-title="Entertainment",Buzzr - CHI1
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI1" group-title="Entertainment - ENG",Buzzr - CHI1
 http://173.229.4.240:5004/auto/v32.3
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI1" group-title="Entertainment",Roar - CHI1
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI1" group-title="Entertainment - ENG",Roar - CHI1
 http://173.229.4.240:5004/auto/v32.4
-#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI1" group-title="Entertainment",ION Television - CHI1
+#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI1" group-title="Entertainment - ENG",ION Television - CHI1
 http://173.229.4.240:5004/auto/v38.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI1" group-title="Entertainment",Bounce TV - CHI1
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI1" group-title="Entertainment - ENG",Bounce TV - CHI1
 http://173.229.4.240:5004/auto/v38.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI1" group-title="Entertainment",Laff - CHI1
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI1" group-title="Entertainment - ENG",Laff - CHI1
 http://173.229.4.240:5004/auto/v38.4
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI1" group-title="Entertainment",ION Plus - CHI1
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI1" group-title="Entertainment - ENG",ION Plus - CHI1
 http://173.229.4.240:5004/auto/v38.5
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - CHI1" group-title="Entertainment",Busted - CHI1
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - CHI1" group-title="Entertainment - ENG",Busted - CHI1
 http://173.229.4.240:5004/auto/v38.6
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI1" group-title="Entertainment",Game Show Central - CHI1
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI1" group-title="Entertainment - ENG",Game Show Central - CHI1
 http://173.229.4.240:5004/auto/v38.7
-#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI1" group-title="Entertainment",meTV Plus - CHI1
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI1" group-title="Entertainment - ENG",meTV Plus - CHI1
 http://173.229.4.240:5004/auto/v48.4
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI1" group-title="Entertainment",ION Mystery - CHI1
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI1" group-title="Entertainment - ENG",ION Mystery - CHI1
 http://173.229.4.240:5004/auto/v60.2
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI1" group-title="Entertainment",Quest - CHI1
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI1" group-title="Entertainment - ENG",Quest - CHI1
 http://173.229.4.240:5004/auto/v60.3
-#EXTINF:-1 tvg-name="Heartland - CHI1" group-title="Entertainment",Heartland - CHI1
+#EXTINF:-1 tvg-name="Heartland - CHI1" group-title="Entertainment - ENG",Heartland - CHI1
 http://173.229.4.240:5004/auto/v62.4
 
 #GROUP:Local - NBC
@@ -3886,10 +3912,10 @@ http://173.229.4.240:5004/auto/v32.2
 #EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - CHI1" group-title="Movies",MovieSphere Gold - CHI1
 http://173.229.4.240:5004/auto/v66.2
 
-#GROUP:News
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI1" group-title="News",FOX Weather - CHI1
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI1" group-title="News - ENG",FOX Weather - CHI1
 http://173.229.4.240:5004/auto/v32.5
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI1" group-title="News",Court TV - CHI1
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI1" group-title="News - ENG",Court TV - CHI1
 http://173.229.4.240:5004/auto/v38.3
 
 #GROUP:Shopping
@@ -3915,78 +3941,96 @@ http://173.229.4.240:5004/auto/v66.1
 
 ==================================================
 
-#PLAYLIST:x chicago-il2-hdhr
-#EXTGRP:x chicago-il2-hdhr
+#PLAYLIST:x chicago-il-hdhr2
+#EXTGRP:x chicago-il-hdhr2
 
 #GROUP:Local - CBS
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM2" group-title="Local - CBS",IL | Chicago | CBS WBBM2
 http://68.251.105.81:5004/auto/v2.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI2" group-title="Entertainment",Start TV - CHI2
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI2" group-title="Entertainment - ENG",Start TV - CHI2
 http://68.251.105.81:5004/auto/v2.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - CHI2" group-title="Entertainment",DABL - CHI2
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - CHI2" group-title="Entertainment - ENG",DABL - CHI2
 http://68.251.105.81:5004/auto/v2.3
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI2" group-title="Entertainment",365BLK - CHI2
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI2" group-title="Entertainment - ENG",365BLK - CHI2
 http://68.251.105.81:5004/auto/v2.4
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI2" group-title="Entertainment",Comet - CHI2
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI2" group-title="Entertainment - ENG",Comet - CHI2
 http://68.251.105.81:5004/auto/v2.5
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI2" group-title="Entertainment",Cozi - CHI2
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI2" group-title="Entertainment - ENG",Cozi - CHI2
 http://68.251.105.81:5004/auto/v5.2
-#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - CHI2" group-title="Entertainment",NBC True Crimes - CHI2
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - CHI2" group-title="Entertainment - ENG",NBC True Crimes - CHI2
 http://68.251.105.81:5004/auto/v5.3
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI2" group-title="Entertainment",Oxygen True Crime - CHI2
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI2" group-title="Entertainment - ENG",Oxygen True Crime - CHI2
 http://68.251.105.81:5004/auto/v5.4
-#EXTINF:-1 tvg-name="Localish - CHI2" group-title="Entertainment",Localish - CHI2
+#EXTINF:-1 tvg-name="Localish - CHI2" group-title="Entertainment - ENG",Localish - CHI2
 http://68.251.105.81:5004/auto/v7.2
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI2" group-title="Entertainment",Charge - CHI2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI2" group-title="Entertainment - ENG",Charge - CHI2
 http://68.251.105.81:5004/auto/v7.3
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI2" group-title="Entertainment",Antenna TV - CHI2
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI2" group-title="Entertainment - ENG",Antenna TV - CHI2
 http://68.251.105.81:5004/auto/v9.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - CHI2" group-title="Entertainment",Grit TV - CHI2
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - CHI2" group-title="Entertainment - ENG",Grit TV - CHI2
 http://68.251.105.81:5004/auto/v9.3
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - CHI2" group-title="Entertainment",Rewind - CHI2
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - CHI2" group-title="Entertainment - ENG",Rewind - CHI2
 http://68.251.105.81:5004/auto/v9.4
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI2" group-title="Entertainment",The Nest - CHI2
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI2" group-title="Entertainment - ENG",The Nest - CHI2
 http://68.251.105.81:5004/auto/v9.5
-#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI2" group-title="Entertainment",meTV - CHI2
+#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI2" group-title="Entertainment - ENG",meTV - CHI2
 http://68.251.105.81:5004/auto/v23.1
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2" group-title="Entertainment",H&I - CHI2
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2" group-title="Entertainment - ENG",H&I - CHI2
 http://68.251.105.81:5004/auto/v23.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2 (Backup)" group-title="Entertainment",H&I - CHI2 (Backup)
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2 (Backup)" group-title="Entertainment - ENG",H&I - CHI2 (Backup)
 http://68.251.105.81:5004/auto/v26.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI2" group-title="Entertainment",Story Television - CHI2
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI2" group-title="Entertainment - ENG",Story Television - CHI2
 http://68.251.105.81:5004/auto/v26.5
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - CHI2" group-title="Entertainment",Catchy Comedy - CHI2
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - CHI2" group-title="Entertainment - ENG",Catchy Comedy - CHI2
 http://68.251.105.81:5004/auto/v26.6
-#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI2" group-title="Entertainment",WEST - CHI2
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI2" group-title="Entertainment - ENG",WEST - CHI2
 http://68.251.105.81:5004/auto/v26.8
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI2" group-title="Entertainment",Buzzr - CHI2
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI2" group-title="Entertainment - ENG",Buzzr - CHI2
 http://68.251.105.81:5004/auto/v32.3
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI2" group-title="Entertainment",Roar - CHI2
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI2" group-title="Entertainment - ENG",Roar - CHI2
 http://68.251.105.81:5004/auto/v32.4
-#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI2" group-title="Entertainment",ION Television - CHI2
+#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI2" group-title="Entertainment - ENG",ION Television - CHI2
 http://68.251.105.81:5004/auto/v38.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI2" group-title="Entertainment",Bounce TV - CHI2
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI2" group-title="Entertainment - ENG",Bounce TV - CHI2
 http://68.251.105.81:5004/auto/v38.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI2" group-title="Entertainment",Laff - CHI2
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI2" group-title="Entertainment - ENG",Laff - CHI2
 http://68.251.105.81:5004/auto/v38.4
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI2" group-title="Entertainment",ION Plus - CHI2
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI2" group-title="Entertainment - ENG",ION Plus - CHI2
 http://68.251.105.81:5004/auto/v38.5
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - CHI2" group-title="Entertainment",Busted - CHI2
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - CHI2" group-title="Entertainment - ENG",Busted - CHI2
 http://68.251.105.81:5004/auto/v38.6
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI2" group-title="Entertainment",Game Show Central - CHI2
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI2" group-title="Entertainment - ENG",Game Show Central - CHI2
 http://68.251.105.81:5004/auto/v38.7
-#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI2" group-title="Entertainment",meTV Plus - CHI2
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI2" group-title="Entertainment - ENG",meTV Plus - CHI2
 http://68.251.105.81:5004/auto/v48.4
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI2" group-title="Entertainment",ION Mystery - CHI2
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI2" group-title="Entertainment - ENG",ION Mystery - CHI2
 http://68.251.105.81:5004/auto/v60.2
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI2" group-title="Entertainment",Quest - CHI2
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI2" group-title="Entertainment - ENG",Quest - CHI2
 http://68.251.105.81:5004/auto/v60.3
-#EXTINF:-1 tvg-name="Heartland - CHI2" group-title="Entertainment",Heartland - CHI2
+#EXTINF:-1 tvg-name="Heartland - CHI2" group-title="Entertainment - ENG",Heartland - CHI2
 http://68.251.105.81:5004/auto/v62.4
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Get TV - CHI2" group-title="Entertainment",Get TV - CHI2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - CHI2" group-title="Entertainment - ENG",Great - CHI2
 http://68.251.105.81:5004/auto/v66.3
+#EXTINF:-1 tvg-name="NTD America - CHI2" group-title="Entertainment - ENG",NTD America - CHI2
+http://68.251.105.81:5004/auto/v24.2
+#EXTINF:-1 tvg-name="Swaag TV - CHI2" group-title="Entertainment - ENG",Swaag TV - CHI2
+http://68.251.105.81:5004/auto/v24.3
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI2" group-title="Entertainment - ENG",365BLK - CHI2
+http://68.251.105.81:5004/auto/v24.4
+#EXTINF:-1 tvg-name="Timeless TV - CHI2" group-title="Entertainment - ENG",Timeless TV - CHI2
+http://68.251.105.81:5004/auto/v24.5
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - CHI2" group-title="Entertainment - ENG",Defy - CHI2
+http://68.251.105.81:5004/auto/v24.6
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - CHI2" group-title="Entertainment - ENG",Outlaw - CHI2
+http://68.251.105.81:5004/auto/v24.8
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime - CHI2" group-title="Entertainment - ENG",Law & Crime - CHI2
+http://68.251.105.81:5004/auto/v24.9
+#EXTINF:-1 tvg-id="BarkTV.distro" tvg-name="Bark TV - CHI2" group-title="Entertainment - ENG",Bark TV - CHI2
+http://68.251.105.81:5004/auto/v3.8
+#EXTINF:-1 tvg-id="BINGE-TV.us2" tvg-name="Binge - CHI2" group-title="Entertainment - ENG",Binge - CHI2
+http://68.251.105.81:5004/auto/v3.12
 
 #GROUP:Local - NBC
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC WMAQ2" group-title="Local - NBC",IL | Chicago | NBC WMAQ2
@@ -4032,11 +4076,13 @@ http://68.251.105.81:5004/auto/v32.2
 #EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - CHI2" group-title="Movies",MovieSphere Gold - CHI2
 http://68.251.105.81:5004/auto/v66.2
 
-#GROUP:News
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI2" group-title="News",FOX Weather - CHI2
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI2" group-title="News - ENG",FOX Weather - CHI2
 http://68.251.105.81:5004/auto/v32.5
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI2" group-title="News",Court TV - CHI2
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI2" group-title="News - ENG",Court TV - CHI2
 http://68.251.105.81:5004/auto/v38.3
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News - CHI2" group-title="News - ENG",One America News - CHI2
+http://68.251.105.81:5004/auto/v3.5
 
 #GROUP:Shopping
 #EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - CHI2" group-title="Shopping",HSN1 - CHI2
@@ -4047,6 +4093,8 @@ http://68.251.105.81:5004/auto/v62.5
 http://68.251.105.81:5004/auto/v62.7
 #EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - CHI2" group-title="Shopping",HSN2 - CHI2
 http://68.251.105.81:5004/auto/v62.9
+#EXTINF:-1 tvg-id="ShopHQ.HD.us2" tvg-name="ShopHQ- CHI2" group-title="Shopping",ShopHQ - CHI2
+http://68.251.105.81:5004/auto/v3.1
 
 #GROUP:Spanish
 #EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS2" group-title="Spanish",Telemundo Chicago WSNS2
@@ -4057,6 +4105,20 @@ http://68.251.105.81:5004/auto/v44.2
 http://68.251.105.81:5004/auto/v60.1
 #EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO2" group-title="Spanish",Univision Chicago - WGBO2
 http://68.251.105.81:5004/auto/v66.1
+
+#GROUP:Sports
+#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports - CHI2" group-title="Sports",Fubo Sports - CHI2
+http://68.251.105.81:5004/auto/v24.10
+#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="MTRSPT1 - CHI2" group-title="Sports",MTRSPT1 - CHI2
+http://68.251.105.81:5004/auto/v3.11
+#EXTINF:-1 tvg-name="AWSN - CHI2" group-title="Sports",AWSN - CHI2
+http://68.251.105.81:5004/auto/v3.4
+#EXTINF:-1 tvg-id="FTF.Sports.distro" tvg-name="FTF SPORTS - CHI2" group-title="Sports",FTF SPORTS - CHI2
+http://68.251.105.81:5004/auto/v3.10
+#EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports Xtra - CHI2" group-title="Sports",beIN Sports Xtra - CHI2
+http://68.251.105.81:5004/auto/v3.15
+#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports - CHI2" group-title="Sports",Fubo Sports - CHI2
+http://68.251.105.81:5004/auto/v49.7
 
 
 ==================================================
@@ -4070,114 +4132,114 @@ http://173.229.4.247:5004/auto/v2.1
 #EXTINF:-1 tvg-id="KPRC-DT.us_locals1" tvg-name="TX | Houston | NBC KPRC HEVC" group-title="Local - NBC",TX | Houston | NBC KPRC HEVC
 http://173.229.4.247:5004/auto/v102.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - HOU" group-title="Entertainment",Start TV - HOU
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - HOU" group-title="Entertainment - ENG",Start TV - HOU
 http://173.229.4.247:5004/auto/v2.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - HOU" group-title="Entertainment",H&I - HOU
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - HOU" group-title="Entertainment - ENG",H&I - HOU
 http://173.229.4.247:5004/auto/v2.3
-#EXTINF:-1 tvg-id="NHK.World.TV.us2" tvg-name="NHK World - HOU" group-title="Entertainment",NHK World - HOU
+#EXTINF:-1 tvg-id="NHK.World.TV.us2" tvg-name="NHK World - HOU" group-title="Entertainment - ENG",NHK World - HOU
 http://173.229.4.247:5004/auto/v8.4
-#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World Channel - HOU" group-title="Entertainment",World Channel - HOU
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World Channel - HOU" group-title="Entertainment - ENG",World Channel - HOU
 http://173.229.4.247:5004/auto/v8.6
-#EXTINF:-1 tvg-name="Localish - HOU" group-title="Entertainment",Localish - HOU
+#EXTINF:-1 tvg-name="Localish - HOU" group-title="Entertainment - ENG",Localish - HOU
 http://173.229.4.247:5004/auto/v13.2
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - HOU" group-title="Entertainment",Charge - HOU
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - HOU" group-title="Entertainment - ENG",Charge - HOU
 http://173.229.4.247:5004/auto/v13.3
-#EXTINF:-1 tvg-name="Bark TV - HOU" group-title="Entertainment",Bark TV - HOU
+#EXTINF:-1 tvg-name="Bark TV - HOU" group-title="Entertainment - ENG",Bark TV - HOU
 http://173.229.4.247:5004/auto/v15.8
-#EXTINF:-1 tvg-name="Z Living - HOU" group-title="Entertainment",Z Living - HOU
+#EXTINF:-1 tvg-name="Z Living - HOU" group-title="Entertainment - ENG",Z Living - HOU
 http://173.229.4.247:5004/auto/v15.9
-#EXTINF:-1 tvg-id="BINGE-TV.us2" tvg-name="Binge - HOU" group-title="Entertainment",Binge - HOU
+#EXTINF:-1 tvg-id="BINGE-TV.us2" tvg-name="Binge - HOU" group-title="Entertainment - ENG",Binge - HOU
 http://173.229.4.247:5004/auto/v15.12
-#EXTINF:-1 tvg-name="National Black TV" group-title="Entertainment",National Black TV
+#EXTINF:-1 tvg-name="National Black TV" group-title="Entertainment - ENG",National Black TV
 http://173.229.4.247:5004/auto/v15.13
-#EXTINF:-1 tvg-name="Dr Oz - HOU" group-title="Entertainment",Dr Oz - HOU
+#EXTINF:-1 tvg-name="Dr Oz - HOU" group-title="Entertainment - ENG",Dr Oz - HOU
 http://173.229.4.247:5004/auto/v15.14
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - HOU" group-title="Entertainment",Buzzr - HOU
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - HOU" group-title="Entertainment - ENG",Buzzr - HOU
 http://173.229.4.247:5004/auto/v20.4
-#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="Retro TV - HOU" group-title="Entertainment",Retro TV - HOU
+#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="Retro TV - HOU" group-title="Entertainment - ENG",Retro TV - HOU
 http://173.229.4.247:5004/auto/v21.2
-#EXTINF:-1 tvg-name="Heartland TV - HOU" group-title="Entertainment",Heartland TV - HOU
+#EXTINF:-1 tvg-name="Heartland TV - HOU" group-title="Entertainment - ENG",Heartland TV - HOU
 http://173.229.4.247:5004/auto/v21.6
-#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="Action Channel - HOU" group-title="Entertainment",Action Channel - HOU
+#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="Action Channel - HOU" group-title="Entertainment - ENG",Action Channel - HOU
 http://173.229.4.247:5004/auto/v21.17
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - HOU" group-title="Entertainment",Catchy Comedy - HOU
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - HOU" group-title="Entertainment - ENG",Catchy Comedy - HOU
 http://173.229.4.247:5004/auto/v26.2
-#EXTINF:-1 tvg-id="KUGB-CD.us_locals1" tvg-name="KUGB" group-title="Entertainment",KUGB-CD
+#EXTINF:-1 tvg-id="KUGB-CD.us_locals1" tvg-name="KUGB" group-title="Entertainment - ENG",KUGB-CD
 http://173.229.4.247:5004/auto/v28.1
-#EXTINF:-1 tvg-name="KUGB-CD2" group-title="Entertainment",KUGB-CD2
+#EXTINF:-1 tvg-name="KUGB-CD2" group-title="Entertainment - ENG",KUGB-CD2
 http://173.229.4.247:5004/auto/v28.2
-#EXTINF:-1 tvg-name="KUGB-CD3" group-title="Entertainment",KUGB-CD3
+#EXTINF:-1 tvg-name="KUGB-CD3" group-title="Entertainment - ENG",KUGB-CD3
 http://173.229.4.247:5004/auto/v28.3
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - HOU" group-title="Entertainment",365BLK - HOU
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - HOU" group-title="Entertainment - ENG",365BLK - HOU
 http://173.229.4.247:5004/auto/v28.4
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - HOU1" group-title="Entertainment",Outlaw - HOU1
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - HOU1" group-title="Entertainment - ENG",Outlaw - HOU1
 http://173.229.4.247:5004/auto/v28.5
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU1" group-title="Entertainment",Defy - HOU1
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU1" group-title="Entertainment - ENG",Defy - HOU1
 http://173.229.4.247:5004/auto/v28.6
-#EXTINF:-1 tvg-name="KUGB-CD7" group-title="Entertainment",KUGB-CD7
+#EXTINF:-1 tvg-name="KUGB-CD7" group-title="Entertainment - ENG",KUGB-CD7
 http://173.229.4.247:5004/auto/v28.7
-#EXTINF:-1 tvg-id="KUVM-CD.us_locals1" tvg-name="LATV - HOU" group-title="Entertainment",LATV - HOU
+#EXTINF:-1 tvg-id="KUVM-CD.us_locals1" tvg-name="LATV - HOU" group-title="Entertainment - ENG",LATV - HOU
 http://173.229.4.247:5004/auto/v34.1
-#EXTINF:-1 tvg-name="NTD America" group-title="Entertainment",NTD America
+#EXTINF:-1 tvg-name="NTD America" group-title="Entertainment - ENG",NTD America
 http://173.229.4.247:5004/auto/v34.2
-#EXTINF:-1 tvg-name="KUVM-CD3" group-title="Entertainment",KUVM-CD3
+#EXTINF:-1 tvg-name="KUVM-CD3" group-title="Entertainment - ENG",KUVM-CD3
 http://173.229.4.247:5004/auto/v34.3
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU2" group-title="Entertainment",Defy - HOU2
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU2" group-title="Entertainment - ENG",Defy - HOU2
 http://173.229.4.247:5004/auto/v34.4
-#EXTINF:-1 tvg-name="KUVM-CD5" group-title="Entertainment",KUVM-CD5
+#EXTINF:-1 tvg-name="KUVM-CD5" group-title="Entertainment - ENG",KUVM-CD5
 http://173.229.4.247:5004/auto/v34.5
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - HOU2" group-title="Entertainment",Outlaw - HOU2
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - HOU2" group-title="Entertainment - ENG",Outlaw - HOU2
 http://173.229.4.247:5004/auto/v34.6
-#EXTINF:-1 tvg-name="KUVM-CD7" group-title="Entertainment",KUVM-CD7
+#EXTINF:-1 tvg-name="KUVM-CD7" group-title="Entertainment - ENG",KUVM-CD7
 http://173.229.4.247:5004/auto/v34.7
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - HOU" group-title="Entertainment",The Nest - HOU
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - HOU" group-title="Entertainment - ENG",The Nest - HOU
 http://173.229.4.247:5004/auto/v39.3
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind TV - HOU" group-title="Entertainment",Rewind TV - HOU
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind TV - HOU" group-title="Entertainment - ENG",Rewind TV - HOU
 http://173.229.4.247:5004/auto/v39.5
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - HOU" group-title="Entertainment",ION Mystery - HOU
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - HOU" group-title="Entertainment - ENG",ION Mystery - HOU
 http://173.229.4.247:5004/auto/v45.3
-#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - HOU" group-title="Entertainment",NBC True Crimes - HOU
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - HOU" group-title="Entertainment - ENG",NBC True Crimes - HOU
 http://173.229.4.247:5004/auto/v47.3
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - HOU" group-title="Entertainment",Cozi TV - HOU
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - HOU" group-title="Entertainment - ENG",Cozi TV - HOU
 http://173.229.4.247:5004/auto/v47.4
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - HOU" group-title="Entertainment",Oxygen True Crime - HOU
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - HOU" group-title="Entertainment - ENG",Oxygen True Crime - HOU
 http://173.229.4.247:5004/auto/v47.5
-#EXTINF:-1 tvg-id="KPXB-DT.us_locals1" tvg-name="ION Television - HOU" group-title="Entertainment",ION Television - HOU
+#EXTINF:-1 tvg-id="KPXB-DT.us_locals1" tvg-name="ION Television - HOU" group-title="Entertainment - ENG",ION Television - HOU
 http://173.229.4.247:5004/auto/v49.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - HOU" group-title="Entertainment",Bounce TV - HOU
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - HOU" group-title="Entertainment - ENG",Bounce TV - HOU
 http://173.229.4.247:5004/auto/v49.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - HOU" group-title="Entertainment",Laff - HOU
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - HOU" group-title="Entertainment - ENG",Laff - HOU
 http://173.229.4.247:5004/auto/v49.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - HOU" group-title="Entertainment",ION Plus - HOU
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - HOU" group-title="Entertainment - ENG",ION Plus - HOU
 http://173.229.4.247:5004/auto/v49.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - HOU" group-title="Entertainment",Busted - HOU
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - HOU" group-title="Entertainment - ENG",Busted - HOU
 http://173.229.4.247:5004/auto/v49.5
-#EXTINF:-1 tvg-name="Game Show Central - HOU" group-title="Entertainment",Game Show Central - HOU
+#EXTINF:-1 tvg-name="Game Show Central - HOU" group-title="Entertainment - ENG",Game Show Central - HOU
 http://173.229.4.247:5004/auto/v49.6
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU3" group-title="Entertainment",Defy - HOU3
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - HOU3" group-title="Entertainment - ENG",Defy - HOU3
 http://173.229.4.247:5004/auto/v49.8
-#EXTINF:-1 tvg-id="KYAZ-DT.us_locals1" tvg-name="meTV - HOU" group-title="Entertainment",meTV - HOU
+#EXTINF:-1 tvg-id="KYAZ-DT.us_locals1" tvg-name="meTV - HOU" group-title="Entertainment - ENG",meTV - HOU
 http://173.229.4.247:5004/auto/v51.1
-#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - HOU" group-title="Entertainment",meTV Plus - HOU
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - HOU" group-title="Entertainment - ENG",meTV Plus - HOU
 http://173.229.4.247:5004/auto/v51.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - HOU" group-title="Entertainment",DABL - HOU
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - HOU" group-title="Entertainment - ENG",DABL - HOU
 http://173.229.4.247:5004/auto/v51.3
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - HOU" group-title="Entertainment",Story Television - HOU
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - HOU" group-title="Entertainment - ENG",Story Television - HOU
 http://173.229.4.247:5004/auto/v51.4
-#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST TV - HOU" group-title="Entertainment",WEST TV - HOU
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST TV - HOU" group-title="Entertainment - ENG",WEST TV - HOU
 http://173.229.4.247:5004/auto/v51.5
-#EXTINF:-1 tvg-id="KTBU-DT.us_locals1" tvg-name="Quest - HOU" group-title="Entertainment",Quest - HOU
+#EXTINF:-1 tvg-id="KTBU-DT.us_locals1" tvg-name="Quest - HOU" group-title="Entertainment - ENG",Quest - HOU
 http://173.229.4.247:5004/auto/v55.1
-#EXTINF:-1 tvg-name="True Crime Network - HOU" group-title="Entertainment",True Crime Network - HOU
+#EXTINF:-1 tvg-name="True Crime Network - HOU" group-title="Entertainment - ENG",True Crime Network - HOU
 http://173.229.4.247:5004/auto/v55.2
-#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="Ace TV - HOU" group-title="Entertainment",Ace TV - HOU
+#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="Ace TV - HOU" group-title="Entertainment - ENG",Ace TV - HOU
 http://173.229.4.247:5004/auto/v57.2
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - HOU" group-title="Entertainment",Confess - HOU
+#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - HOU" group-title="Entertainment - ENG",Confess - HOU
 http://173.229.4.247:5004/auto/v61.6
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - HOU" group-title="Entertainment",GET - HOU
+#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - HOU" group-title="Entertainment - ENG",GET - HOU
 http://173.229.4.247:5004/auto/v67.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - HOU" group-title="Entertainment",Grit TV - HOU
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - HOU" group-title="Entertainment - ENG",Grit TV - HOU
 http://173.229.4.247:5004/auto/v67.3
 
 #GROUP:Local - CW/IND/MY
@@ -4270,16 +4332,16 @@ http://173.229.4.247:5004/auto/v15.15
 #EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Road - HOU" group-title="Sports",Fun Road - HOU
 http://173.229.4.247:5004/auto/v21.15
 
-#GROUP:News
-#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN" group-title="News",OAN
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN" group-title="News - ENG",OAN
 http://173.229.4.247:5004/auto/v15.5
-#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2" group-title="News",NewsMax2
+#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2" group-title="News - ENG",NewsMax2
 http://173.229.4.247:5004/auto/v21.1
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - HOU" group-title="News",FOX Weather - HOU
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - HOU" group-title="News - ENG",FOX Weather - HOU
 http://173.229.4.247:5004/auto/v26.3
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - HOU" group-title="News",Court TV - HOU
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - HOU" group-title="News - ENG",Court TV - HOU
 http://173.229.4.247:5004/auto/v49.7
-#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News - HOU" group-title="News",Estrella News - HOU
+#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News - HOU" group-title="News - ENG",Estrella News - HOU
 http://173.229.4.247:5004/auto/v61.2
 
 #GROUP:Movies
@@ -4354,94 +4416,94 @@ http://173.229.4.243:5004/auto/v12.1
 #EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR HEVC" group-title="Local - CBS",FL | Miami | CBS WFOR HEVC
 http://173.229.4.243:5004/auto/v104.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - FL" group-title="Entertainment",Start TV - FL
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - FL" group-title="Entertainment - ENG",Start TV - FL
 http://173.229.4.243:5004/auto/v4.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL1" group-title="Entertainment",DABL - FL1
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL1" group-title="Entertainment - ENG",DABL - FL1
 http://173.229.4.243:5004/auto/v4.3
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - FL" group-title="Entertainment",Outlaw - FL
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - FL" group-title="Entertainment - ENG",Outlaw - FL
 http://173.229.4.243:5004/auto/v4.4
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - FL" group-title="Entertainment",Catchy Comedy - FL
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - FL" group-title="Entertainment - ENG",Catchy Comedy - FL
 http://173.229.4.243:5004/auto/v4.5
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL1" group-title="Entertainment",ION Plus - FL1
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL1" group-title="Entertainment - ENG",ION Plus - FL1
 http://173.229.4.243:5004/auto/v5.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF - FL" group-title="Entertainment - ENG",LAFF - FL
 http://173.229.4.243:5004/auto/v5.3
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL1" group-title="Entertainment",ION Television - FL1
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL1" group-title="Entertainment - ENG",ION Television - FL1
 http://173.229.4.243:5004/auto/v5.4
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL1" group-title="Entertainment",GET - FL1
+#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL1" group-title="Entertainment - ENG",GET - FL1
 http://173.229.4.243:5004/auto/v5.5
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" group-title="Entertainment",COZI TV
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" group-title="Entertainment - ENG",COZI TV
 http://173.229.4.243:5004/auto/v6.2
-#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes" group-title="Entertainment",NBC True Crimes
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes" group-title="Entertainment - ENG",NBC True Crimes
 http://173.229.4.243:5004/auto/v6.3
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" group-title="Entertainment",Oxygen True Crime
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" group-title="Entertainment - ENG",Oxygen True Crime
 http://173.229.4.243:5004/auto/v6.4
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL1" group-title="Entertainment",Grit TV - FL1
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL1" group-title="Entertainment - ENG",Grit TV - FL1
 http://173.229.4.243:5004/auto/v9.3
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV - FL" group-title="Entertainment",METV - FL
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV - FL" group-title="Entertainment - ENG",METV - FL
 http://173.229.4.243:5004/auto/v10.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - FL" group-title="Entertainment",H&I - FL
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - FL" group-title="Entertainment - ENG",H&I - FL
 http://173.229.4.243:5004/auto/v10.3
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL1" group-title="Entertainment",Charge! - FL1
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL1" group-title="Entertainment - ENG",Charge! - FL1
 http://173.229.4.243:5004/auto/v12.2
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL1" group-title="Entertainment",Comet - FL1
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL1" group-title="Entertainment - ENG",Comet - FL1
 http://173.229.4.243:5004/auto/v12.3
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - FL" group-title="Entertainment",The Nest - FL
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - FL" group-title="Entertainment - ENG",The Nest - FL
 http://173.229.4.243:5004/auto/v12.4
-#EXTINF:-1 tvg-name="True Crime Network - FL" group-title="Entertainment",True Crime Network - FL
+#EXTINF:-1 tvg-name="True Crime Network - FL" group-title="Entertainment - ENG",True Crime Network - FL
 http://173.229.4.243:5004/auto/v23.2
-#EXTINF:-1 tvg-id="plex.tv.Nosey.plex" tvg-name="Nosey - FL" group-title="Entertainment",Nosey - FL
+#EXTINF:-1 tvg-id="plex.tv.Nosey.plex" tvg-name="Nosey - FL" group-title="Entertainment - ENG",Nosey - FL
 http://173.229.4.243:5004/auto/v23.3
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - FL2" group-title="Entertainment",Charge - FL2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - FL2" group-title="Entertainment - ENG",Charge - FL2
 http://173.229.4.243:5004/auto/v33.3
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL2" group-title="Entertainment",Comet - FL2
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL2" group-title="Entertainment - ENG",Comet - FL2
 http://173.229.4.243:5004/auto/v33.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - FL" group-title="Entertainment",Story Television - FL
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - FL" group-title="Entertainment - ENG",Story Television - FL
 http://173.229.4.243:5004/auto/v33.5
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - FL" group-title="Entertainment",Roar - FL
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - FL" group-title="Entertainment - ENG",Roar - FL
 http://173.229.4.243:5004/auto/v33.6
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL2" group-title="Entertainment",ION Television - FL2
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL2" group-title="Entertainment - ENG",ION Television - FL2
 http://173.229.4.243:5004/auto/v35.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - FL" group-title="Entertainment",Bounce TV - FL
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - FL" group-title="Entertainment - ENG",Bounce TV - FL
 http://173.229.4.243:5004/auto/v35.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL2" group-title="Entertainment",Grit TV - FL2
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL2" group-title="Entertainment - ENG",Grit TV - FL2
 http://173.229.4.243:5004/auto/v35.3
-#EXTINF:-1 tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
+#EXTINF:-1 tvg-name="LAFF - FL" group-title="Entertainment - ENG",LAFF - FL
 http://173.229.4.243:5004/auto/v35.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL1" group-title="Entertainment",BUSTED - FL1
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL1" group-title="Entertainment - ENG",BUSTED - FL1
 http://173.229.4.243:5004/auto/v35.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL1" group-title="Entertainment",Game Show Central - FL1
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL1" group-title="Entertainment - ENG",Game Show Central - FL1
 http://173.229.4.243:5004/auto/v35.7
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL1" group-title="Entertainment",ION Mystery - FL1
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL1" group-title="Entertainment - ENG",ION Mystery - FL1
 http://173.229.4.243:5004/auto/v35.8
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - FL" group-title="Entertainment",Antenna TV - FL
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - FL" group-title="Entertainment - ENG",Antenna TV - FL
 http://173.229.4.243:5004/auto/v39.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL2" group-title="Entertainment",ION Plus - FL2
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL2" group-title="Entertainment - ENG",ION Plus - FL2
 http://173.229.4.243:5004/auto/v39.4
-#EXTINF:-1 tvg-name="ONTV4U" group-title="Entertainment",45.4 ONTV4U
+#EXTINF:-1 tvg-name="ONTV4U" group-title="Entertainment - ENG",45.4 ONTV4U
 http://173.229.4.243:5004/auto/v45.4
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL3" group-title="Entertainment",Charge! - FL3
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL3" group-title="Entertainment - ENG",Charge! - FL3
 http://173.229.4.243:5004/auto/v48.2
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL3" group-title="Entertainment",ION Television - FL3
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL3" group-title="Entertainment - ENG",ION Television - FL3
 http://173.229.4.243:5004/auto/v67.1
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL2" group-title="Entertainment",ION Mystery - FL2
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL2" group-title="Entertainment - ENG",ION Mystery - FL2
 http://173.229.4.243:5004/auto/v67.2
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - FL" group-title="Entertainment",DEFY - FL
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - FL" group-title="Entertainment - ENG",DEFY - FL
 http://173.229.4.243:5004/auto/v67.3
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL2" group-title="Entertainment",DABL - FL2
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL2" group-title="Entertainment - ENG",DABL - FL2
 http://173.229.4.243:5004/auto/v67.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL2" group-title="Entertainment",BUSTED - FL2
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL2" group-title="Entertainment - ENG",BUSTED - FL2
 http://173.229.4.243:5004/auto/v67.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL2" group-title="Entertainment",Game Show Central - FL2
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL2" group-title="Entertainment - ENG",Game Show Central - FL2
 http://173.229.4.243:5004/auto/v67.6
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - FL" group-title="Entertainment",Confess - FL
+#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - FL" group-title="Entertainment - ENG",Confess - FL
 http://173.229.4.243:5004/auto/v69.2
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL2" group-title="Entertainment",GET - FL2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - FL2" group-title="Entertainment - ENG",Great - FL2
 http://173.229.4.243:5004/auto/v69.3
-#EXTINF:-1 tvg-name="BT2 - FL" group-title="Entertainment",BT2 - FL
+#EXTINF:-1 tvg-name="BT2 - FL" group-title="Entertainment - ENG",BT2 - FL
 http://173.229.4.243:5004/auto/v69.4
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - FL" group-title="Entertainment",Quest - FL
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - FL" group-title="Entertainment - ENG",Quest - FL
 http://173.229.4.243:5004/auto/v69.5
 
 #GROUP:Local - NBC
@@ -4488,10 +4550,10 @@ http://173.229.4.243:5004/auto/v39.1
 #EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Miami | WBEC" group-title="Local - CW/IND/MY",FL | Miami | WBEC
 http://173.229.4.243:5004/auto/v63.1
 
-#GROUP:News
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL1" group-title="News",Court TV - FL1
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL1" group-title="News - ENG",Court TV - FL1
 http://173.229.4.243:5004/auto/v9.2
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL2" group-title="News",Court TV - FL2
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL2" group-title="News - ENG",Court TV - FL2
 http://173.229.4.243:5004/auto/v39.2
 
 #GROUP:Spanish
@@ -4533,79 +4595,79 @@ http://173.229.4.243:5004/auto/v45.5
 
 ==================================================
 
-#PLAYLIST:x pittsburgh-pa1-hdhr
-#EXTGRP:x pittsburgh-pa1-hdhr
+#PLAYLIST:x pittsburgh-pa-hdhr1
+#EXTGRP:x pittsburgh-pa-hdhr1
 
 #GROUP:Local - CBS
 #EXTINF:-1 tvg-id="KDKA-DT.us_locals1" tvg-name="PA | Pittsburgh | CBS KDKA1" group-title="Local - CBS",PA | Pittsburgh | CBS KDKA1
 http://164.52.224.212:5004/auto/v2.1
 
-#GROUP:Entertainment
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PITPA1" group-title="Entertainment",Start TV - PITPA1
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PITPA1" group-title="Entertainment - ENG",Start TV - PITPA1
 http://164.52.224.212:5004/auto/v2.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - PITPA1" group-title="Entertainment",DABL - PITPA1
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - PITPA1" group-title="Entertainment - ENG",DABL - PITPA1
 http://164.52.224.212:5004/auto/v2.3
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA1" group-title="Entertainment",365BLK - PITPA1
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA1" group-title="Entertainment - ENG",365BLK - PITPA1
 http://164.52.224.212:5004/auto/v2.4
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PITPA1" group-title="Entertainment",Catchy Comedy - PITPA1 
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PITPA1" group-title="Entertainment - ENG",Catchy Comedy - PITPA1
 http://164.52.224.212:5004/auto/v2.5
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - PITPA1" group-title="Entertainment",Cozi TV - PITPA1
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - PITPA1" group-title="Entertainment - ENG",Cozi TV - PITPA1
 http://164.52.224.212:5004/auto/v4.2
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PITPA1" group-title="Entertainment",Story Television - PITPA1
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PITPA1" group-title="Entertainment - ENG",Story Television - PITPA1
 http://164.52.224.212:5004/auto/v4.3
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV - PITPA1" group-title="Entertainment",MeTV - PITPA1
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV - PITPA1" group-title="Entertainment - ENG",MeTV - PITPA1
 http://164.52.224.212:5004/auto/v11.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF TV - PITPA1" group-title="Entertainment",LAFF TV - PITPA1
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF TV - PITPA1" group-title="Entertainment - ENG",LAFF TV - PITPA1
 http://164.52.224.212:5004/auto/v11.3
-#EXTINF:-1 tvg-id="WINP-DT.us_locals1" tvg-name="ION Television - PITPA1" group-title="Entertainment",ION Television - PITPA1
+#EXTINF:-1 tvg-id="WINP-DT.us_locals1" tvg-name="ION Television - PITPA1" group-title="Entertainment - ENG",ION Television - PITPA1
 http://164.52.224.212:5004/auto/v16.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - PITPA1" group-title="Entertainment",Bounce TV - PITPA1
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - PITPA1" group-title="Entertainment - ENG",Bounce TV - PITPA1
 http://164.52.224.212:5004/auto/v16.2
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - PITPA1" group-title="Entertainment",ION Mystery - PITPA1
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - PITPA1" group-title="Entertainment - ENG",ION Mystery - PITPA1
 http://164.52.224.212:5004/auto/v16.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - PITPA1" group-title="Entertainment",ION Plus - PITPA1
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - PITPA1" group-title="Entertainment - ENG",ION Plus - PITPA1
 http://164.52.224.212:5004/auto/v16.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - PITPA1" group-title="Entertainment",BUSTED - PITPA1
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - PITPA1" group-title="Entertainment - ENG",BUSTED - PITPA1
 http://164.52.224.212:5004/auto/v16.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex " tvg-name="Game Show Central - PITPA1" group-title="Entertainment",Game Show Central - PITPA1
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex " tvg-name="Game Show Central - PITPA1" group-title="Entertainment - ENG",Game Show Central - PITPA1
 http://164.52.224.212:5004/auto/v16.6
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PITPA1" group-title="Entertainment",The Nest - PITPA1
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PITPA1" group-title="Entertainment - ENG",The Nest - PITPA1
 http://164.52.224.212:5004/auto/v22.2
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PITPA1" group-title="Entertainment",Comet - PITPA1
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PITPA1" group-title="Entertainment - ENG",Comet - PITPA1
 http://164.52.224.212:5004/auto/v22.3
-#EXTINF:-1 tvg-name="True Crime Network - PITPA1" group-title="Entertainment",True Crime Network - PITPA1
+#EXTINF:-1 tvg-name="True Crime Network - PITPA1" group-title="Entertainment - ENG",True Crime Network - PITPA1
 http://164.52.224.212:5004/auto/v22.4
-#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="ACTION Channel - PITPA1" group-title="Entertainment",ACTION Channel - PITPA1
+#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="ACTION Channel - PITPA1" group-title="Entertainment - ENG",ACTION Channel - PITPA1
 http://164.52.224.212:5004/auto/v45.2
-#EXTINF:-1 tvg-name="FAMILY - PITPA1" group-title="Entertainment",FAMILY - PITPA1
+#EXTINF:-1 tvg-name="FAMILY - PITPA1" group-title="Entertainment - ENG",FAMILY - PITPA1
 http://164.52.224.212:5004/auto/v45.3
-#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="ACE TV - PITPA1" group-title="Entertainment",ACE TV - PITPA1
+#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="ACE TV - PITPA1" group-title="Entertainment - ENG",ACE TV - PITPA1
 http://164.52.224.212:5004/auto/v45.4
-#EXTINF:-1 tvg-id="YTA.Youtoo.America.us2" tvg-name="YTA - PITPA1" group-title="Entertainment",YTA - PITPA1
+#EXTINF:-1 tvg-id="YTA.Youtoo.America.us2" tvg-name="YTA - PITPA1" group-title="Entertainment - ENG",YTA - PITPA1
 http://164.52.224.212:5004/auto/v45.6
-#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="AMGTV - PITPA1" group-title="Entertainment",AMGTV - PITPA1
+#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="AMGTV - PITPA1" group-title="Entertainment - ENG",AMGTV - PITPA1
 http://164.52.224.212:5004/auto/v45.7
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - PITPA1" group-title="Entertainment",Antenna TV - PITPA1
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - PITPA1" group-title="Entertainment - ENG",Antenna TV - PITPA1
 http://164.52.224.212:5004/auto/v53.2
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - PITPA1" group-title="Entertainment",Charge - PITPA1
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - PITPA1" group-title="Entertainment - ENG",Charge - PITPA1
 http://164.52.224.212:5004/auto/v53.3
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="ROAR - PITPA1" group-title="Entertainment",ROAR - PITPA1
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="ROAR - PITPA1" group-title="Entertainment - ENG",ROAR - PITPA1
 http://164.52.224.212:5004/auto/v53.4
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR - PITPA1" group-title="Entertainment",BUZZR - PITPA1
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR - PITPA1" group-title="Entertainment - ENG",BUZZR - PITPA1
 http://164.52.224.212:5004/auto/v61.3
-#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - PITPA1" group-title="Entertainment",WEST - PITPA1
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - PITPA1" group-title="Entertainment - ENG",WEST - PITPA1
 http://164.52.224.212:5004/auto/v61.5
-#EXTINF:-1 tvg-name="NTD" group-title="Entertainment",69.2 NTD
+#EXTINF:-1 tvg-name="NTD" group-title="Entertainment - ENG",69.2 NTD
 http://164.52.224.212:5004/auto/v69.2
-#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="RETRO - PITPA1" group-title="Entertainment",RETRO - PITPA1
+#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="RETRO - PITPA1" group-title="Entertainment - ENG",RETRO - PITPA1
 http://164.52.224.212:5004/auto/v69.3
-#EXTINF:-1 tvg-name="True Crime Network - PITPA1" group-title="Entertainment",True Crime Network - PITPA1
+#EXTINF:-1 tvg-name="True Crime Network - PITPA1" group-title="Entertainment - ENG",True Crime Network - PITPA1
 http://164.52.224.212:5004/auto/v69.5
-#EXTINF:-1 tvg-name="Heartland TV - PITPA1" group-title="Entertainment",Heartland TV - PITPA1
+#EXTINF:-1 tvg-name="Heartland TV - PITPA1" group-title="Entertainment - ENG",Heartland TV - PITPA1
 http://164.52.224.212:5004/auto/v69.6
-#EXTINF:-1 tvg-name="AWE PLUS - PITPA1" group-title="Entertainment",AWE PLUS - PITPA1
+#EXTINF:-1 tvg-name="AWE PLUS - PITPA1" group-title="Entertainment - ENG",AWE PLUS - PITPA1
 http://164.52.224.212:5004/auto/v69.7
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="REWIND - PITPA1" group-title="Entertainment",REWIND - PITPA1
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="REWIND - PITPA1" group-title="Entertainment - ENG",REWIND - PITPA1
 http://164.52.224.212:5004/auto/v69.8
 
 #GROUP:Local - ABC
@@ -4616,16 +4678,16 @@ http://164.52.224.212:5004/auto/v4.1
 #EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="PA | Pittsburgh | NBC WPXI1" group-title="Local - NBC",PA | Pittsburgh | NBC WPXI1
 http://164.52.224.212:5004/auto/v11.1
 
-#GROUP:News
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="PCNC - PITPA1" group-title="News",PCNC - PITPA1
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="PCNC - PITPA1" group-title="News - ENG",PCNC - PITPA1
 http://164.52.224.212:5004/auto/v11.4
-#EXTINF:-1 tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation - PITPA1" group-title="News",WeatherNation - PITPA1
+#EXTINF:-1 tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation - PITPA1" group-title="News - ENG",WeatherNation - PITPA1
 http://164.52.224.212:5004/auto/v45.10
-#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" group-title="News",Newsmax2
+#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" group-title="News - ENG",Newsmax2
 http://164.52.224.212:5004/auto/v61.7
-#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN - PITPA1" group-title="News",OAN - PITPA1
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN - PITPA1" group-title="News - ENG",OAN - PITPA1
 http://164.52.224.212:5004/auto/v61.8
-#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="Real America's Voice - PITPA1" group-title="News",Real America's Voice - PITPA1
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="Real America's Voice - PITPA1" group-title="News - ENG",Real America's Voice - PITPA1
 http://164.52.224.212:5004/auto/v61.9
 
 #GROUP:Kids & Family
@@ -4696,9 +4758,317 @@ http://164.52.224.212:5004/auto/v65.3
 #EXTINF:-1 tvg-name="MARIAVN - PITPA1" group-title="Spanish",MARIAVN - PITPA1
 http://164.52.224.212:5004/auto/v69.9
 
-#GROUP:Uncategorized
-#EXTINF:-1 tvg-name="CANELLA - PITPA1" group-title="Uncategorized",CANELLA - PITPA1
-http://164.52.224.212:5004/auto/v69.10
+
+==================================================
+
+#PLAYLIST:x pittsburgh-pa-hdhr2
+#EXTGRP:x pittsburgh-pa-hdhr2
+
+#GROUP:Local - CBS
+#EXTINF:-1 tvg-id="KDKA-DT.us_locals1" tvg-name="PA | Pittsburgh | CBS KDKA2" group-title="Local - CBS",PA | Pittsburgh | CBS KDKA2
+http://98.111.243.7:5004/auto/v2.1
+
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PITPA2" group-title="Entertainment - ENG",Start TV - PITPA2
+http://98.111.243.7:5004/auto/v2.2
+#EXTINF:-1 tvg-id="Dabl.Network.LLC.us2" tvg-name="DABL - PITPA2" group-title="Entertainment - ENG",DABL - PITPA2
+http://98.111.243.7:5004/auto/v2.3
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA2" group-title="Entertainment - ENG",365BLK - PITPA2
+http://98.111.243.7:5004/auto/v2.4
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PITPA2" group-title="Entertainment - ENG",Catchy Comedy - PITPA2
+http://98.111.243.7:5004/auto/v2.5
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - PITPA2" group-title="Entertainment - ENG",Cozi TV - PITPA2
+http://98.111.243.7:5004/auto/v4.2
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="STORY - PITPA2" group-title="Entertainment - ENG",STORY - PITPA2
+http://98.111.243.7:5004/auto/v4.3
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV - PITPA2" group-title="Entertainment - ENG",MeTV - PITPA2
+http://98.111.243.7:5004/auto/v11.2
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF TV - PITPA2" group-title="Entertainment - ENG",LAFF TV - PITPA2
+http://98.111.243.7:5004/auto/v11.3
+#EXTINF:-1 tvg-id="WINP-DT.us_locals1" tvg-name="ION Television - PITPA2" group-title="Entertainment - ENG",ION Television - PITPA2
+http://98.111.243.7:5004/auto/v16.1
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - PITPA2" group-title="Entertainment - ENG",Bounce TV - PITPA2
+http://98.111.243.7:5004/auto/v16.2
+#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="ION Mystery - PITPA2" group-title="Entertainment - ENG",ION Mystery - PITPA2
+http://98.111.243.7:5004/auto/v16.3
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - PITPA2" group-title="Entertainment - ENG",ION Plus - PITPA2
+http://98.111.243.7:5004/auto/v16.4
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - PITPA2" group-title="Entertainment - ENG",BUSTED - PITPA2
+http://98.111.243.7:5004/auto/v16.5
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - PITPA2" group-title="Entertainment - ENG",Game Show Central - PITPA2
+http://98.111.243.7:5004/auto/v16.6
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - PITPA2" group-title="Entertainment - ENG",H&I - PITPA2
+http://98.111.243.7:5004/auto/v19.2
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="GRIT TV - PITPA2" group-title="Entertainment - ENG",GRIT TV - PITPA2
+http://98.111.243.7:5004/auto/v19.3
+#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey - PITPA2" group-title="Entertainment - ENG",Nosey - PITPA2
+http://98.111.243.7:5004/auto/v19.6
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PITPA2" group-title="Entertainment - ENG",The Nest - PITPA2
+http://98.111.243.7:5004/auto/v22.2
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PITPA2" group-title="Entertainment - ENG",Comet - PITPA2
+http://98.111.243.7:5004/auto/v22.3
+#EXTINF:-1 tvg-name="True Crime Network - PITPA2" group-title="Entertainment - ENG",True Crime Network - PITPA2
+http://98.111.243.7:5004/auto/v22.4
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA2" group-title="Entertainment - ENG",365BLK - PITPA2
+http://98.111.243.7:5004/auto/v40.3
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - PITPA2" group-title="Entertainment - ENG",Quest - PITPA2
+http://98.111.243.7:5004/auto/v40.4
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - PITPA2" group-title="Entertainment - ENG",Great - PITPA2
+http://98.111.243.7:5004/auto/v40.5
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - PITPA2" group-title="Entertainment - ENG",DEFY - PITPA2
+http://98.111.243.7:5004/auto/v40.6
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="OUTLAW - PITPA2" group-title="Entertainment - ENG",OUTLAW - PITPA2
+http://98.111.243.7:5004/auto/v40.7
+#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="ACTION - PITPA2" group-title="Entertainment - ENG",ACTION - PITPA2
+http://98.111.243.7:5004/auto/v45.2
+#EXTINF:-1 tvg-name="FAMILY - PITPA2" group-title="Entertainment - ENG",FAMILY - PITPA2
+http://98.111.243.7:5004/auto/v45.3
+#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="ACE TV - PITPA2" group-title="Entertainment - ENG",ACE TV - PITPA2
+http://98.111.243.7:5004/auto/v45.4
+#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="Right Now TV - PITPA2" group-title="Entertainment - ENG",Right Now TV - PITPA2
+http://98.111.243.7:5004/auto/v45.5
+#EXTINF:-1 tvg-id="YTA.Youtoo.America.us2" tvg-name="YTA - PITPA2" group-title="Entertainment - ENG",YTA - PITPA2
+http://98.111.243.7:5004/auto/v45.6
+#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="AMG TV - PITPA2" group-title="Entertainment - ENG",AMG TV - PITPA2
+http://98.111.243.7:5004/auto/v45.7
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna - PITPA2" group-title="Entertainment - ENG",Antenna - PITPA2
+http://98.111.243.7:5004/auto/v53.2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - PITPA2" group-title="Entertainment - ENG",Charge! - PITPA2
+http://98.111.243.7:5004/auto/v53.3
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="ROAR - PITPA2" group-title="Entertainment - ENG",ROAR - PITPA2
+http://98.111.243.7:5004/auto/v53.4
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR - PITPA2" group-title="Entertainment - ENG",BUZZR - PITPA2
+http://98.111.243.7:5004/auto/v61.3
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST TV - PITPA2" group-title="Entertainment - ENG",WEST TV - PITPA2
+http://98.111.243.7:5004/auto/v61.5
+#EXTINF:-1 tvg-name="NTD - PITPA2" group-title="Entertainment - ENG",NTD - PITPA2
+http://98.111.243.7:5004/auto/v69.2
+#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="RETRO - PITPA2" group-title="Entertainment - ENG",RETRO - PITPA2
+http://98.111.243.7:5004/auto/v69.3
+#EXTINF:-1 tvg-name="TRUCRME (OFFLINE)" group-title="Entertainment - ENG",69.5 TRUCRME (OFFLINE)
+http://98.111.243.7:5004/auto/v69.5
+#EXTINF:-1 tvg-name="Heartland (TV network)" group-title="Entertainment - ENG",Heartland (TV network)
+http://98.111.243.7:5004/auto/v69.6
+#EXTINF:-1 tvg-id="AWE.Plus.distro" tvg-name="AWE PLUS - PITPA2" group-title="Entertainment - ENG",AWE PLUS - PITPA2
+http://98.111.243.7:5004/auto/v69.7
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="REWIND - PITPA2" group-title="Entertainment - ENG",REWIND - PITPA2
+http://98.111.243.7:5004/auto/v69.8
+
+#GROUP:Local - ABC
+#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC WTAE2" group-title="Local - ABC",PA | Pittsburgh | ABC WTAE2
+http://98.111.243.7:5004/auto/v4.1
+
+#GROUP:Local - NBC
+#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="PA | Pittsburgh | NBC WPXI2" group-title="Local - NBC",PA | Pittsburgh | NBC WPXI2
+http://98.111.243.7:5004/auto/v11.1
+
+#GROUP:News - ENG
+#EXTINF:-1 tvg-id="PCNC - PITPA2" tvg-name="PCNC" group-title="News - ENG",PCNC - PITPA2
+http://98.111.243.7:5004/auto/v11.4
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="CourtTV - PITPA2" group-title="News - ENG",CourtTV - PITPA2
+http://98.111.243.7:5004/auto/v40.2
+#EXTINF:-1 tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation - PITPA2" group-title="News - ENG",WeatherNation - PITPA2
+http://98.111.243.7:5004/auto/v45.10
+#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax 2 - PITPA2" group-title="News - ENG",NewsMax 2 - PITPA2
+http://98.111.243.7:5004/auto/v61.7
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News - PITPA2" group-title="News - ENG",One America News - PITPA2
+http://98.111.243.7:5004/auto/v61.8
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="Real America's Voice - PITPA2" group-title="News - ENG",Real America's Voice - PITPA2
+http://98.111.243.7:5004/auto/v61.9
+
+#GROUP:Kids & Family
+#EXTINF:-1 tvg-id="WQED-DT.us_locals1" tvg-name="PA | Pittsburgh | PBS WQED2" group-title="Kids & Family",PA | Pittsburgh | PBS WQED2
+http://98.111.243.7:5004/auto/v13.1
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="CREATE - PITPA2" group-title="Kids & Family",CREATE - PITPA2
+http://98.111.243.7:5004/auto/v13.2
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="WORLD - PITPA2" group-title="Kids & Family",WORLD - PITPA2
+http://98.111.243.7:5004/auto/v13.3
+#EXTINF:-1 tvg-name="SHOW - PITPA2" group-title="Kids & Family",SHOW - PITPA2
+http://98.111.243.7:5004/auto/v13.4
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS KIDS - PITPA2" group-title="Kids & Family",PBS KIDS - PITPA2
+http://98.111.243.7:5004/auto/v13.5
+#EXTINF:-1 tvg-id="WOSC-CD.us_locals1" tvg-name="meTV Toons - PITPA2" group-title="Kids & Family",meTV Toons - PITPA2
+http://98.111.243.7:5004/auto/v61.1
+
+#GROUP:Shopping
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - PITPA2" group-title="Shopping",QVC1 - PITPA2
+http://98.111.243.7:5004/auto/v16.7
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - PITPA2" group-title="Shopping",HSN1 - PITPA2
+http://98.111.243.7:5004/auto/v16.8
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - PITPA2" group-title="Shopping",HSN1 - PITPA2
+http://98.111.243.7:5004/auto/v19.5
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - PITPA2" group-title="Shopping",QVC1 - PITPA2
+http://98.111.243.7:5004/auto/v61.6
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2 - PITPA2" group-title="Shopping",QVC2 - PITPA2
+http://98.111.243.7:5004/auto/v61.11
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - PITPA2" group-title="Shopping",HSN2 - PITPA2
+http://98.111.243.7:5004/auto/v61.12
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="SHOP LC - PITPA2" group-title="Shopping",SHOP LC - PITPA2
+http://98.111.243.7:5004/auto/v69.11
+
+#GROUP:Local - CW/IND/MY
+#EXTINF:-1 tvg-id="WPKD-DT.us_locals1" tvg-name="PA | Pittsburgh | KDKA+" group-title="Local - CW/IND/MY",PA | Pittsburgh | KDKA+
+http://98.111.243.7:5004/auto/v19.1
+#EXTINF:-1 tvg-id="WPNT-DT.us_locals1" tvg-name="PA | Pittsburgh | CW/MY WPNT1" group-title="Local - CW/IND/MY",PA | Pittsburgh | CW/MY WPNT2
+http://98.111.243.7:5004/auto/v22.1
+
+#GROUP:Movies
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - PITPA2" group-title="Movies",Movies! - PITPA2
+http://98.111.243.7:5004/auto/v19.4
+#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere - PITPA2" group-title="Movies",MovieSphere - PITPA2
+http://98.111.243.7:5004/auto/v61.2
+#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere Gold - PITPA2" group-title="Movies",MovieSphere Gold - PITPA2
+http://98.111.243.7:5004/auto/v69.1
+
+#GROUP:Religion
+#EXTINF:-1 tvg-id="WPCB-DT.us_locals1" tvg-name="Cornerstone Television - PITPA2" group-title="Religion",Cornerstone Television - PITPA2
+http://98.111.243.7:5004/auto/v40.1
+#EXTINF:-1 tvg-name="Family Faith Channel - PITPA2" group-title="Religion",Family Faith Channel - PITPA2
+http://98.111.243.7:5004/auto/v40.8
+#EXTINF:-1 tvg-id="SonLife.Broadcasting.Network.HD.us2" tvg-name="Sonlife Broadcasting - PITPA2" group-title="Religion",Sonlife Broadcasting - PITPA2
+http://98.111.243.7:5004/auto/v61.4
+#EXTINF:-1 tvg-name="One Source Network - PITPA2" group-title="Religion",One Source Network - PITPA2
+http://98.111.243.7:5004/auto/v61.10
+#EXTINF:-1 tvg-id="WPDN-LD.us_locals1" tvg-name="Daystar English - PITPA2" group-title="Religion",Daystar English - PITPA2
+http://98.111.243.7:5004/auto/v65.1
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar Español - PITPA2" group-title="Religion",Daystar Español - PITPA2
+http://98.111.243.7:5004/auto/v65.2
+#EXTINF:-1 tvg-id="Positiv.TV.us2" tvg-name="Positiv - PITPA2" group-title="Religion",Positiv - PITPA2
+http://98.111.243.7:5004/auto/v65.3
+#EXTINF:-1 tvg-id="Canal.María.Visión.mx" tvg-name="Maria Visión - PITPA2" group-title="Religion",Maria Visión - PITPA2
+http://98.111.243.7:5004/auto/v69.9
+
+#GROUP:Sports
+#EXTINF:-1 tvg-id="WWAT-DT.us_locals1" tvg-name="Rev'n - PITPA2" group-title="Sports",Rev'n - PITPA2
+http://98.111.243.7:5004/auto/v45.1
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads - PITPA2" group-title="Sports",Fun Roads - PITPA2
+http://98.111.243.7:5004/auto/v45.8
+#EXTINF:-1 tvg-id="plex.tv.FTF.Sports.plex" tvg-name="FTF SPORTS - PITPA2" group-title="Sports",FTF SPORTS - PITPA2
+http://98.111.243.7:5004/auto/v69.4
+
+#GROUP:Local - FOX
+#EXTINF:-1 tvg-id="WPGH-DT.us_locals1" tvg-name="PA | Pittsburgh | FOX WPGH2" group-title="Local - FOX",PA | Pittsburgh | FOX WPGH2
+http://98.111.243.7:5004/auto/v53.1
+
+
+==================================================
+
+#PLAYLIST:x rhinelander-wi-hdhr
+#EXTGRP:x rhinelander-wi-hdhr
+
+#GROUP:Local - CBS
+#EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="WI | Rhinelander | CBS WSAW" group-title="Local - CBS",WI | Rhinelander | CBS WSAW
+http://173.229.4.248:5004/auto/v7.1
+#EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="WI | Rhinelander | CBS WSAW" group-title="Local - CBS",WI | Rhinelander | CBS WSAW
+http://173.229.4.248:5004/auto/v7.10
+
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment - ENG",MeTV Plus - RhineWI
+http://173.229.4.248:5004/auto/v7.2
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - RhineWI" group-title="Entertainment - ENG",Quest - RhineWI
+http://173.229.4.248:5004/auto/v7.5
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Entertainment - ENG",Outlaw - RhineWI
+http://173.229.4.248:5004/auto/v7.6
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI - RhineWI" group-title="Entertainment - ENG",COZI - RhineWI
+http://173.229.4.248:5004/auto/v12.2
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna - RhineWI" group-title="Entertainment - ENG",Antenna - RhineWI
+http://173.229.4.248:5004/auto/v12.3
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment - ENG",MeTV Plus - RhineWI
+http://173.229.4.248:5004/auto/v26.1
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Entertainment - ENG",Outlaw - RhineWI
+http://173.229.4.248:5004/auto/v26.2
+
+#GROUP:Local - FOX
+#EXTINF:-1 tvg-id="WZAW-DT.us_locals1" tvg-name="WI | Rhinelander | FOX WZAW" group-title="Local - FOX",WI | Rhinelander | FOX WZAW
+http://173.229.4.248:5004/auto/v7.3
+#EXTINF:-1 tvg-id="WZAW-DT.us_locals1" tvg-name="WI | Rhinelander | FOX WZAW" group-title="Local - FOX",WI | Rhinelander | FOX WZAW
+http://173.229.4.248:5004/auto/v33.10
+
+#GROUP:Local - CW/IND/MY
+#EXTINF:-1 tvg-id="W21DS-D.us_locals1" tvg-name="WI | Rhinelander | CW W21DS" group-title="Local - CW/IND/MY",WI | Rhinelander | CW W21DS
+http://173.229.4.248:5004/auto/v7.4
+#EXTINF:-1 tvg-id="W21DS-D.us_locals1" tvg-name="WI | Rhinelander | CW W21DS" group-title="Local - CW/IND/MY",WI | Rhinelander | CW W21DS
+http://173.229.4.248:5004/auto/v34.1
+
+#GROUP:Local - NBC
+#EXTINF:-1 tvg-id="WJFW-DT.us_locals1" tvg-name="WI | Rhinelander | NBC WJFW" group-title="Local - NBC",WI | Rhinelander | NBC WJFW
+http://173.229.4.248:5004/auto/v12.1
+
+#GROUP:Shopping
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - RhineWI" group-title="Shopping",HSN1 - RhineWI
+http://173.229.4.248:5004/auto/v12.4
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - RhineWI" group-title="Shopping",QVC1 - RhineWI
+http://173.229.4.248:5004/auto/v12.5
+
+#GROUP:Movies
+#EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex " tvg-name="MovieSphere - RhineWI" group-title="Movies",MovieSphere - RhineWI
+http://173.229.4.248:5004/auto/v12.6
+
+#GROUP:Kids & Family
+#EXTINF:-1 tvg-id="WMVT-DT.us_locals1" tvg-name="WI | Rhinelander | PBS WMVT" group-title="Kids & Family",WI | Rhinelander | PBS WMVT
+http://173.229.4.248:5004/auto/v36.1
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World - RhineWI" group-title="Kids & Family",World - RhineWI
+http://173.229.4.248:5004/auto/v36.2
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - RhineWI" group-title="Kids & Family",Create - RhineWI
+http://173.229.4.248:5004/auto/v36.3
+
+
+==================================================
+
+#PLAYLIST:x scranton-pa-hdhr
+#EXTGRP:x scranton-pa-hdhr
+
+#GROUP:Religion
+#EXTINF:-1 tvg-id="Eternal.Word.Television.Network.us2" tvg-name="EWTN - SCRANPA" group-title="Religion",EWTN - SCRANPA
+http://68.65.124.50:5004/auto/v8.1
+
+#GROUP:Local - ABC
+#EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="Local - ABC",PA | Scranton | ABC WNEP
+http://68.65.124.50:5004/auto/v16.1
+
+#GROUP:Entertainment - ENG
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" group-title="Entertainment - ENG",Antenna TV
+http://68.65.124.50:5004/auto/v16.2
+#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="ION Mystery - SCRANPA" group-title="Entertainment - ENG",ION MYSTERY - SCRANPA
+http://68.65.124.50:5004/auto/v22.2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - SCRANPA" group-title="Entertainment - ENG",Great - SCRANPA
+http://68.65.124.50:5004/auto/v22.3
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - SCRANPA" group-title="Entertainment - ENG",Cozi TV - SCRANPA
+http://68.65.124.50:5004/auto/v22.4
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - SCRANPA" group-title="Entertainment - ENG",Laff - SCRANPA
+http://68.65.124.50:5004/auto/v28.2
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - SCRANPA" group-title="Entertainment - ENG",Rewind - SCRANPA
+http://68.65.124.50:5004/auto/v28.3
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - SCRANPA" group-title="Entertainment - ENG",Defy - SCRANPA
+http://68.65.124.50:5004/auto/v28.4
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - SCRANPA" group-title="Entertainment - ENG",Charge! - SCRANPA
+http://68.65.124.50:5004/auto/v56.4
+
+#GROUP:Local - CBS
+#EXTINF:-1 tvg-id="WYOU-DT.us_locals1" tvg-name="PA | Scranton | CBS WYOU" group-title="Local - CBS",PA | Scranton | CBS WYOU
+http://68.65.124.50:5004/auto/v22.1
+
+#GROUP:Local - NBC
+#EXTINF:-1 tvg-id="WBRE-DT.us_locals1" tvg-name="PA | Scranton | NBC WBRE" group-title="Local - NBC",PA | Scranton | NBC WBRE
+http://68.65.124.50:5004/auto/v28.1
+
+#GROUP:Kids & Family
+#EXTINF:-1 tvg-id="WVIA-DT.us_locals1" tvg-name="PA | Scranton | PBS WVIA" group-title="Kids & Family",PA | Scranton | PBS WVIA
+http://68.65.124.50:5004/auto/v44.1
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - SCRANPA" group-title="Kids & Family",PBS Kids - SCRANPA
+http://68.65.124.50:5004/auto/v44.2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Create - SCRANPA" group-title="Kids & Family",Create - SCRANPA
+http://68.65.124.50:5004/auto/v44.3
+
+#GROUP:Local - FOX
+#EXTINF:-1 tvg-id="WOLF-DT.us_locals1" tvg-name="PA | Scranton | FOX WOLF" group-title="Local - FOX",PA | Scranton | FOX WOLF
+http://68.65.124.50:5004/auto/v56.1
+
+#GROUP:Local - CW/IND/MY
+#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Scranton | CW WSWB" group-title="Local - CW/IND/MY",PA | Scranton | CW WSWB
+http://68.65.124.50:5004/auto/v56.2
+#EXTINF:-1 tvg-id="WQMY-DT.us_locals1" tvg-name="PA | Scranton | MY WQMY" group-title="Local - CW/IND/MY",PA | Scranton | MY WQMY
+http://68.65.124.50:5004/auto/v56.3
 
 
 ==================================================
