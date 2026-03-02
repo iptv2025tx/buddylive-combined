@@ -29,6 +29,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/roku.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/iheart1.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/diablo.m3u8", 
+        "https://raw.githubusercontent.com/kgasaz/4kuhd/master/sports-channels-4k.m3u", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
