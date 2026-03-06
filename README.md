@@ -4,12 +4,13 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 ## ⭐ PLAYLISTS
 
 UPDATE:
-02/28/26 added multiple playlists, also changed scan time for every 4 hours since been working on several updates lately. 
+03/06/26 updated playlist name. 
 
 ▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
 
 
-M3U: https://raw.githubusercontent.com/iptv2025tx/Combined/refs/heads/main/combined_playlist.m3u
+M3U
+[https://github.com/iptv2025tx/buddylive-combined/raw/refs/heads/main/DemonRizing_playlist.m3u](https://github.com/iptv2025tx/buddylive-combined/raw/refs/heads/main/DemonRizing_playlist.m3u)
 
 Links used in the script:
 
