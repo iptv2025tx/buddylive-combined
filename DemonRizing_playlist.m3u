@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-08T20:46:06.369118 UTC
+# Generated on 2026-03-09T01:03:04.871928 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -9,60 +9,6 @@
 
 #PLAYLIST:x Roxiestreams
 #EXTGRP:x Roxiestreams
-
-#GROUP:PPV Events
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/ppv2.png?raw=true" group-title="PPV Events",Zuffa Boxing
-https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8
-
-#GROUP:Baseball
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Detroit Tigers vs Toronto Blue Jays
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Francisco Giants vs Chicago Cubs
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Boston Red Sox vs Pittsburgh Pirates
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Panama vs Canada
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs New York Mets
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Los Angeles Dodgers vs Athletics
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Philadelphia Phillies vs Minnesota Twins
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Brazil vs Mexico
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb9.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Netherlands vs Dominican Republic
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
-
-#GROUP:Basketball
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Houston Rockets vs San Antonio Spurs
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Houston Rockets vs San Antonio Spurs (Mirror 1)
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba7alt.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Chicago Bulls vs Sacramento Kings
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
-
-#GROUP:Hockey
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Minnesota Wild vs Colorado Avalanche
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Boston Bruins vs Pittsburgh Penguins
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",St. Louis Blues vs Anaheim Ducks
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Tampa Bay Lightning vs Buffalo Sabres
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Chicago Blackhawks vs Dallas Stars
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Detroit Red Wings vs New Jersey Devils
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Edmonton Oilers vs Vegas Golden Knights
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8
-
-#GROUP:General Sports
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR Cup Series - Race
-https://dtmf21.b-cdn.net/docx/master.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR Cup Series - Race (Mirror 1)
-https://602.xn--1000-ugoa0hsb9a0hb.com/nascar.m3u8
 
 
 ==================================================
@@ -9980,107 +9926,283 @@ https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
 #PLAYLIST:x iheart1
 #EXTGRP:x iheart1
 
-#GROUP:Music - Radio
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="Music - Radio",iHeart 1950's
+#GROUP:Music - I-Heart Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="Music - I-Heart Radio",iHeart 1950's
 https://stream.revma.ihrhls.com/zc6882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="Music - Radio",iHeart 1960's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="Music - I-Heart Radio",iHeart 1960's
 https://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's" group-title="Music - Radio",iHeart 1970's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's" group-title="Music - I-Heart Radio",iHeart 1970's
 https://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's Rock Ride" group-title="Music - Radio",iHeart 1970's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's Rock Ride" group-title="Music - I-Heart Radio",iHeart 1970's Rock Ride
 https://stream.revma.ihrhls.com/zc6803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's" group-title="Music - Radio",iHeart 1980's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's" group-title="Music - I-Heart Radio",iHeart 1980's
 https://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's Rock Ride" group-title="Music - Radio",iHeart 1980's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's Rock Ride" group-title="Music - I-Heart Radio",iHeart 1980's Rock Ride
 https://stream.revma.ihrhls.com/zc10054/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1990's" group-title="Music - Radio",iHeart 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1990's" group-title="Music - I-Heart Radio",iHeart 1990's
 https://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's" group-title="Music - Radio",iHeart 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's" group-title="Music - I-Heart Radio",iHeart 2000's
 https://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" group-title="Music - Radio",iHeart 2010's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" group-title="Music - I-Heart Radio",iHeart 2010's
 https://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" group-title="Music - Radio",iHeart After MidNite
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" group-title="Music - I-Heart Radio",iHeart After MidNite
 https://stream.revma.ihrhls.com/zc6563/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2000's" group-title="Music - Radio",iHeart ALT 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2000's" group-title="Music - I-Heart Radio",iHeart ALT 2000's
 https://stream.revma.ihrhls.com/zc7727/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" group-title="Music - Radio",iHeart ALT Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" group-title="Music - I-Heart Radio",iHeart ALT Radio
 https://stream.revma.ihrhls.com/zc4447/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" group-title="Music - Radio",iHeart ALT Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" group-title="Music - I-Heart Radio",iHeart ALT Rewind
 https://stream.revma.ihrhls.com/zc6950/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" group-title="Music - Radio",iHeart ALT Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" group-title="Music - I-Heart Radio",iHeart ALT Top 20
 https://stream.revma.ihrhls.com/zc9759/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" group-title="Music - Radio",iHeart ALT X
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" group-title="Music - I-Heart Radio",iHeart ALT X
 https://stream.revma.ihrhls.com/zc10098/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="Music - Radio",iHeart American Top 40
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="Music - I-Heart Radio",iHeart American Top 40
 https://stream.revma.ihrhls.com/zc4802/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" group-title="Music - Radio",iHeart Beso
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" group-title="Music - I-Heart Radio",iHeart Beso
 https://stream.revma.ihrhls.com/zc7193/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Hits (1970's-1990's)" group-title="Music - Radio",iHeart Big Hits (1970's-1990's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Hits (1970's-1990's)" group-title="Music - I-Heart Radio",iHeart Big Hits (1970's-1990's)
 https://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" group-title="Music - Radio",iHeart Black Jazz & Blues
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" group-title="Music - I-Heart Radio",iHeart Black Jazz & Blues
 https://stream.revma.ihrhls.com/zc7804/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" group-title="Music - Radio",iHeart Bluegrass
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" group-title="Music - I-Heart Radio",iHeart Bluegrass
 https://stream.revma.ihrhls.com/zc6892/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" group-title="Music - Radio",iHeart Blues Hits Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" group-title="Music - I-Heart Radio",iHeart Blues Hits Radio
 https://stream.revma.ihrhls.com/zc9567/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" group-title="Music - Radio",iHeart Bluestown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" group-title="Music - I-Heart Radio",iHeart Bluestown
 https://stream.revma.ihrhls.com/zc10029/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" group-title="Music - Radio",iHeart British Invasion
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" group-title="Music - I-Heart Radio",iHeart British Invasion
 https://stream.revma.ihrhls.com/zc5708/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" group-title="Music - Radio",iHeart Broadway
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" group-title="Music - I-Heart Radio",iHeart Broadway
 https://stream.revma.ihrhls.com/zc7378/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cafe" group-title="Music - Radio",iHeart Cafe
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cafe" group-title="Music - I-Heart Radio",iHeart Cafe
 https://stream.revma.ihrhls.com/zc6951/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" group-title="Music - Radio",iHeart Cardio Mix
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" group-title="Music - I-Heart Radio",iHeart Cardio Mix
 https://stream.revma.ihrhls.com/zc7250/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1970's-1980's)" group-title="Music - Radio",iHeart Casey Kasem's Top 40 (1970's-1980's)
-https://stream.revma.ihrhls.com/zc6545/hls.m3u8 
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1990's-2000's)" group-title="Music - Radio",iHeart Casey Kasem's Top 40 (1990's-2000's) 
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1970's-1980's)" group-title="Music - I-Heart Radio",iHeart Casey Kasem's Top 40 (1970's-1980's)
+https://stream.revma.ihrhls.com/zc6545/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1990's-2000's)" group-title="Music - I-Heart Radio",iHeart Casey Kasem's Top 40 (1990's-2000's)
 https://stream.revma.ihrhls.com/zc10423/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" group-title="Music - Radio",iHeart Chill Beats Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" group-title="Music - I-Heart Radio",iHeart Chill Beats Radio
 https://stream.revma.ihrhls.com/zc9959/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" group-title="Music - Radio",iHeart Chill Jams
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" group-title="Music - I-Heart Radio",iHeart Chill Jams
 https://stream.revma.ihrhls.com/zc4719/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" group-title="Music - Radio",iHeart Classic Funk
-https://stream.revma.ihrhls.com/zc6955/hls.m3u8 
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" group-title="Music - Radio",iHeart Classic Hard Rock 
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" group-title="Music - I-Heart Radio",iHeart Classic Funk
+https://stream.revma.ihrhls.com/zc6955/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" group-title="Music - I-Heart Radio",iHeart Classic Hard Rock
 https://stream.revma.ihrhls.com/zc10068/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" group-title="Music - Radio",iHeart Classic Rock
-https://stream.revma.ihrhls.com/zc4426/hls.m3u8 
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" group-title="Music - Radio",iHeart Classic Soul
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" group-title="Music - I-Heart Radio",iHeart Classic Rock
+https://stream.revma.ihrhls.com/zc4426/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" group-title="Music - I-Heart Radio",iHeart Classic Soul
 https://stream.revma.ihrhls.com/zc7120/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" group-title="Music - Radio",iHeart Coffee Shop Radio 
-https://stream.revma.ihrhls.com/zc6698/hls.m3u8 
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (1970's-1980's)" group-title="Music - Radio",iHeart Cool Oldies (1970's-1980's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" group-title="Music - I-Heart Radio",iHeart Coffee Shop Radio
+https://stream.revma.ihrhls.com/zc6698/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (1970's-1980's)" group-title="Music - I-Heart Radio",iHeart Cool Oldies (1970's-1980's)
 https://stream.revma.ihrhls.com/zc4439/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" group-title="Music - Radio",iHeart Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" group-title="Music - I-Heart Radio",iHeart Country
 https://stream.revma.ihrhls.com/zc4418/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1980's" group-title="Music - Radio",iHeart Country 1980's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1980's" group-title="Music - I-Heart Radio",iHeart Country 1980's
 https://stream.revma.ihrhls.com/zc6836/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1990's" group-title="Music - Radio",iHeart Country 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1990's" group-title="Music - I-Heart Radio",iHeart Country 1990's
 https://stream.revma.ihrhls.com/zc6870/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" group-title="Music - Radio",iHeart Country 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" group-title="Music - I-Heart Radio",iHeart Country 2000's
 https://stream.revma.ihrhls.com/zc10027/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" group-title="Music - Radio",iHeart Country Classics
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" group-title="Music - I-Heart Radio",iHeart Country Classics
 https://stream.revma.ihrhls.com/zc4435/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" group-title="Music - Radio",iHeart Country Favorites
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" group-title="Music - I-Heart Radio",iHeart Country Favorites
 https://stream.revma.ihrhls.com/zc8625/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" group-title="Music - Radio",iHeart Country Love Songs
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" group-title="Music - I-Heart Radio",iHeart Country Love Songs
 https://stream.revma.ihrhls.com/zc7803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" group-title="Music - Radio",iHeart Country Outlaws
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" group-title="Music - I-Heart Radio",iHeart Country Outlaws
 https://stream.revma.ihrhls.com/zc6851/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" group-title="Music - Radio",iHeart Country Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" group-title="Music - I-Heart Radio",iHeart Country Top 20
 https://stream.revma.ihrhls.com/zc4882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" group-title="Music - Radio",iHeart Country Top 30
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" group-title="Music - I-Heart Radio",iHeart Country Top 30
 https://stream.revma.ihrhls.com/zc6760/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" group-title="Music - Radio",iHeart Crook & Chase Countdown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" group-title="Music - I-Heart Radio",iHeart Crook & Chase Countdown
 https://stream.revma.ihrhls.com/zc6921/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" group-title="Music - Radio",iHeart Cross Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" group-title="Music - I-Heart Radio",iHeart Cross Country
 https://stream.revma.ihrhls.com/zc10164/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 1990's" group-title="Music - Radio",iHeart Dance Nation 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 1990's" group-title="Music - I-Heart Radio",iHeart Dance Nation 1990's
 https://stream.revma.ihrhls.com/zc6946/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" group-title="Music - Radio",iHeart Dance Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" group-title="Music - I-Heart Radio",iHeart Dance Top 20
 https://stream.revma.ihrhls.com/zc9762/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" group-title="Music - I-Heart Radio",iHeart Deep Cuts
+https://stream.revma.ihrhls.com/zc9652/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" group-title="Music - I-Heart Radio",iHeart Delilah
+https://stream.revma.ihrhls.com/zc4846/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" group-title="Music - I-Heart Radio",iHeart Doo-Wop
+https://stream.revma.ihrhls.com/zc10058/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" group-title="Music - I-Heart Radio",iHeart El Patron
+https://stream.revma.ihrhls.com/zc7004/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" group-title="Music - I-Heart Radio",iHeart Emo Nation
+https://stream.revma.ihrhls.com/zc9380/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" group-title="Music - I-Heart Radio",iHeart Enrique Santos Morning Show
+https://stream.revma.ihrhls.com/zc7349/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" group-title="Music - I-Heart Radio",iHeart Evolution
+https://stream.revma.ihrhls.com/zc5953/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" group-title="Music - I-Heart Radio",iHeart Fiesta Latina
+https://stream.revma.ihrhls.com/zc7191/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" group-title="Music - I-Heart Radio",iHeart Fly Nation (Classic Hip-Hop)
+https://stream.revma.ihrhls.com/zc6732/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" group-title="Music - I-Heart Radio",iHeart Forever Disco
+https://stream.revma.ihrhls.com/zc6755/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" group-title="Music - I-Heart Radio",iHeart Freeform Radio
+https://stream.revma.ihrhls.com/zc9719/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" group-title="Music - I-Heart Radio",iHeart Freestyle
+https://stream.revma.ihrhls.com/zc7368/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" group-title="Music - I-Heart Radio",iHeart Full Metal Jackie
+https://stream.revma.ihrhls.com/zc6225/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" group-title="Music - I-Heart Radio",iHeart Hip-Hop 2000's
+https://stream.revma.ihrhls.com/zc10170/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" group-title="Music - I-Heart Radio",iHeart Hip-Hop 50 Radio
+https://stream.revma.ihrhls.com/zc9717/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" group-title="Music - I-Heart Radio",iHeart Hip-Hop Top 20
+https://stream.revma.ihrhls.com/zc4886/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" group-title="Music - I-Heart Radio",iHeart Hit Nation
+https://stream.revma.ihrhls.com/zc4422/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" group-title="Music - I-Heart Radio",iHeart Indie Radio
+https://stream.revma.ihrhls.com/zc7189/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" group-title="Music - I-Heart Radio",iHeart Jam Bands
+https://stream.revma.ihrhls.com/zc7278/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" group-title="Music - I-Heart Radio",iHeart Jazz Classics
+https://stream.revma.ihrhls.com/zc9918/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" group-title="Music - I-Heart Radio",iHeart Jazz Top 20
+https://stream.revma.ihrhls.com/zc9761/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" group-title="Music - I-Heart Radio",iHeart K-Pop Radio
+https://stream.revma.ihrhls.com/zc9003/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" group-title="Music - I-Heart Radio",iHeart Kiss Radio
+https://stream.revma.ihrhls.com/zc7362/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" group-title="Music - I-Heart Radio",iHeart La Preciosa
+https://stream.revma.ihrhls.com/zc8624/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" group-title="Music - I-Heart Radio",iHeart Latino Top 20
+https://stream.revma.ihrhls.com/zc9763/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" group-title="Music - I-Heart Radio",iHeart Lite Rock
+https://stream.revma.ihrhls.com/zc6830/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" group-title="Music - I-Heart Radio",iHeart Lost 80's
+https://stream.revma.ihrhls.com/zc7934/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" group-title="Music - I-Heart Radio",iHeart Love Songs Radio
+https://stream.revma.ihrhls.com/zc6790/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (Musica en Ingles y Espanol)" group-title="Music - I-Heart Radio",iHeart Magic (Musica en Ingles y Espanol)
+https://stream.revma.ihrhls.com/zc10085/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" group-title="Music - I-Heart Radio",iHeart Mega
+https://stream.revma.ihrhls.com/zc10087/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" group-title="Music - I-Heart Radio",iHeart Minivan Rock
+https://stream.revma.ihrhls.com/zc10055/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" group-title="Music - I-Heart Radio",iHeart Mix Nation
+https://stream.revma.ihrhls.com/zc4776/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" group-title="Music - I-Heart Radio",iHeart Mix Rewind
+https://stream.revma.ihrhls.com/zc7361/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" group-title="Music - I-Heart Radio",iHeart Motown Sounds
+https://stream.revma.ihrhls.com/zc7801/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" group-title="Music - I-Heart Radio",iHeart New Country
+https://stream.revma.ihrhls.com/zc4712/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" group-title="Music - I-Heart Radio",iHeart Nu Metal Radio
+https://stream.revma.ihrhls.com/zc9483/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" group-title="Music - I-Heart Radio",iHeart One Hit Wonders
+https://stream.revma.ihrhls.com/zc6669/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" group-title="Music - I-Heart Radio",iHeart Pop Drive
+https://stream.revma.ihrhls.com/zc7403/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" group-title="Music - I-Heart Radio",iHeart Pop Rewind
+https://stream.revma.ihrhls.com/zc9756/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" group-title="Music - I-Heart Radio",iHeart Pop Rocks
+https://stream.revma.ihrhls.com/zc8842/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" group-title="Music - I-Heart Radio",iHeart Pop Top 20
+https://stream.revma.ihrhls.com/zc4878/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" group-title="Music - I-Heart Radio",iHeart Power
+https://stream.revma.ihrhls.com/zc7360/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" group-title="Music - I-Heart Radio",iHeart PRIDE Radio
+https://stream.revma.ihrhls.com/zc3949/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" group-title="Music - I-Heart Radio",iHeart PRIDE Radio Flashback
+https://stream.revma.ihrhls.com/zc7304/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" group-title="Music - I-Heart Radio",iHeart Punk Tacos
+https://stream.revma.ihrhls.com/zc6954/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" group-title="Music - I-Heart Radio",iHeart R&B Jams
+https://stream.revma.ihrhls.com/zc4433/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" group-title="Music - I-Heart Radio",iHeart R&B Top 20
+https://stream.revma.ihrhls.com/zc4940/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" group-title="Music - I-Heart Radio",iHeart Radio Tejano
+https://stream.revma.ihrhls.com/zc9622/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" group-title="Music - I-Heart Radio",iHeart Rat Pack Radio
+https://stream.revma.ihrhls.com/zc6784/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" group-title="Music - I-Heart Radio",iHeart Real Fun Beach Radio
+https://stream.revma.ihrhls.com/zc6221/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (1960's-1970's)" group-title="Music - I-Heart Radio",iHeart Real Oldies (1960's-1970's)
+https://stream.revma.ihrhls.com/zc4717/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" group-title="Music - I-Heart Radio",iHeart Red Dirt Radio
+https://stream.revma.ihrhls.com/zc6842/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" group-title="Music - I-Heart Radio",iHeart Reggae
+https://stream.revma.ihrhls.com/zc6788/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Old School" group-title="Music - I-Heart Radio",iHeart Reggaeton Old School
+https://stream.revma.ihrhls.com/zc7427/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" group-title="Music - I-Heart Radio",iHeart Regional Mexican Top 20
+https://stream.revma.ihrhls.com/zc9911/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Español" group-title="Music - I-Heart Radio",iHeart Retro En Español
+https://stream.revma.ihrhls.com/zc10089/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Top 40 (1980's-2000's)" group-title="Music - I-Heart Radio",iHeart Rick Dees Top 40 (1980's-2000's)
+https://stream.revma.ihrhls.com/zc10600/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" group-title="Music - I-Heart Radio",iHeart Rick Dees Weekly Top 40
+https://stream.revma.ihrhls.com/zc10599/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" group-title="Music - I-Heart Radio",iHeart Rock Drive
+https://stream.revma.ihrhls.com/zc7402/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" group-title="Music - I-Heart Radio",iHeart Rock Nation
+https://stream.revma.ihrhls.com/zc4443/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" group-title="Music - I-Heart Radio",iHeart Rock Top 20
+https://stream.revma.ihrhls.com/zc4932/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" group-title="Music - I-Heart Radio",iHeart Rumba
+https://stream.revma.ihrhls.com/zc4451/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa" group-title="Music - I-Heart Radio",iHeart Salsa
+https://stream.revma.ihrhls.com/zc7192/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" group-title="Music - I-Heart Radio",iHeart Slippery When Wet
+https://stream.revma.ihrhls.com/zc4858/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 1990's" group-title="Music - I-Heart Radio",iHeart Smells Like the 1990's
+https://stream.revma.ihrhls.com/zc6437/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" group-title="Music - I-Heart Radio",iHeart Smooth Jazz
+https://stream.revma.ihrhls.com/zc4242/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" group-title="Music - I-Heart Radio",iHeart Soft Rock
+https://stream.revma.ihrhls.com/zc4414/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" group-title="Music - I-Heart Radio",iHeart Southern Rock Ride
+https://stream.revma.ihrhls.com/zc10053/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" group-title="Music - I-Heart Radio",iHeart Sunny Radio
+https://stream.revma.ihrhls.com/zc5014/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" group-title="Music - I-Heart Radio",iHeart Sweat Hotel with Keith Sweat
+https://stream.revma.ihrhls.com/zc6529/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" group-title="Music - I-Heart Radio",iHeart The Beatles Now And Then
+https://stream.revma.ihrhls.com/zc10023/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" group-title="Music - I-Heart Radio",iHeart The Breeze
+https://stream.revma.ihrhls.com/zc8143/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" group-title="Music - I-Heart Radio",iHeart The Brew
+https://stream.revma.ihrhls.com/zc8626/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Countdown" group-title="Music - I-Heart Radio",iHeart The Countdown
+https://stream.revma.ihrhls.com/zc6455/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" group-title="Music - I-Heart Radio",iHeart The Vinyl Experience
+https://stream.revma.ihrhls.com/zc6878/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop & R&B)" group-title="Music - I-Heart Radio",iHeart Throwbacks (Classic Hip-Hop & R&B)
+https://stream.revma.ihrhls.com/zc7397/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" group-title="Music - I-Heart Radio",iHeart Today's Mix
+https://stream.revma.ihrhls.com/zc4409/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" group-title="Music - I-Heart Radio",iHeart Trancid
+https://stream.revma.ihrhls.com/zc5144/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" group-title="Music - I-Heart Radio",iHeart Trending Country Top 20
+https://stream.revma.ihrhls.com/zc10485/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" group-title="Music - I-Heart Radio",iHeart Trending Hip-Hop Top 20
+https://stream.revma.ihrhls.com/zc10484/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" group-title="Music - I-Heart Radio",iHeart Trending Pop Top 20
+https://stream.revma.ihrhls.com/zc10479/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" group-title="Music - I-Heart Radio",iHeart Tropical Top 20
+https://stream.revma.ihrhls.com/zc9912/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" group-title="Music - I-Heart Radio",iHeart Vinyl Classic Rock
+https://stream.revma.ihrhls.com/zc7078/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" group-title="Music - I-Heart Radio",iHeart Vinyl Jazz
+https://stream.revma.ihrhls.com/zc7079/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" group-title="Music - I-Heart Radio",iHeart WiLD
+https://stream.revma.ihrhls.com/zc4722/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" group-title="Music - I-Heart Radio",iHeart Women of iHeartCountry
+https://stream.revma.ihrhls.com/zc7367/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" group-title="Music - I-Heart Radio",iHeart Yacht Rock Radio
+https://stream.revma.ihrhls.com/zc8681/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" group-title="Music - I-Heart Radio",iHeart Yee Yee Radio
+https://stream.revma.ihrhls.com/zc10082/hls.m3u8
 
 
 ==================================================
