@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-09T10:28:01.724234 UTC
+# Generated on 2026-03-09T12:32:29.412664 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -16,158 +16,156 @@
 #PLAYLIST:x combo-tvp-nc-moj
 #EXTGRP:x combo-tvp-nc-moj
 
-#GROUP:Entertainment - ENG
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",A&E HD [Not 24/7] (TVP)
+#GROUP:Entertainment
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E HD [Not 24/7] (TVP)" group-title="Entertainment",A&E HD [Not 24/7] (TVP)
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes [Not 24/7] (TVP)" group-title="Entertainment - ENG",American Heroes [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes [Not 24/7] (TVP)" group-title="Entertainment",American Heroes [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (NC)" group-title="Entertainment - ENG",Animal Planet (NC)
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (NC)" group-title="Entertainment",Animal Planet (NC)
 http://104.255.88.155/animalplanet/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America [Not 24/7] (TVP)" group-title="Entertainment - ENG",BBC America [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America [Not 24/7] (TVP)" group-title="Entertainment",BBC America [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET [Not 24/7] (TVP)" group-title="Entertainment - ENG",BET [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET [Not 24/7] (TVP)" group-title="Entertainment",BET [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her [Not 24/7] (TVP)" group-title="Entertainment - ENG",BET Her [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her [Not 24/7] (TVP)" group-title="Entertainment",BET Her [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV (MOJ)" group-title="Entertainment - ENG",Bounce TV (MOJ)
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV (MOJ)" group-title="Entertainment",Bounce TV (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo East (NC)" group-title="Entertainment - ENG",Bravo East (NC)
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo East (NC)" group-title="Entertainment",Bravo East (NC)
 http://104.255.88.155/bravo/playlist.m3u8
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT [Not 24/7] (TVP)" group-title="Entertainment - ENG",CMT [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT [Not 24/7] (TVP)" group-title="Entertainment",CMT [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",CNBC HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD [Not 24/7] (TVP)" group-title="Entertainment",CNBC HD [Not 24/7] (TVP)
 https://tvpass.org/live/CNBC/hd
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central East (NC)" group-title="Entertainment - ENG",Comedy Central East (NC)
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central East (NC)" group-title="Entertainment",Comedy Central East (NC)
 http://104.255.88.155/comedy/playlist.m3u8
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel [Not 24/7] (TVP)" group-title="Entertainment - ENG",Cooking Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel [Not 24/7] (TVP)" group-title="Entertainment",Cooking Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",Crime + Investigation HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation HD [Not 24/7] (TVP)" group-title="Entertainment",Crime + Investigation HD [Not 24/7] (TVP)
 https://tvpass.org/live/CrimePlusInvestigation/hd
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America [Not 24/7] (TVP)" group-title="Entertainment - ENG",Destination America [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America [Not 24/7] (TVP)" group-title="Entertainment",Destination America [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery East (NC)" group-title="Entertainment - ENG",Discovery East (NC)
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery East (NC)" group-title="Entertainment",Discovery East (NC)
 http://104.255.88.155/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life [Not 24/7] (TVP)" group-title="Entertainment - ENG",Discovery Life [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life [Not 24/7] (TVP)" group-title="Entertainment",Discovery Life [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network [Not 24/7] (TVP)" group-title="Entertainment - ENG",Food Network [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network [Not 24/7] (TVP)" group-title="Entertainment",Food Network [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform [Not 24/7] (TVP)" group-title="Entertainment - ENG",Freeform [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform [Not 24/7] (TVP)" group-title="Entertainment",Freeform [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",Fuse HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse HD [Not 24/7] (TVP)" group-title="Entertainment",Fuse HD [Not 24/7] (TVP)
 https://tvpass.org/live/FuseEast/hd
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",FX HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD [Not 24/7] (TVP)" group-title="Entertainment",FX HD [Not 24/7] (TVP)
 https://tvpass.org/live/FXEast/hd
-#EXTINF:-1 tvg-id="FXX.us2" tvg-name="FXX HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",FXX HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FXX.us2" tvg-name="FXX HD [Not 24/7] (TVP)" group-title="Entertainment",FXX HD [Not 24/7] (TVP)
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",FYI HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI HD [Not 24/7] (TVP)" group-title="Entertainment",FYI HD [Not 24/7] (TVP)
 https://tvpass.org/live/FYIEast/hd
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel (NC)" group-title="Entertainment - ENG",Hallmark Channel (NC)
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel (NC)" group-title="Entertainment",Hallmark Channel (NC)
 http://104.255.88.155/hallmark/playlist.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family [Not 24/7] (TVP)" group-title="Entertainment - ENG",Hallmark Family [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family [Not 24/7] (TVP)" group-title="Entertainment",Hallmark Family [Not 24/7] (TVP)
 https://tvpass.org/live/HallmarkDrama/hd
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",Hallmark Mystery HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery HD [Not 24/7] (TVP)" group-title="Entertainment",Hallmark Mystery HD [Not 24/7] (TVP)
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV [Not 24/7] (TVP)" group-title="Entertainment - ENG",HGTV [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV [Not 24/7] (TVP)" group-title="Entertainment",HGTV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (NC)" group-title="Entertainment - ENG",History Channel (NC)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (NC)" group-title="Entertainment",History Channel (NC)
 http://104.255.88.155/history/playlist.m3u8
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN  [Not 24/7] (TVP)" group-title="Entertainment - ENG",HLN [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN  [Not 24/7] (TVP)" group-title="Entertainment",HLN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery [Not 24/7] (TVP)" group-title="Entertainment - ENG",Investigation Discovery [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery [Not 24/7] (TVP)" group-title="Entertainment",Investigation Discovery [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (NC)" group-title="Entertainment - ENG",ION Television (NC)
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (NC)" group-title="Entertainment",ION Television (NC)
 http://104.255.88.155/ion/index.m3u8
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television [Not 24/7] (TVP)" group-title="Entertainment - ENG",ION Television [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television [Not 24/7] (TVP)" group-title="Entertainment",ION Television [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime [Not 24/7] (TVP)" group-title="Entertainment - ENG",Lifetime [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime [Not 24/7] (TVP)" group-title="Entertainment",Lifetime [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (MOJ)" group-title="Entertainment - ENG",Magnolia Network (MOJ)
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (MOJ)" group-title="Entertainment",Magnolia Network (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV [Not 24/7] (TVP)" group-title="Entertainment - ENG",meTV [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV [Not 24/7] (TVP)" group-title="Entertainment",meTV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV [Not 24/7] (TVP)" group-title="Entertainment - ENG",MTV  [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV [Not 24/7] (TVP)" group-title="Entertainment",MTV  [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 [Not 24/7] (TVP)" group-title="Entertainment - ENG",MTV 2 [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 [Not 24/7] (TVP)" group-title="Entertainment",MTV 2 [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="NatGeo HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",NatGeo HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="NatGeo HD [Not 24/7] (TVP)" group-title="Entertainment",NatGeo HD [Not 24/7] (TVP)
 https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",NatGeo Wild HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild HD [Not 24/7] (TVP)" group-title="Entertainment",NatGeo Wild HD [Not 24/7] (TVP)
 https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (NC)" group-title="Entertainment - ENG",OWN (NC)
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (NC)" group-title="Entertainment",OWN (NC)
 http://104.255.88.155/own/playlist.m3u8
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen [Not 24/7] (TVP)" group-title="Entertainment - ENG",Oxygen [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen [Not 24/7] (TVP)" group-title="Entertainment",Oxygen [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (NC)" group-title="Entertainment - ENG",Paramount Network (NC)
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (NC)" group-title="Entertainment",Paramount Network (NC)
 http://104.255.88.155/paramount/playlist.m3u8
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ Channel [Not 24/7] (TVP)" group-title="Entertainment - ENG",REELZ Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ Channel [Not 24/7] (TVP)" group-title="Entertainment",REELZ Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (NC)" group-title="Entertainment - ENG",SundanceTV (NC)
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (NC)" group-title="Entertainment",SundanceTV (NC)
 http://104.255.88.155/sundance/playlist.m3u8
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SYFY (NC)" group-title="Entertainment - ENG",SYFY (NC)
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SYFY (NC)" group-title="Entertainment",SYFY (NC)
 http://104.255.88.155/syfy/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (NC)" group-title="Entertainment - ENG",TBS (NC)
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (NC)" group-title="Entertainment",TBS (NC)
 http://104.255.88.155/tbs/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (NC)" group-title="Entertainment - ENG",TNT (NC)
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (NC)" group-title="Entertainment",TNT (NC)
 http://104.255.88.155/tnt/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land [Not 24/7] (TVP)" group-title="Entertainment - ENG",TV Land [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land [Not 24/7] (TVP)" group-title="Entertainment",TV Land [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",USA Network HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD [Not 24/7] (TVP)" group-title="Entertainment",USA Network HD [Not 24/7] (TVP)
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (NC)" group-title="Entertainment - ENG",Disney Channel (NC)
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (NC)" group-title="Entertainment",Disney Channel (NC)
 http://104.255.88.155/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (NC)" group-title="Entertainment - ENG",USA Network (NC)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (NC)" group-title="Entertainment",USA Network (NC)
 http://104.255.88.155/usa/playlist.m3u8
-#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV [Not 24/7] (TVP)" group-title="Entertainment - ENG",Vice TV [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV [Not 24/7] (TVP)" group-title="Entertainment",Vice TV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",Logo HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo HD [Not 24/7] (TVP)" group-title="Entertainment",Logo HD [Not 24/7] (TVP)
 https://tvpass.org/live/LogoEast/hd
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV [Not 24/7] (TVP)" group-title="Entertainment - ENG",truTV [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV [Not 24/7] (TVP)" group-title="Entertainment",truTV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science [Not 24/7] (TVP)" group-title="Entertainment - ENG",Discovery Science [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science [Not 24/7] (TVP)" group-title="Entertainment",Discovery Science [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IFC.HD.us2 " tvg-name="IFC (NC) " group-title="Entertainment - ENG",IFC (NC)
+#EXTINF:-1 tvg-id="IFC.HD.us2 " tvg-name="IFC (NC) " group-title="Entertainment",IFC (NC)
 http://104.255.88.155/ifc/playlist.m3u8
-#EXTINF:-1 tvg-id="RFD.TV.HD.us2" tvg-name="RFD-TV (NC)" group-title="Entertainment - ENG",RFD-TV (NC)
-http://104.255.88.155/rfd/playlist.m3u8
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",E! HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! HD [Not 24/7] (TVP)" group-title="Entertainment",E! HD [Not 24/7] (TVP)
 https://tvpass.org/live/EEast/hd
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",IFC HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD [Not 24/7] (TVP)" group-title="Entertainment",IFC HD [Not 24/7] (TVP)
 https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet [Not 24/7] (TVP)" group-title="Entertainment - ENG",Animal Planet [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet [Not 24/7] (TVP)" group-title="Entertainment",Animal Planet [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo [Not 24/7] (TVP)" group-title="Entertainment - ENG",Bravo [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo [Not 24/7] (TVP)" group-title="Entertainment",Bravo [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC [Not 24/7] (TVP)" group-title="Entertainment - ENG",CNBC [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC [Not 24/7] (TVP)" group-title="Entertainment",CNBC [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central [Not 24/7] (TVP)" group-title="Entertainment - ENG",Comedy Central [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central [Not 24/7] (TVP)" group-title="Entertainment",Comedy Central [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery [Not 24/7] (TVP)" group-title="Entertainment - ENG",Discovery [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery [Not 24/7] (TVP)" group-title="Entertainment",Discovery [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network [Not 24/7] (TVP)" group-title="Entertainment - ENG",Game Show Network [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network [Not 24/7] (TVP)" group-title="Entertainment",Game Show Network [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel [Not 24/7] (TVP)" group-title="Entertainment - ENG",Hallmark Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel [Not 24/7] (TVP)" group-title="Entertainment",Hallmark Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel [Not 24/7] (TVP)" group-title="Entertainment - ENG",History Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel [Not 24/7] (TVP)" group-title="Entertainment",History Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network [Not 24/7] (TVP)" group-title="Entertainment - ENG",OWN [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network [Not 24/7] (TVP)" group-title="Entertainment",OWN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV [Not 24/7] (TVP)" group-title="Entertainment - ENG",SundanceTV [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV [Not 24/7] (TVP)" group-title="Entertainment",SundanceTV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy [Not 24/7] (TVP)" group-title="Entertainment - ENG",Syfy [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy [Not 24/7] (TVP)" group-title="Entertainment",Syfy [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS [Not 24/7] (TVP)" group-title="Entertainment - ENG",TBS [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS [Not 24/7] (TVP)" group-title="Entertainment",TBS [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TLC.HD.us2" tvg-name="TLC [Not 24/7] (TVP)" group-title="Entertainment - ENG",TLC [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="TLC.HD.us2" tvg-name="TLC [Not 24/7] (TVP)" group-title="Entertainment",TLC [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT [Not 24/7] (TVP)" group-title="Entertainment - ENG",TNT [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT [Not 24/7] (TVP)" group-title="Entertainment",TNT [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel [Not 24/7] (TVP)" group-title="Entertainment - ENG",Travel Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel [Not 24/7] (TVP)" group-title="Entertainment",Travel Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One [Not 24/7] (TVP)" group-title="Entertainment - ENG",TV One [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One [Not 24/7] (TVP)" group-title="Entertainment",TV One [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 [Not 24/7] (TVP)" group-title="Entertainment - ENG",VH-1 [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 [Not 24/7] (TVP)" group-title="Entertainment",VH-1 [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="Women's Ent [Not 24/7] (TVP)" group-title="Entertainment - ENG",Women's Ent [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="Women's Ent [Not 24/7] (TVP)" group-title="Entertainment",Women's Ent [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 
 #GROUP:Sports
@@ -251,7 +249,7 @@ http://origin.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 http://origin.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us" tvg-name="FanDuel Sports Detroit [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Detroit [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Florida [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Florida [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FanDuel Sports Great Lakes [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Great Lakes [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
@@ -281,7 +279,7 @@ http://origin.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a
 http://origin.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" tvg-name="FanDuel Sports Southeast TN [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Southeast TN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-name="FanDuel Sports Sun [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Sun [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-name="FanDuel Sports Sun [Not 24/7] (TVP)" group-title="Sports",.Rays,.Heat).us" tvg-name="FanDuel Sports Sun [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Sun [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.Tennessee.us" tvg-name="FanDuel Sports TN E [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports TN E [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
@@ -360,34 +358,34 @@ http://origin.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel [Not 24/7] (TVP)" group-title="Movies",The Movie Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 
-#GROUP:News - ENG
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News [Not 24/7] (TVP)" group-title="News - ENG",BBC World News [Not 24/7] (TVP)
+#GROUP:News
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News [Not 24/7] (TVP)" group-title="News",BBC World News [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV USA [Not 24/7] (TVP)" group-title="News - ENG",Bloomberg TV USA [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV USA [Not 24/7] (TVP)" group-title="News",Bloomberg TV USA [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN1 [Not 24/7] (TVP)" group-title="News - ENG",CSPAN1 [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN1 [Not 24/7] (TVP)" group-title="News",CSPAN1 [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNN.us2" tvg-name="CNN [Not 24/7] (TVP)" group-title="News - ENG",CNN [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CNN.us2" tvg-name="CNN [Not 24/7] (TVP)" group-title="News",CNN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (NC)" group-title="News - ENG",CNN (NC)
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (NC)" group-title="News",CNN (NC)
 http://104.255.88.155/cnn/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD [Not 24/7] (TVP)" group-title="News - ENG",Fox Business HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD [Not 24/7] (TVP)" group-title="News",Fox Business HD [Not 24/7] (TVP)
 https://tvpass.org/live/FoxBusiness/hd
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News HD (NC)" group-title="News - ENG",FOX News HD (NC)
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News HD (NC)" group-title="News",FOX News HD (NC)
 http://104.255.88.155/foxnews/playlist.m3u8
-#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (NC)" group-title="News - ENG",MS NOW (NC)
+#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (NC)" group-title="News",MS NOW (NC)
 http://104.255.88.155/msnbc/playlist.m3u8
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel (NC)" group-title="News - ENG",Weather Channel (NC)
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel (NC)" group-title="News",Weather Channel (NC)
 http://104.255.88.155/twc/playlist.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2 HD [Not 24/7] (TVP)" group-title="News - ENG",CSPAN2 HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2 HD [Not 24/7] (TVP)" group-title="News",CSPAN2 HD [Not 24/7] (TVP)
 https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News HD [Not 24/7] (TVP)" group-title="News - ENG",Fox News HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News HD [Not 24/7] (TVP)" group-title="News",Fox News HD [Not 24/7] (TVP)
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW HD [Not 24/7] (TVP)" group-title="News - ENG",MS NOW HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW HD [Not 24/7] (TVP)" group-title="News",MS NOW HD [Not 24/7] (TVP)
 https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD [Not 24/7] (TVP)" group-title="News - ENG",Newsmax TV HD [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD [Not 24/7] (TVP)" group-title="News",Newsmax TV HD [Not 24/7] (TVP)
 https://tvpass.org/live/NewsmaxTV/hd
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel [Not 24/7] (TVP)" group-title="News - ENG",Weather Channel [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel [Not 24/7] (TVP)" group-title="News",Weather Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
 
 #GROUP:Kids & Family
@@ -443,6 +441,10 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="NY | NYC | FOX  [Not 24/7] (TVP)" group-title="Local - FOX",NY | NYC | FOX  [Not 24/7] (TVP)
 https://tvpass.org/live/WNYWDT1/sd
+
+#GROUP:Offline
+#EXTINF:-1 tvg-id="RFD.TV.HD.us2" tvg-name="RFD-TV (NC)" group-title="Offline",RFD-TV (NC)
+http://104.255.88.155/rfd/playlist.m3u8
 
 #GROUP:Local - CW/IND/MY
 #EXTINF:-1 tvg-id="KFMB-DT2.us_locals1" tvg-name="CA | San Diego | CW [Not 24/7] (TVP)" group-title="Local - CW/IND/MY",CA | San Diego | CW  [Not 24/7] (TVP)
