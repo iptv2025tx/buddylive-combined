@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-13T15:34:30.130847 UTC
+# Generated on 2026-03-13T16:29:31.451245 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -13,16 +13,16 @@
 #GROUP:Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",USA vs Canada
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Atlanta Braves
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Philadelphia Phillies
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Diego Padres vs Athletics
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Minnesota Twins vs Toronto Blue Jays
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",South Korea vs Dominican Republic
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Atlanta Braves
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Philadelphia Phillies
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
 
 #GROUP:Basketball
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Utah Jazz vs Portland Trail Blazers
@@ -31,10 +31,10 @@ https://602.xn--1000-ugoa0hsb9a0hb.com/nba77.m3u8
 https://602.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 
 #GROUP:Hockey
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Edmonton Oilers vs St. Louis Blues
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Los Angeles Kings vs New York Islanders
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Edmonton Oilers vs St. Louis Blues
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
 
 #GROUP:General Sports
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Interstate Batteries High Limit
