@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-13T11:24:02.041590 UTC
+# Generated on 2026-03-13T12:36:24.806775 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -11,18 +11,18 @@
 #EXTGRP:x Roxiestreams
 
 #GROUP:Baseball
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",South Korea vs Dominican Republic
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Minnesota Twins vs Toronto Blue Jays
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",USA vs Canada
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Atlanta Braves
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Philadelphia Phillies
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Minnesota Twins vs Toronto Blue Jays
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Atlanta Braves
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",South Korea vs Dominican Republic
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Diego Padres vs Athletics
 https://602.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",USA vs Canada
+https://602.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
 
 #GROUP:Basketball
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Utah Jazz vs Portland Trail Blazers
@@ -52,7 +52,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes [Not 24/7] (TVP)" group-title="Entertainment",American Heroes [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (NC)" group-title="Entertainment",Animal Planet (NC)
-http://104.255.88.155/animalplanet/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America [Not 24/7] (TVP)" group-title="Entertainment",BBC America [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET [Not 24/7] (TVP)" group-title="Entertainment",BET [Not 24/7] (TVP)
@@ -62,13 +62,13 @@ http://origin.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV (MOJ)" group-title="Entertainment",Bounce TV (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=http://fl41.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo East (NC)" group-title="Entertainment",Bravo East (NC)
-http://104.255.88.155/bravo/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT [Not 24/7] (TVP)" group-title="Entertainment",CMT [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD [Not 24/7] (TVP)" group-title="Entertainment",CNBC HD [Not 24/7] (TVP)
 https://tvpass.org/live/CNBC/hd
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central East (NC)" group-title="Entertainment",Comedy Central East (NC)
-http://104.255.88.155/comedy/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel [Not 24/7] (TVP)" group-title="Entertainment",Cooking Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation HD [Not 24/7] (TVP)" group-title="Entertainment",Crime + Investigation HD [Not 24/7] (TVP)
@@ -76,7 +76,7 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America [Not 24/7] (TVP)" group-title="Entertainment",Destination America [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery East (NC)" group-title="Entertainment",Discovery East (NC)
-http://104.255.88.155/discovery/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life [Not 24/7] (TVP)" group-title="Entertainment",Discovery Life [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network [Not 24/7] (TVP)" group-title="Entertainment",Food Network [Not 24/7] (TVP)
@@ -92,7 +92,7 @@ https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI HD [Not 24/7] (TVP)" group-title="Entertainment",FYI HD [Not 24/7] (TVP)
 https://tvpass.org/live/FYIEast/hd
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel (NC)" group-title="Entertainment",Hallmark Channel (NC)
-http://104.255.88.155/hallmark/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family [Not 24/7] (TVP)" group-title="Entertainment",Hallmark Family [Not 24/7] (TVP)
 https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery HD [Not 24/7] (TVP)" group-title="Entertainment",Hallmark Mystery HD [Not 24/7] (TVP)
@@ -100,13 +100,13 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV [Not 24/7] (TVP)" group-title="Entertainment",HGTV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (NC)" group-title="Entertainment",History Channel (NC)
-http://104.255.88.155/history/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN  [Not 24/7] (TVP)" group-title="Entertainment",HLN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery [Not 24/7] (TVP)" group-title="Entertainment",Investigation Discovery [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (NC)" group-title="Entertainment",ION Television (NC)
-http://104.255.88.155/ion/index.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television [Not 24/7] (TVP)" group-title="Entertainment",ION Television [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime [Not 24/7] (TVP)" group-title="Entertainment",Lifetime [Not 24/7] (TVP)
@@ -124,29 +124,29 @@ https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild HD [Not 24/7] (TVP)" group-title="Entertainment",NatGeo Wild HD [Not 24/7] (TVP)
 https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (NC)" group-title="Entertainment",OWN (NC)
-http://104.255.88.155/own/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen [Not 24/7] (TVP)" group-title="Entertainment",Oxygen [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (NC)" group-title="Entertainment",Paramount Network (NC)
-http://104.255.88.155/paramount/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ Channel [Not 24/7] (TVP)" group-title="Entertainment",REELZ Channel [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (NC)" group-title="Entertainment",SundanceTV (NC)
-http://104.255.88.155/sundance/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SYFY (NC)" group-title="Entertainment",SYFY (NC)
-http://104.255.88.155/syfy/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (NC)" group-title="Entertainment",TBS (NC)
-http://104.255.88.155/tbs/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (NC)" group-title="Entertainment",TNT (NC)
-http://104.255.88.155/tnt/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land [Not 24/7] (TVP)" group-title="Entertainment",TV Land [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD [Not 24/7] (TVP)" group-title="Entertainment",USA Network HD [Not 24/7] (TVP)
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (NC)" group-title="Entertainment",Disney Channel (NC)
-http://104.255.88.155/disney/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (NC)" group-title="Entertainment",USA Network (NC)
-http://104.255.88.155/usa/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV [Not 24/7] (TVP)" group-title="Entertainment",Vice TV [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo HD [Not 24/7] (TVP)" group-title="Entertainment",Logo HD [Not 24/7] (TVP)
@@ -156,7 +156,7 @@ http://origin.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science [Not 24/7] (TVP)" group-title="Entertainment",Discovery Science [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IFC.HD.us2 " tvg-name="IFC (NC) " group-title="Entertainment",IFC (NC)
-http://104.255.88.155/ifc/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! HD [Not 24/7] (TVP)" group-title="Entertainment",E! HD [Not 24/7] (TVP)
 https://tvpass.org/live/EEast/hd
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD [Not 24/7] (TVP)" group-title="Entertainment",IFC HD [Not 24/7] (TVP)
@@ -206,9 +206,9 @@ http://origin.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network [Not 24/7] (TVP)" group-title="Sports",CBS Sports Network [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 1 (NC)" group-title="Sports",ESPN 1 (NC)
-http://104.255.88.155/espn/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 (NC)" group-title="Sports",ESPN 2 (NC)
-http://104.255.88.155/espn2/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News [Not 24/7] (TVP)" tvg-logo=" " group-title="Sports",ESPN News [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 [Not 24/7] (TVP)" group-title="Sports",FS1 [Not 24/7] (TVP)
@@ -230,13 +230,13 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network [Not 24/7] (TVP)" group-title="Sports",NHL Network [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel (NC)" group-title="Sports",Outdoor Channel (NC)
-http://104.255.88.155/outdoor/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network [Not 24/7] (TVP)" group-title="Sports",SEC Network [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="Sportsnet NY [Not 24/7] (TVP)" group-title="Sports",Sportsnet NY [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel (NC)" group-title="Sports",Tennis Channel (NC)
-http://104.255.88.155/tennis/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 HD [Not 24/7] (TVP)" group-title="Sports",TSN1 HD [Not 24/7] (TVP)
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN.2ca2" tvg-name="TSN2 HD [Not 24/7] (TVP)" group-title="Sports",TSN2 HD [Not 24/7] (TVP)
@@ -254,11 +254,11 @@ http://origin.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU [Not 24/7] (TVP)" group-title="Sports",ESPNU [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN (NC)" group-title="Sports",MASN (NC)
-http://104.255.88.155/masn/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2" tvg-name="MASN 2 (NC)" group-title="Sports",MASN 2 (NC)
-http://104.255.88.155/masn2/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend (NC)" group-title="Sports",MotorTrend (NC)
-http://104.255.88.155/motortrend/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="MSG.Plus.us2" tvg-name="MSG Plus HD [Not 24/7] (TVP)" group-title="Sports",MSG Plus HD [Not 24/7] (TVP)
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area HD [Not 24/7] (TVP)" group-title="Sports",NBC Sports Bay Area HD [Not 24/7] (TVP)
@@ -344,9 +344,9 @@ http://origin.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 
 #GROUP:Movies
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (NC)" group-title="Movies",AMC (NC)
-http://104.255.88.155/amc/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax East (NC)" group-title="Movies",Cinemax East (NC)
-http://104.255.88.155/cinemax/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie HD [Not 24/7] (TVP)" group-title="Movies",FX Movie HD [Not 24/7] (TVP)
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East [Not 24/7] (TVP)" group-title="Movies",HBO East [Not 24/7] (TVP)
@@ -364,7 +364,7 @@ http://origin.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 [Not 24/7] (TVP)" group-title="Movies",Showtime 2 [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz East (NC)" group-title="Movies",Starz East (NC)
-http://104.255.88.155/starz/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz East HD [Not 24/7] (TVP)" group-title="Movies",Starz East HD [Not 24/7] (TVP)
 https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 tvg-name="Starz Edge West (MOJ)" group-title="Movies",Starz Edge West (MOJ)
@@ -378,7 +378,7 @@ http://origin.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits [Not 24/7] (TVP)" group-title="Movies",HBO Hits [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (NC)" group-title="Movies",The Movie Channel (NC)
-http://104.255.88.155/tmc/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax [Not 24/7] (TVP)" group-title="Movies",Cinemax [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama [Not 24/7] (TVP)" group-title="Movies",HBO Drama [Not 24/7] (TVP)
@@ -398,15 +398,15 @@ http://origin.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.us2" tvg-name="CNN [Not 24/7] (TVP)" group-title="News",CNN [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (NC)" group-title="News",CNN (NC)
-http://104.255.88.155/cnn/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD [Not 24/7] (TVP)" group-title="News",Fox Business HD [Not 24/7] (TVP)
 https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News HD (NC)" group-title="News",FOX News HD (NC)
-http://104.255.88.155/foxnews/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (NC)" group-title="News",MS NOW (NC)
-http://104.255.88.155/msnbc/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel (NC)" group-title="News",Weather Channel (NC)
-http://104.255.88.155/twc/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 #EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2 HD [Not 24/7] (TVP)" group-title="News",CSPAN2 HD [Not 24/7] (TVP)
 https://tvpass.org/live/CSPAN2/hd
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News HD [Not 24/7] (TVP)" group-title="News",Fox News HD [Not 24/7] (TVP)
@@ -474,7 +474,7 @@ https://tvpass.org/live/WNYWDT1/sd
 
 #GROUP:Offline
 #EXTINF:-1 tvg-id="RFD.TV.HD.us2" tvg-name="RFD-TV (NC)" group-title="Offline",RFD-TV (NC)
-http://104.255.88.155/rfd/playlist.m3u8
+https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/offline/offline.mp4
 
 #GROUP:Local - CW/IND/MY
 #EXTINF:-1 tvg-id="KFMB-DT2.us_locals1" tvg-name="CA | San Diego | CW [Not 24/7] (TVP)" group-title="Local - CW/IND/MY",CA | San Diego | CW  [Not 24/7] (TVP)
@@ -13911,6 +13911,66 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Global News Winnipeg" group-title="News",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7-1 (D)" group-title="News",CBS News 24/7-1 (D)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7-2 (D)" group-title="News",CBS News 24/7-2 (D)
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f7707419-719c-4f73-91e4-210b196666ad:MRN2/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Baltimore 1 (D)" group-title="News",CBS News Baltimore 1 (D)
+https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%229419fb8a-5bca-4f74-a5c4-321c256d88ce%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Baltimore 2 (D)" group-title="News",CBS News Baltimore 2 (D)
+https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/b95dcd84-1e27-4f7f-bcd2-2a4fbd1a8795:TUL/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Bay Area 1 (D)" group-title="News",CBS News Bay Area 1 (D)
+https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%225f983ce3-1309-42c6-bace-00e6bffc20a1%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Bay Area 2 (D) " group-title="News",CBS News Bay Area 2 (D)
+https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/742d87dc-ea1c-449d-b73c-bd3d97ceaffd:CBF2/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Boston 1 (D) " group-title="News",CBS News Boston 1 (D)
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%224b4a2929-2480-489d-bf4c-dae25e50c5b7%22%2Csu 
+#EXTINF:-1 tvg-name="CBS News Boston 2 (D)" group-title="News",CBS News Boston 2 (D)
+https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/cf1f1a2c-d539-432b-9c31-9a5351253e08:CHS/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Chicago 1 (D)" group-title="News",CBS News Chicago 1 (D)
+https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/32f7319e-feaf-4153-a7ce-b689b3c1dbb2:ATL/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Chicago 2 (D)" group-title="News",CBS News Chicago 2 (D)
+https://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22e4a274ce-326e-4f60-a9ff-ce7d36540a4f%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Colorado 1 (D) " group-title="News",CBS News Colorado 1 (D)
+https://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22b9ed41d6-60d3-4117-8ade-5442aab9c234%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Colorado 2 (D)" group-title="News",CBS News Colorado 2 (D)
+https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/b35c338b-6291-4bda-a613-54ddee81627f:ATL/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Detroit 1 (D)" group-title="News",CBS News Detroit 1 (D)
+https://dai.google.com/linear/hls/event/xnyAMOsfSV2J1b-A3nROFQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%2231828b0a-33ec-4811-9166-50e08159221f%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Detroit 2 (D)" group-title="News",CBS News Detroit 2 (D)
+https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/a59e7240-10b5-4ef4-9235-fe3ee6c0581b:TUL/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Los Angeles 1 (D)" group-title="News",CBS News Los Angeles 1 (D)
+https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22efd17af6-83aa-4c31-bfda-d439953761ce%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Los Angeles 2 (D)" group-title="News",CBS News Los Angeles 2 (D)
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/a992e647-1f4e-4194-9e2e-74c5d1a6a33f:MRN2/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Miami 1 (D)" group-title="News",CBS News Miami 1 (D)
+https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22259ebc56-3f06-458b-a8cd-f4bc631b1fe2%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Miami 2 (D)" group-title="News",CBS News Miami 2 (D)
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/1a8cc3ff-b4e4-4497-934a-046ef479c14b:TUL/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Minnesota 1 (D)" group-title="News",CBS News Minnesota 1 (D)
+https://dai.google.com/linear/hls/event/c0XucO32RNKG8oeQ351a4Q/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22930e7dc4-8564-4a58-a2d4-695ec9b4b8bb%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Minnesota 2 (D)" group-title="News",CBS News Minnesota 2 (D)
+https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/06c6e059-89dd-494a-929b-3c1a76ab0bc7:CBF2/master.m3u8
+#EXTINF:-1 tvg-name="CBS News New York 1 (D)" group-title="News",CBS News New York 1 (D)
+https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22863058ce-a380-4187-800a-b5dbd636ee35%22%2Csu
+#EXTINF:-1 tvg-name="CBS News New York 2 (D)" group-title="News",CBS News New York 2 (D)
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/11e50cb0-c4af-4a52-9ff4-d4a362ca3938:DLS/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Philadelphia 1 (D)" group-title="News",CBS News Philadelphia 1 (D)
+https://dai.google.com/linear/hls/event/R2Kw0uvnQIW7fUmOseurzA/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22fd63d32c-0393-495b-a329-64aa23d126dc%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Philadelphia 2 (D)" group-title="News",CBS News Philadelphia 2 (D)
+https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/700e5058-adea-4617-9e4f-f03dbcccb8f3:MRN2/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Pittsburgh 1 (D)" group-title="News",CBS News Pittsburgh 1 (D)
+https://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22a61d745c-2219-444a-b833-96421454c9b7%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Pittsburgh 2 (D)" group-title="News",CBS News Pittsburgh 2 (D)
+https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/95ec8248-cb7a-4b36-8055-2cf03385a717:CHS/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Sacramento 1 (D)" group-title="News",CBS News Sacramento 1 (D)
+https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22a8f2ade4-4038-4061-9c75-28d7a5187ff6%22%2Csu
+#EXTINF:-1 tvg-name="CBS News Sacramento 2 (D)" group-title="News",CBS News Sacramento 2 (D)
+https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/79ba7943-c9a1-4cf1-8315-2fdde6e39b87:CBF2/master.m3u8
+#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 1 (D)" group-title="News",CBS News Texas 1 (D)
+https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%229903af2c-8961-47c0-a8da-034d25664940%22%2Csu
+#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 2 (D)" group-title="News",CBS News Texas 2 (D)
+https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/f2a2ff9b-9c38-4ce3-93d8-11d129b15933:TUL/master.m3u8
 
 
 ==================================================
