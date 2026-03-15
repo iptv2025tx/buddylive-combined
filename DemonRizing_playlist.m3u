@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-14T23:18:51.521148 UTC
+# Generated on 2026-03-15T01:24:17.929273 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -11,62 +11,62 @@
 #EXTGRP:x Roxiestreams
 
 #GROUP:Baseball
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Arizona Diamondbacks vs San Francisco Giants
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Detroit Tigers vs Toronto Blue Jays
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Mets vs Houston Astros
 https://601.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Detroit Tigers vs Toronto Blue Jays
+https://601.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Boston Red Sox vs Atlanta Braves
 https://601.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Puerto Rico vs Italy
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Pittsburgh Pirates
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Arizona Diamondbacks vs San Francisco Giants
+https://601.xn--1000-ugoa0hsb9a0hb.com/mlb7.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Los Angeles Dodgers vs Chicago White Sox
 https://601.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Pittsburgh Pirates
+https://601.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Puerto Rico vs Italy
+https://601.xn--1000-ugoa0hsb9a0hb.com/mlb8.m3u8
 
 #GROUP:Basketball
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Sacramento Kings vs Los Angeles Clippers
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 
 #GROUP:Hockey
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Carolina Hurricanes vs Tampa Bay Lightning
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Seattle Kraken vs Vancouver Canucks
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl13.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",New York Rangers vs Minnesota Wild
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Pittsburgh Penguins vs Utah Mammoth
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl12.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Calgary Flames vs New York Islanders
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl9.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Chicago Blackhawks vs Vegas Golden Knights
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl14.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Columbus Blue Jackets vs Philadelphia Flyers
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl10.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Colorado Avalanche vs Winnipeg Jets
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Buffalo Sabres
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Los Angeles Kings vs New Jersey Devils
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl8.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Detroit Red Wings vs Dallas Stars
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl11.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Calgary Flames vs New York Islanders
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl9.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Boston Bruins vs Washington Capitals
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Anaheim Ducks vs Ottawa Senators
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",New York Rangers vs Minnesota Wild
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",San Jose Sharks vs Montreal Canadiens
 https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Los Angeles Kings vs New Jersey Devils
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl8.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Colorado Avalanche vs Winnipeg Jets
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Seattle Kraken vs Vancouver Canucks
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl13.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Boston Bruins vs Washington Capitals
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Carolina Hurricanes vs Tampa Bay Lightning
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Detroit Red Wings vs Dallas Stars
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl11.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Anaheim Ducks vs Ottawa Senators
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
 
 #GROUP:General Sports
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR O'Reilly Auto Parts Series - Race
-https://601.xn--1000-ugoa0hsb9a0hb.com/nascar.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Indycar Series
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Indycar Series - Qualifying
 https://602.xn--1000-ugoa0hsb9a0hb.com/indycar.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Interstate Batteries High Limit - Race
 https://602.xn--1000-ugoa0hsb9a0hb.com/flo.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR O'Reilly Auto Parts Series - Race
+https://601.xn--1000-ugoa0hsb9a0hb.com/nascar.m3u8
 
 
 ==================================================
@@ -8086,26 +8086,26 @@ http://12.186.20.98:5004/auto/v5.4
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit - LA" group-title="Westerns",Grit - LA
 http://12.186.20.98:5004/auto/v5.5
 
-#GROUP:Entertainment - ENG
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - LA" group-title="Entertainment - ENG",Oxygen True Crime - LA
+#GROUP:Entertainment
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - LA" group-title="Entertainment",Oxygen True Crime - LA
 http://12.186.20.98:5004/auto/v5.6
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - LA" group-title="Entertainment - ENG",365BLK - LA
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - LA" group-title="Entertainment",365BLK - LA
 http://12.186.20.98:5004/auto/v5.7
-#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey" group-title="Entertainment - ENG",Nosey
+#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey" group-title="Entertainment",Nosey
 http://12.186.20.98:5004/auto/v29.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - LA" group-title="Entertainment - ENG",ION Plus - LA
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - LA" group-title="Entertainment",ION Plus - LA
 http://12.186.20.98:5004/auto/v29.5
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey" group-title="Entertainment - ENG",Confess by Nosey
+#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey" group-title="Entertainment",Confess by Nosey
 http://12.186.20.98:5004/auto/v29.6
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV - LA" group-title="Entertainment - ENG",meTV - LA
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV - LA" group-title="Entertainment",meTV - LA
 http://12.186.20.98:5004/auto/v30.3
-#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I - LA" group-title="Entertainment - ENG",H&I - LA
+#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I - LA" group-title="Entertainment",H&I - LA
 http://12.186.20.98:5004/auto/v41.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - LA" group-title="Entertainment - ENG",Antenna TV - LA
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - LA" group-title="Entertainment",Antenna TV - LA
 http://12.186.20.98:5004/auto/v41.2
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - LA" group-title="Entertainment - ENG",Start TV - LA
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - LA" group-title="Entertainment",Start TV - LA
 http://12.186.20.98:5004/auto/v41.3
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - LA" group-title="Entertainment - ENG",Cozi TV - LA
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - LA" group-title="Entertainment",Cozi TV - LA
 http://12.186.20.98:5004/auto/v41.4
 
 #GROUP:Local - FOX
