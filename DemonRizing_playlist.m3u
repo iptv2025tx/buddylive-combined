@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-15T18:26:08.894471 UTC
+# Generated on 2026-03-15T19:21:41.882472 UTC
 
 #PLAYLIST:x liveeventsfilter
 #EXTGRP:x liveeventsfilter
@@ -12,41 +12,41 @@
 
 #GROUP:General Sports
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR Cup Series - Race
-https://601.xn--1000-ugoa0hsb9a0hb.com/nascar.m3u8
+https://601.serverbandel.sbs/nascar.m3u8
 
 #GROUP:Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",WBC
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Minnesota Twins vs Boston Red Sox
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Baltimore Orioles
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb7.m3u8
+https://601.serverbandel.sbs/mlb8.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Diego Padres vs Arizona Diamondbacks
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb6.m3u8
+https://601.serverbandel.sbs/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Minnesota Twins vs Boston Red Sox
+https://601.serverbandel.sbs/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Detroit Tigers vs New York Yankees
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb3.m3u8
+https://601.serverbandel.sbs/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
+https://601.serverbandel.sbs/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Toronto Blue Jays vs New York Mets
-https://601.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
+https://601.serverbandel.sbs/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Baltimore Orioles
+https://601.serverbandel.sbs/mlb7.m3u8
 
 #GROUP:Basketball
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Utah Jazz vs Sacramento Kings
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
+https://daffodil.serverbandel.sbs/nba7.m3u8
 
 #GROUP:Hockey
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",St. Louis Blues vs Winnipeg Jets
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Florida Panthers vs Seattle Kraken
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",San Jose Sharks vs Ottawa Senators
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Anaheim Ducks vs Montreal Canadiens
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Minnesota Wild
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8
+https://602.serverbandel.sbs/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Florida Panthers vs Seattle Kraken
+https://602.serverbandel.sbs/nhl6.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Nashville Predators vs Edmonton Oilers
-https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8
+https://602.serverbandel.sbs/nhl5.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Minnesota Wild
+https://602.serverbandel.sbs/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",St. Louis Blues vs Winnipeg Jets
+https://602.serverbandel.sbs/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Anaheim Ducks vs Montreal Canadiens
+https://602.serverbandel.sbs/nhl3.m3u8
 
 
 ==================================================
